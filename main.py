@@ -1,6 +1,5 @@
 from scraper import popular_movies, score
 import toml
-import json
 import logging
 import random
 from utils import DateTimeEncoder
@@ -13,11 +12,12 @@ watchlist_path = "res/watchlist.toml"
 measures_path = "res/measures.jsonl"
 nb_query = 15
 
+
 class Watchlist:
     def __init__(self, path):
         self.path = path
         self.watchlist = toml.load(path)
-        
+
     def save(self):
         self.watchlist["movies"] = set(self.watchlist["movies"])
         with open(self.path, "w") as f:
@@ -27,7 +27,7 @@ class Watchlist:
     def add(self, movieid):
         log.info(f"adding {movieid} to watchlist")
         self.watchlist["movies"].append(movieid)
-    
+
     def add_multiple(self, movieids):
         log.info(f"adding {movieids} to watchlist")
         self.watchlist["movies"].extend(movieids)
@@ -40,6 +40,7 @@ class Watchlist:
         log.info("shuffling watchlist")
         random.shuffle(self.watchlist)
 
+
 class Measures:
     def __init__(self, path):
         self.path = path
@@ -50,21 +51,21 @@ class Measures:
         m = score(movieid)
         self.measures.append(m)
         return m
-    
+
     def append_to_file(self):
         with open(self.path, "a+") as f:
             log.info(f"adding {len(self.measures)} new measures")
             for measure in self.measures:
                 ser = DateTimeEncoder().encode(measure)
-                #ser = json.dumps(measure)
+                # ser = json.dumps(measure)
                 f.writelines(ser + "\n")
 
-if __name__ == "__main__":
 
+if __name__ == "__main__":
     log.info("hello")
-    #load watchlist
+    # load watchlist
     wl = Watchlist(watchlist_path)
-    m = Measures(measures_path )
+    m = Measures(measures_path)
 
     # get popular movies
     new_movies = popular_movies()
@@ -81,7 +82,7 @@ if __name__ == "__main__":
     wl.add_multiple(new_movies)
 
     # shuffle list
-    wl.shuffle() 
+    wl.shuffle()
 
     wl.save()
     m.append_to_file()
