@@ -9,7 +9,8 @@ def score(movie):
     """
     Get the score of a movie.
 
-    If the movies doesn't have a score given by letterboxd, computes one from the individual notes given.
+    If the movies doesn't have a score given by letterboxd,
+    computes one from the individual notes given.
     """
 
     # get page
@@ -39,7 +40,8 @@ def score(movie):
 
 def clean_str(s, timestamp):
     """
-    Goes from `Weighted average of 4.08 based on 222,119 ratings` to `{'rating': 4.08, 'count': 222386}`
+    Goes from `Weighted average of 4.08 based on 222,119 ratings`
+    to `{'rating': 4.08, 'count': 222386}`
     """
     toks = s.split(" ")
     rating = float(toks[3])
