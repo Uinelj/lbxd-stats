@@ -1,4 +1,4 @@
-from scraper import popular_movies, score
+from scraper import popular_movies, score, PopularPeriod, popular_movies_v2
 import toml
 import logging
 import random
@@ -94,6 +94,10 @@ if __name__ == "__main__":
 
     # get popular movies
     new_movies = popular_movies()
+    new_movies.extend(popular_movies_v2(PopularPeriod.Week))
+    new_movies.extend(popular_movies_v2(PopularPeriod.Month))
+    new_movies.extend(popular_movies_v2(PopularPeriod.Year))
+    new_movies.extend(popular_movies_v2(PopularPeriod.AllTime))
 
     # query measures for new movies
     for movieid in new_movies:

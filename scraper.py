@@ -1,4 +1,5 @@
 import requests
+from enum import Enum
 from bs4 import BeautifulSoup
 from datetime import datetime
 
@@ -89,3 +90,28 @@ def popular_movies():
         ]  # move from /film/bienvenue/ to bienvenue
         movies.append(movieid)
     return movies
+
+
+class PopularPeriod(Enum):
+    AllTime = ""
+    Year = "this/year"
+    Month = "this/month"
+    Week = "this/week"
+
+
+def popular_movies_v2(period: PopularPeriod):
+    """get popular movies from the popular page"""
+    url = f"https://letterboxd.com/films/ajax/popular/{period.value}"
+    r = requests.get(url)
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    movies = list()
+    for movie in soup.select_one(".poster-list").findAll("div"):
+        movieid = movie["data-film-slug"][
+            6:-1
+        ]  # move from /film/bienvenue/ to bienvenue
+        movies.append(movieid)
+    return movies
+
+
+print(popular_movies_v2(PopularPeriod.Year))
