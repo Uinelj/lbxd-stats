@@ -27,6 +27,7 @@ def score(movie):
         # clean string to extract rating/count
         metrics = clean_str(avg_str, now)
         metrics["movie"] = movie
+        metrics["computed"] = False
         return metrics
 
     except TypeError:
@@ -34,6 +35,7 @@ def score(movie):
         metrics = compute_score(soup)
         metrics["timestamp"] = now
         metrics["movie"] = movie
+        metrics["computed"] = True
 
         return metrics
 
