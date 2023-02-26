@@ -4,3 +4,4 @@ toml
 polars
 plotly
 pyarrow
+statsmodels
