@@ -1,5 +1,5 @@
 from scraper import popular_movies, score, PopularPeriod, popular_movies_v2
-import toml
+import json
 import logging
 import random
 from utils import DateTimeEncoder
@@ -8,7 +8,7 @@ from utils import DateTimeEncoder
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
 
-watchlist_path = "res/watchlist.toml"
+watchlist_path = "res/watchlist.json"
 measures_path = "res/measures.jsonl"
 
 # we want to have everything updated at least once a week (=168h)
@@ -36,30 +36,31 @@ prob_query = update_period / full_update_period
 class Watchlist:
     def __init__(self, path):
         self.path = path
-        self.watchlist = toml.load(path)
+        with open(self.path) as f:
+            self.watchlist = json.load(f)
         log.info(f"watchlist len: {len(self)}")
 
     def save(self):
-        len(self.watchlist["movies"])
-        self.watchlist["movies"] = set(self.watchlist["movies"])
+        len(self.watchlist)
+        self.watchlist = set(self.watchlist)
         log.info(f"watchlist len: {len(self)}")
-        len(self.watchlist["movies"])
+        len(self.watchlist)
         with open(self.path, "w") as f:
-            toml.dump(self.watchlist, f)
+            json.dump(list(self.watchlist), f, indent=2)
 
     def add(self, movieid):
         log.info(f"adding {movieid} to watchlist")
-        self.watchlist["movies"].append(movieid)
+        self.watchlist.append(movieid)
 
     def add_multiple(self, movieids):
-        self.watchlist["movies"].extend(movieids)
+        self.watchlist.extend(movieids)
 
     def getn(self, n):
         log.info(f"getting {n} movies from watchlist")
-        return self.watchlist["movies"][:n]
+        return self.watchlist[:n]
 
     def __len__(self):
-        return len(self.watchlist["movies"])
+        return len(self.watchlist)
 
     def shuffle(self):
         log.info("shuffling watchlist")
@@ -98,6 +99,8 @@ if __name__ == "__main__":
     new_movies.extend(popular_movies_v2(PopularPeriod.Month))
     new_movies.extend(popular_movies_v2(PopularPeriod.Year))
     new_movies.extend(popular_movies_v2(PopularPeriod.AllTime))
+
+    # TODO: ensure that new movies were not yet present
 
     # query measures for new movies
     for movieid in new_movies:

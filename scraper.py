@@ -2,6 +2,9 @@ import requests
 from enum import Enum
 from bs4 import BeautifulSoup
 from datetime import datetime
+import logging
+
+log = logging.getLogger(__name__)
 
 LBXD_BASEURL = "https://letterboxd.com/csi/film/{movie}/rating-histogram/"
 
@@ -13,6 +16,7 @@ def score(movie):
     If the movies doesn't have a score given by letterboxd,
     computes one from the individual notes given.
     """
+    log.info(f"Getting score for {movie}")
 
     # get page
     url = LBXD_BASEURL.format(movie=movie)
@@ -101,6 +105,7 @@ class PopularPeriod(Enum):
 
 def popular_movies_v2(period: PopularPeriod):
     """get popular movies from the popular page"""
+    log.info(f"Getting popular movies for {period.value}")
     url = f"https://letterboxd.com/films/ajax/popular/{period.value}"
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
