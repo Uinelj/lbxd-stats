@@ -1,6 +1,9 @@
 import polars as pl
 import plotly.express as px
 from datetime import datetime
+import logging
+
+log = logging.getLogger(__name__)
 
 MEASURES = "res/measures.jsonl"
 
@@ -11,12 +14,27 @@ def extract_movie(df, movieid):
     return ratings
 
 
+def movie_iter(measures_path):
+    pl.scan_ndjson(MEASURES)
+
+
 if __name__ == "__main__":
     df = pl.scan_ndjson(MEASURES)
+
     df = df.with_columns(pl.col("timestamp").apply(lambda x: datetime.fromisoformat(x)))
-    ratings = extract_movie(df, "inside-2023").collect()
-    fig = px.scatter(ratings.to_pandas(), x="timestamp", y="rating", trendline="lowess")
-    fig.show()
-    #pl.Config.set_tbl_rows(500)
-    #print(df.sort("movie").collect())
-    # print(df.collect())
+    # go form one rating per row to one movie
+    # per row (aggregating scores, timestamps and counts)
+    by_movie = (
+        df.groupby(pl.col("movie")).agg(
+            [pl.col("rating"), pl.col("timestamp"), pl.col("count")]
+        )
+    ).collect()
+
+    nb_movies = by_movie.select(pl.count())[0, 0]
+
+    for idx, foo in enumerate(by_movie.rows(named=True)):
+        movie = foo["movie"]
+        fig = px.scatter(x=foo["timestamp"], y=foo["rating"], trendline="lowess")
+        log.info(f"writing graph ({idx}/{nb_movies}): {movie}")
+        with open(f"res/graph_data/{movie}.json", "w") as f:
+            f.write(fig.to_json())
