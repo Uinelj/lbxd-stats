@@ -100,6 +100,8 @@ if __name__ == "__main__":
     new_movies.extend(popular_movies_v2(PopularPeriod.Year))
     new_movies.extend(popular_movies_v2(PopularPeriod.AllTime))
 
+    # convert to set to remove duplicates
+    new_movies = set(new_movies)
     # TODO: ensure that new movies were not yet present
 
     # query measures for new movies
@@ -110,7 +112,7 @@ if __name__ == "__main__":
 
     nb_query = int(prob_query * len(wl))
     if nb_query < min_number_updates:
-        log.info(f"computed query number too short, using {min_number_updates}.")
+        log.info(f"computed query number too short ({nb_query}), using {min_number_updates}.")
         nb_query = min_number_updates
     log.info(f"updating {nb_query} movies")
     for movieid in wl.getn(nb_query):
