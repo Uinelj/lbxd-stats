@@ -52,6 +52,9 @@ class Watchlist:
         log.info(f"adding {movieid} to watchlist")
         self.watchlist.append(movieid)
 
+    def contains(self, movieid):
+        return movieid in self.watchlist
+
     def add_multiple(self, movieids):
         self.watchlist.extend(movieids)
 
@@ -104,15 +107,17 @@ if __name__ == "__main__":
     new_movies = set(new_movies)
     # TODO: ensure that new movies were not yet present
 
-    # query measures for new movies
-    for movieid in new_movies:
+    # query measures for new movies that are not yet watchlisted
+    for movieid in filter(lambda newmovie: not wl.contains(newmovie), new_movies):
+        log.info(f"New movie monitored: {movieid}")
         m.query_add(movieid)
 
     # query measures for old movies
-
     nb_query = int(prob_query * len(wl))
     if nb_query < min_number_updates:
-        log.info(f"computed query number too short ({nb_query}), using {min_number_updates}.")
+        log.info(
+            f"computed query number too short ({nb_query}), using {min_number_updates}."
+        )
         nb_query = min_number_updates
     log.info(f"updating {nb_query} movies")
     for movieid in wl.getn(nb_query):
