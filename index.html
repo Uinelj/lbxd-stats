@@ -64,7 +64,7 @@
       };
       const resp = await fetch(wl_url, options)
         .then(res => res.json());
-      return resp;
+      return resp.sort();
       // console.log(resp);
       // resp.forEach(element => {
       //   get_graph(element);
