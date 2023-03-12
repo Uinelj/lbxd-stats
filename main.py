@@ -129,5 +129,9 @@ if __name__ == "__main__":
     # shuffle list
     wl.shuffle()
 
+    # save watchlist and measures
     wl.save()
     m.append_to_file()
+
+    # gen graph info
+    front.gen_graph_info()
