@@ -14,11 +14,28 @@
     import "https://cdn.plot.ly/plotly-2.18.2.min.js"
     Plotly.newPlot("gd", [{ y: [1, 2, 3] }])
   </script>
+  <script>
+    function change_graph() {
+      const val = document.getElementById("movies").value;
+      get_graph(val)
+    }
+  </script>
 
+
+  <div>
+    <!-- <form action="/action_page.php"> -->
+    <label for="cars">Available movies:</label>
+    <select onchange="change_graph()" id="movies" name="movies">
+    </select>
+    <!-- </form> -->
+  </div>
+  <div id="gd">
+
+  </div>
   <script>
 
     async function get_graph(movieid) {
-      const url = `https://uinelj-psychic-dollop-q449jxrx57366w9-8081.preview.app.github.dev/res/graph_data/${movieid}.json`;
+      const url = `https://uinelj-psychic-dollop-q449jxrx57366w9-8080.preview.app.github.dev/res/graph_data/${movieid}.json`;
       var options = {
         method: 'GET',
         //mode: 'cors',
@@ -30,11 +47,13 @@
       const resp = await fetch(url, options)
         //.then(res=> console.log(res)  )
         .then(res => res.json());
-        Plotly.newPlot("gd", resp);
+      Plotly.newPlot("gd", resp);
     }
+
+    // get 
     async function get_watchlist() {
       //const wl_url = "https://raw.githubusercontent.com/Uinelj/lbxd-stats/main/res/watchlist.json"
-      const wl_url = "https://uinelj-psychic-dollop-q449jxrx57366w9-8081.preview.app.github.dev/res/watchlist.json";
+      const wl_url = "https://uinelj-psychic-dollop-q449jxrx57366w9-8080.preview.app.github.dev/res/watchlist.json";
       var options = {
         method: 'GET',
         //mode: 'cors',
@@ -45,17 +64,27 @@
       };
       const resp = await fetch(wl_url, options)
         .then(res => res.json());
-      console.log(resp);
-      resp.forEach(element => {
-        get_graph(element);
-      });
+      return resp;
+      // console.log(resp);
+      // resp.forEach(element => {
+      //   get_graph(element);
+      // });
     }
 
-    get_watchlist();
-  </script>
-  <div id="gd">
+    async function create_select_list(resp) {
+      const select = document.getElementById("movies");
+      resp.then(resp => resp.forEach(element => {
+        var opt = document.createElement('option');
+        opt.value = element;
+        opt.innerHTML = element;
+        select.appendChild(opt);
+      }));
+    }
+    const movies = get_watchlist();
+    console.log(movies);
+    create_select_list(movies);
 
-  </div>
+  </script>
 </body>
 
 </html>
