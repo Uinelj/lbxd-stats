@@ -34,12 +34,15 @@ def gen_graph_info():
 
     for idx, foo in enumerate(by_movie.rows(named=True)):
         movie = foo["movie"]
-        fig = px.line(x=foo["timestamp"], y=foo["rating"], title=movie, text=foo["rating"])
+        fig = px.line(
+            x=foo["timestamp"], y=foo["rating"], title=movie, text=foo["rating"]
+        )
         fig.update_traces(textposition="bottom right")
 
         log.info(f"writing graph ({idx}/{nb_movies}): {movie}")
         with open(f"res/graph_data/{movie}.json", "w") as f:
             f.write(fig.to_json(pretty=True))
+
 
 if __name__ == "__main__":
     gen_graph_info()

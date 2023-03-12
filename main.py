@@ -1,4 +1,5 @@
 from scraper import popular_movies, score, PopularPeriod, popular_movies_v2
+import front
 import json
 import logging
 import random
