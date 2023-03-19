@@ -79,8 +79,10 @@ class Measures:
 
     def query_add(self, movieid):
         m = score(movieid)
-        self.measures.append(m)
-        return m
+
+        if m is not None:
+            self.measures.append(m)
+            return m
 
     def append_to_file(self):
         with open(self.path, "a+") as f:

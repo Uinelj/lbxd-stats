@@ -28,7 +28,10 @@ def score(movie):
 
     # try to get averaged score
     try:
-        avg_str = soup.select_one(".display-rating")["title"]
+        avg_str = soup.select_one(".display-rating")
+        if avg_str is None:
+            return None
+        avg_str = avg_str["title"]
         # clean string to extract rating/count
         metrics = clean_str(avg_str, now)
         metrics["movie"] = movie
@@ -43,6 +46,10 @@ def score(movie):
         metrics["computed"] = True
 
         return metrics
+
+    except AttributeError:
+        # prolly no rating
+        return None
 
 
 def clean_str(s, timestamp):
@@ -103,10 +110,10 @@ class PopularPeriod(Enum):
     Week = "this/week"
 
 
-def popular_movies_v2(period: PopularPeriod):
+def popular_movies_v2(period: PopularPeriod, page: int = 1):
     """get popular movies from the popular page"""
-    log.info(f"Getting popular movies for {period.value}")
-    url = f"https://letterboxd.com/films/ajax/popular/{period.value}"
+    log.info(f"Getting popular movies for {period.value} (page {page})")
+    url = f"https://letterboxd.com/films/ajax/popular/{period.value}/page/{page}"
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
 
