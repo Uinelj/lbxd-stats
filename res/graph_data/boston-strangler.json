@@ -15,17 +15,14 @@
       "orientation": "v",
       "showlegend": false,
       "text": [
-        3.55,
-        3.55
+        3.06
       ],
       "x": [
-        "2023-03-19T19:35:08.928977",
-        "2023-03-21T12:32:54.508503"
+        "2023-03-21T12:32:47.444198"
       ],
       "xaxis": "x",
       "y": [
-        3.55,
-        3.55
+        3.06
       ],
       "yaxis": "y",
       "type": "scatter",
@@ -873,7 +870,7 @@
       "tracegroupgap": 0
     },
     "title": {
-      "text": "zombieland"
+      "text": "boston-strangler"
     }
   }
 }
