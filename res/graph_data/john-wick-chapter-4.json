@@ -15,17 +15,14 @@
       "orientation": "v",
       "showlegend": false,
       "text": [
-        3.74,
-        3.74
+        4.21
       ],
       "x": [
-        "2023-03-19T19:33:36.943370",
-        "2023-03-21T12:33:06.675779"
+        "2023-03-25T01:23:41.189825"
       ],
       "xaxis": "x",
       "y": [
-        3.74,
-        3.74
+        4.21
       ],
       "yaxis": "y",
       "type": "scatter",
@@ -873,7 +870,7 @@
       "tracegroupgap": 0
     },
     "title": {
-      "text": "nocturnal-animals"
+      "text": "john-wick-chapter-4"
     }
   }
 }
