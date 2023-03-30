@@ -10,19 +10,22 @@
       "marker": {
         "symbol": "circle"
       },
-      "mode": "markers+text+lines",
+      "mode": "markers+lines+text",
       "name": "",
       "orientation": "v",
       "showlegend": false,
       "text": [
-        3.87
+        3.87,
+        3.88
       ],
       "x": [
-        "2023-03-19T19:33:16.680797"
+        "2023-03-19T19:33:16.680797",
+        "2023-03-30T12:36:47.826482"
       ],
       "xaxis": "x",
       "y": [
-        3.87
+        3.87,
+        3.88
       ],
       "yaxis": "y",
       "type": "scatter",
