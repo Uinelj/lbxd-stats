@@ -1,9 +1,7 @@
 from scraper import popular_movies, score, PopularPeriod, popular_movies_v2
 from movie_info import MovieInfo
 import front
-import json
 import logging
-import random
 from utils import DateTimeEncoder
 from watchlist import Watchlist
 
