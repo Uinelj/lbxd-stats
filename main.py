@@ -1,5 +1,5 @@
 from scraper import popular_movies, score, PopularPeriod, popular_movies_v2
-from movie_info import MovieInfo
+from movie_info import MovieInfo, MovieNotFound
 import front
 import logging
 from utils import DateTimeEncoder
@@ -8,7 +8,7 @@ from watchlist import Watchlist
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
 
-watchlist_path = "res/watchlist.json"
+watchlist_path = "res/watchlist_new.json"
 measures_path = "res/measures.jsonl"
 
 # we want to have everything updated at least once a week (=168h)
@@ -95,10 +95,19 @@ if __name__ == "__main__":
         updated_movies.append(movieid)
 
     # add new movies to watchlist
+    def getid(movie):
+        try:
+            movie_title = mi.get_update(movie)["title"]
+        except MovieNotFound:
+            movie_title = movie
+        return (movie, movie_title)
+
+    pop_movies = map(lambda movie: getid(movie), pop_movies)
+
     wl.add_multiple(pop_movies)
 
     # shuffle list
-    wl.shuffle()
+    # wl.shuffle()
 
     # save watchlist and measures
     wl.save()

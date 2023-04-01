@@ -14,29 +14,31 @@ class Watchlist:
 
     def save(self):
         len(self.watchlist)
-        self.watchlist = set(self.watchlist)
+        # self.watchlist = set(self.watchlist)
         log.info(f"watchlist len: {len(self)}")
-        len(self.watchlist)
         with open(self.path, "w") as f:
-            json.dump(list(self.watchlist), f, indent=2)
+            json.dump(self.watchlist, f, indent=2)
 
-    def add(self, movieid):
+    def add(self, movieid, movie_title):
         log.info(f"adding {movieid} to watchlist")
-        self.watchlist.append(movieid)
+        self.watchlist[movieid] = movie_title
 
     def contains(self, movieid):
-        return movieid in self.watchlist
+        return movieid in self.watchlist.keys()
 
-    def add_multiple(self, movieids):
-        self.watchlist.extend(movieids)
+    def add_multiple(self, movies):
+        for movie_id, movie_title in movies:
+            self.watchlist[movie_id] = movie_title
 
     def getn(self, n):
         log.info(f"getting {n} movies from watchlist")
-        return self.watchlist[:n]
+        l = list(self.watchlist)
+        random.shuffle(l)
+        return l[:n]
 
     def __len__(self):
         return len(self.watchlist)
 
-    def shuffle(self):
-        log.info("shuffling watchlist")
-        random.shuffle(self.watchlist)
+    # def shuffle(self):
+    #     log.info("shuffling watchlist")
+    #     random.shuffle(self.watchlist)

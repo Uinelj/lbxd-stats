@@ -45,6 +45,16 @@ class MovieInfo:
         log.info(f"results for movie {movieid}: {results}")
         return results[0]
 
+    def get_update(self, movieid):
+        """
+        get from db OR call refresh()
+        """
+        try:
+            with open(self.data_dir / f"{movieid}.json") as f:
+                return json.load(f)
+        except FileNotFoundError:
+            return self.refresh(movieid)
+
     def refresh(self, movie):
         """
         refresh a movie
@@ -62,7 +72,7 @@ class MovieInfo:
             if movie_date_removed != movie_rm_spaces:
                 movie_tmdb = self.movie.search(movie_date_removed)
 
-            # if we still have no results 
+            # if we still have no results
             # (or still haven't updated movie_tmdb value), raise
             if len(movie_tmdb) == 0:
                 raise MovieNotFound
@@ -71,6 +81,8 @@ class MovieInfo:
         log.debug(f"{movie}, {movie_tmdb[0].title}, {movie_tmdb[0].id}")
         with open(self.data_dir / f"{movie}.json", "w") as f:
             json.dump(dict(movie_tmdb[0]), f, indent=2)
+
+        return movie_tmdb[0]
 
     def refresh_all(self, wl_path):
         """
