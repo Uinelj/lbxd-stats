@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/9BcwaJWXqHXV5D76I7ZOepFCoFk.jpg",
+  "genre_ids": [
+    18,
+    53
+  ],
+  "id": 1700,
+  "original_language": "en",
+  "original_title": "Misery",
+  "overview": "Novelist Paul Sheldon crashes his car on a snowy Colorado road. He is found by Annie Wilkes, the \"number one fan\" of Paul's heroine Misery Chastaine. Annie is also dangerously unstable, and Paul finds himself crippled, drugged, and at her mercy.",
+  "popularity": 18.053,
+  "poster_path": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+  "release_date": "1990-11-30",
+  "title": "Misery",
+  "video": false,
+  "vote_average": 7.756,
+  "vote_count": 3983
+}

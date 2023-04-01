@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+  "genre_ids": [
+    878,
+    28,
+    12
+  ],
+  "id": 624860,
+  "original_language": "en",
+  "original_title": "The Matrix Resurrections",
+  "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+  "popularity": 109.58,
+  "poster_path": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+  "release_date": "2021-12-16",
+  "title": "The Matrix Resurrections",
+  "video": false,
+  "vote_average": 6.539,
+  "vote_count": 4647
+}

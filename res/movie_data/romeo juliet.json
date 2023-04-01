@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/m0miV65ZZIp13TNHJSRUF6vmCos.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 454,
+  "original_language": "en",
+  "original_title": "Romeo + Juliet",
+  "overview": "In director Baz Luhrmann's contemporary take on William Shakespeare's classic tragedy, the Montagues and Capulets have moved their ongoing feud to the sweltering suburb of Verona Beach, where Romeo and Juliet fall in love and secretly wed. Though the film is visually modern, the bard's dialogue remains.",
+  "popularity": 28.251,
+  "poster_path": "/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+  "release_date": "1996-11-01",
+  "title": "Romeo + Juliet",
+  "video": false,
+  "vote_average": 6.798,
+  "vote_count": 4516
+}

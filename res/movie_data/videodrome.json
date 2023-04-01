@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/kIQszOniJOd1ULFUfdk4yDR0W5c.jpg",
+  "genre_ids": [
+    27,
+    9648,
+    878
+  ],
+  "id": 837,
+  "original_language": "en",
+  "original_title": "Videodrome",
+  "overview": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+  "popularity": 13.302,
+  "poster_path": "/w5bqL9IiGIH0g4oq7ExFEq4KSl4.jpg",
+  "release_date": "1983-02-04",
+  "title": "Videodrome",
+  "video": false,
+  "vote_average": 7.298,
+  "vote_count": 1843
+}

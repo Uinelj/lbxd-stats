@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/o0ghC4XMIMdbRBXIqSvnPrxwj3W.jpg",
+  "genre_ids": [
+    10749,
+    18
+  ],
+  "id": 258480,
+  "original_language": "en",
+  "original_title": "Carol",
+  "overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
+  "popularity": 14.535,
+  "poster_path": "/A8JV3ockAvWOXmcNZyAGqlyTTBw.jpg",
+  "release_date": "2015-11-20",
+  "title": "Carol",
+  "video": false,
+  "vote_average": 7.485,
+  "vote_count": 3314
+}

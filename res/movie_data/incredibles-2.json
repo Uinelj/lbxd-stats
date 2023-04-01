@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+  "genre_ids": [
+    28,
+    12,
+    16,
+    10751
+  ],
+  "id": 260513,
+  "original_language": "en",
+  "original_title": "Incredibles 2",
+  "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet \u2013 taking care of the problems of his three children.",
+  "popularity": 70.616,
+  "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+  "release_date": "2018-06-14",
+  "title": "Incredibles 2",
+  "video": false,
+  "vote_average": 7.49,
+  "vote_count": 11657
+}

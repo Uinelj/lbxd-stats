@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/254iY5CzFzjnjkP0lUkLpOLvXar.jpg",
+  "genre_ids": [
+    53,
+    18,
+    80
+  ],
+  "id": 881164,
+  "original_language": "en",
+  "original_title": "Boston Strangler",
+  "overview": "Reporters Loretta McLaughlin and Jean Cole bravely pursue the story of the Boston Strangler at great personal risk, putting their own lives on the line in their quest to uncover the truth.",
+  "popularity": 248.463,
+  "poster_path": "/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg",
+  "release_date": "2023-03-17",
+  "title": "Boston Strangler",
+  "video": false,
+  "vote_average": 6.765,
+  "vote_count": 221
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/5deKXeVmu3G8821gV8DtKHmRd6r.jpg",
+  "genre_ids": [
+    18,
+    53
+  ],
+  "id": 958196,
+  "original_language": "en",
+  "original_title": "Inside",
+  "overview": "An art thief becomes trapped in a New York penthouse after his heist goes awry. Imprisoned with nothing but priceless works of art, he must use all his cunning and invention to survive.",
+  "popularity": 7.601,
+  "poster_path": "/byYLhZLwKAMlLFVEcIH6LMOc5Us.jpg",
+  "release_date": "2023-03-09",
+  "title": "Inside",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 5
+}

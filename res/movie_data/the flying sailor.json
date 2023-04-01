@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/fBGxSpoYvYWH0py9cgY99aM4NbG.jpg",
+  "genre_ids": [
+    16,
+    35,
+    14
+  ],
+  "id": 742872,
+  "original_language": "en",
+  "original_title": "The Flying Sailor",
+  "overview": "The Flying Sailor is based on the Halifax explosion of 1917 when two ships collided in the Halifax Harbour causing the largest accidental explosion in history. Among the tragic stories of the disaster is the remarkable account of a sailor who, blown skyward from the deck of a British cargo steamer, flew over 2 km before landing completely unharmed, but naked except for his boots.",
+  "popularity": 2.327,
+  "poster_path": "/xWkv9WOT8EFvzN7pdyaOIVAUVuZ.jpg",
+  "release_date": "2022-06-13",
+  "title": "The Flying Sailor",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 33
+}

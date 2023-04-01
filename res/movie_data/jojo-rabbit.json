@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+  "genre_ids": [
+    35,
+    10752,
+    18
+  ],
+  "id": 515001,
+  "original_language": "en",
+  "original_title": "Jojo Rabbit",
+  "overview": "A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism.",
+  "popularity": 29.389,
+  "poster_path": "/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+  "release_date": "2019-10-18",
+  "title": "Jojo Rabbit",
+  "video": false,
+  "vote_average": 8.057,
+  "vote_count": 8293
+}

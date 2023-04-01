@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
+  "genre_ids": [
+    12,
+    14,
+    16
+  ],
+  "id": 128,
+  "original_language": "ja",
+  "original_title": "\u3082\u306e\u306e\u3051\u59eb",
+  "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+  "popularity": 36.0,
+  "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+  "release_date": "1997-07-12",
+  "title": "Princess Mononoke",
+  "video": false,
+  "vote_average": 8.34,
+  "vote_count": 6870
+}

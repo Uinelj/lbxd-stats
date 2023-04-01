@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/vHJlbhsXrZ5yrO2KqCbGSIU6fRX.jpg",
+  "genre_ids": [
+    28,
+    9648,
+    878,
+    53
+  ],
+  "id": 198663,
+  "original_language": "en",
+  "original_title": "The Maze Runner",
+  "overview": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \u201crunners\u201d for a shot at escape.",
+  "popularity": 127.484,
+  "poster_path": "/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+  "release_date": "2014-09-10",
+  "title": "The Maze Runner",
+  "video": false,
+  "vote_average": 7.172,
+  "vote_count": 15446
+}

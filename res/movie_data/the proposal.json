@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+  "genre_ids": [
+    35,
+    10749,
+    18
+  ],
+  "id": 18240,
+  "original_language": "en",
+  "original_title": "The Proposal",
+  "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+  "popularity": 54.464,
+  "poster_path": "/aYlnDia7ldvqFUst1O5S8LZeM2S.jpg",
+  "release_date": "2009-06-01",
+  "title": "The Proposal",
+  "video": false,
+  "vote_average": 7.111,
+  "vote_count": 5912
+}

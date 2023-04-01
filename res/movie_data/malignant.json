@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/eG58uvQKZFAFxAFYC01HWMibRfa.jpg",
+  "genre_ids": [
+    27,
+    9648,
+    53
+  ],
+  "id": 619778,
+  "original_language": "en",
+  "original_title": "Malignant",
+  "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.",
+  "popularity": 35.874,
+  "poster_path": "/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+  "release_date": "2021-09-01",
+  "title": "Malignant",
+  "video": false,
+  "vote_average": 6.87,
+  "vote_count": 1839
+}

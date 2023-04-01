@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/v4W554WRfWdWn1P9WJ9XYbXz36l.jpg",
+  "genre_ids": [
+    10751,
+    16,
+    35,
+    80
+  ],
+  "id": 20352,
+  "original_language": "en",
+  "original_title": "Despicable Me",
+  "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+  "popularity": 73.042,
+  "poster_path": "/7rhlaT8pyF52kyt4FMghSKiZwIO.jpg",
+  "release_date": "2010-07-08",
+  "title": "Despicable Me",
+  "video": false,
+  "vote_average": 7.224,
+  "vote_count": 13818
+}

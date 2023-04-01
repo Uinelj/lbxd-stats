@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/rsPjEr7o02mo8ex6wD2PbRwasUe.jpg",
+  "genre_ids": [
+    18,
+    53,
+    878,
+    9648
+  ],
+  "id": 2675,
+  "original_language": "en",
+  "original_title": "Signs",
+  "overview": "A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.",
+  "popularity": 27.485,
+  "poster_path": "/hyZkNEbNgnciUVTyu4NZTjlCh4L.jpg",
+  "release_date": "2002-08-02",
+  "title": "Signs",
+  "video": false,
+  "vote_average": 6.67,
+  "vote_count": 4917
+}

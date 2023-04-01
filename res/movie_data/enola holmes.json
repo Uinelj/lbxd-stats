@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/pQQggUuDMleFSl2tQYxzTmKIiLU.jpg",
+  "genre_ids": [
+    12,
+    9648,
+    35,
+    80
+  ],
+  "id": 497582,
+  "original_language": "en",
+  "original_title": "Enola Holmes",
+  "overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+  "popularity": 34.397,
+  "poster_path": "/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+  "release_date": "2020-09-23",
+  "title": "Enola Holmes",
+  "video": false,
+  "vote_average": 7.315,
+  "vote_count": 5280
+}

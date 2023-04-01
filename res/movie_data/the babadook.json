@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/bcFlmrov1e5CCxZA7ZskGJ6QIh.jpg",
+  "genre_ids": [
+    18,
+    27
+  ],
+  "id": 242224,
+  "original_language": "en",
+  "original_title": "The Babadook",
+  "overview": "A single mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.",
+  "popularity": 21.89,
+  "poster_path": "/lszpCmmPCKHvzn2OBx7bAgXlfhC.jpg",
+  "release_date": "2014-05-22",
+  "title": "The Babadook",
+  "video": false,
+  "vote_average": 6.519,
+  "vote_count": 5436
+}

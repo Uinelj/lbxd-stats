@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ZbsPFssozlrlcCoe6kLbkrJwak.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 958340,
+  "original_language": "en",
+  "original_title": "Of an Age",
+  "overview": "A Serbian ballroom dancer experiences an unexpected and intense 24-hour romance with a friend's older brother.",
+  "popularity": 10.891,
+  "poster_path": "/hM1WknAN6uOeH2YxTQ9RaI0C3Uj.jpg",
+  "release_date": "2023-02-10",
+  "title": "Of an Age",
+  "video": false,
+  "vote_average": 6.929,
+  "vote_count": 7
+}

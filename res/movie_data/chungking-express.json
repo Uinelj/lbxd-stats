@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/hqyA3dCWdc0cCH2Ba8ZhZTjDA8y.jpg",
+  "genre_ids": [
+    18,
+    35,
+    10749
+  ],
+  "id": 11104,
+  "original_language": "cn",
+  "original_title": "\u91cd\u6176\u68ee\u6797",
+  "overview": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+  "popularity": 20.701,
+  "poster_path": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+  "release_date": "1994-07-14",
+  "title": "Chungking Express",
+  "video": false,
+  "vote_average": 8.018,
+  "vote_count": 1403
+}

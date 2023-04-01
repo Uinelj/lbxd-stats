@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/a8tH0jl37366bLVyPB08dncgqqd.jpg",
+  "genre_ids": [
+    35,
+    80,
+    10751
+  ],
+  "id": 654974,
+  "original_language": "en",
+  "original_title": "Home Sweet Home Alone",
+  "overview": "After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.",
+  "popularity": 47.15,
+  "poster_path": "/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg",
+  "release_date": "2021-11-12",
+  "title": "Home Sweet Home Alone",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 495
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
+  "genre_ids": [
+    35,
+    18,
+    80
+  ],
+  "id": 8321,
+  "original_language": "en",
+  "original_title": "In Bruges",
+  "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+  "popularity": 19.114,
+  "poster_path": "/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg",
+  "release_date": "2008-02-08",
+  "title": "In Bruges",
+  "video": false,
+  "vote_average": 7.474,
+  "vote_count": 4432
+}

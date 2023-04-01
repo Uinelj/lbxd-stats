@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/jBUukLTCmXL79itbmK5JtQvImYS.jpg",
+  "genre_ids": [
+    16,
+    35,
+    10751
+  ],
+  "id": 846214,
+  "original_language": "en",
+  "original_title": "The Simpsons: The Good, the Bart, and the Loki",
+  "overview": "Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield\u2019s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.",
+  "popularity": 41.631,
+  "poster_path": "/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg",
+  "release_date": "2021-07-07",
+  "title": "The Simpsons: The Good, the Bart, and the Loki",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 594
+}

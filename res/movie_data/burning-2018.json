@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "genre_ids": [
+    99
+  ],
+  "id": 595547,
+  "original_language": "fi",
+  "original_title": "Untitled (Burned Rubber on Asphalt, 2018)",
+  "overview": "In a remote Norwegian village the weaving roads have become the subject of controversy. Assuming the role of detective, the documentary investigates the bewildering phenomena of car skid marks and their mysterious appearance. Winding, looping, curving, the hypnotising patterns reveal unexpected frictions in the village.",
+  "popularity": 0.6,
+  "poster_path": "/s8rFwa96ad7Ib5at5qTVRKu3EmG.jpg",
+  "release_date": "2019-03-08",
+  "title": "Untitled (Burned Rubber on Asphalt, 2018)",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 1
+}

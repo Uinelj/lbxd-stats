@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/wfClZdRb1x4LZ8B73Y9RSn8XAPa.jpg",
+  "genre_ids": [
+    10751,
+    16,
+    878,
+    18
+  ],
+  "id": 10386,
+  "original_language": "en",
+  "original_title": "The Iron Giant",
+  "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+  "popularity": 53.549,
+  "poster_path": "/mThOw5rXLtdbY3WmuTsS9zsQBMG.jpg",
+  "release_date": "1999-08-06",
+  "title": "The Iron Giant",
+  "video": false,
+  "vote_average": 7.922,
+  "vote_count": 4877
+}

@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 406,
+  "original_language": "fr",
+  "original_title": "La Haine",
+  "overview": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Sa\u00efd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+  "popularity": 14.186,
+  "poster_path": "/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg",
+  "release_date": "1995-05-31",
+  "title": "La Haine",
+  "video": false,
+  "vote_average": 8.071,
+  "vote_count": 3378
+}

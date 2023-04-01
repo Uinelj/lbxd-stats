@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/ecKQlAEG95k62SMGhvX83oEqANK.jpg",
+  "genre_ids": [
+    27,
+    53
+  ],
+  "id": 138843,
+  "original_language": "en",
+  "original_title": "The Conjuring",
+  "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+  "popularity": 113.038,
+  "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+  "release_date": "2013-07-18",
+  "title": "The Conjuring",
+  "video": false,
+  "vote_average": 7.538,
+  "vote_count": 10259
+}

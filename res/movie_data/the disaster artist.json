@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/uuoHuUsIZXdcH3IT9u2Ei55LGsE.jpg",
+  "genre_ids": [
+    35,
+    18
+  ],
+  "id": 371638,
+  "original_language": "en",
+  "original_title": "The Disaster Artist",
+  "overview": "An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.",
+  "popularity": 10.2,
+  "poster_path": "/jj84nF5vYRD0HUTowBKcrKk8hZP.jpg",
+  "release_date": "2017-03-12",
+  "title": "The Disaster Artist",
+  "video": false,
+  "vote_average": 7.114,
+  "vote_count": 3214
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/jauI01vUIkPA0xVsamGj0Gs1nNL.jpg",
+  "genre_ids": [
+    12,
+    28,
+    878
+  ],
+  "id": 507086,
+  "original_language": "en",
+  "original_title": "Jurassic World Dominion",
+  "overview": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+  "popularity": 314.409,
+  "poster_path": "/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+  "release_date": "2022-06-01",
+  "title": "Jurassic World Dominion",
+  "video": false,
+  "vote_average": 6.875,
+  "vote_count": 4626
+}

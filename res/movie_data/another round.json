@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+  "genre_ids": [
+    35,
+    18
+  ],
+  "id": 580175,
+  "original_language": "da",
+  "original_title": "Druk",
+  "overview": "Four high school teachers launch a drinking experiment: upholding a constant low level of intoxication.",
+  "popularity": 18.909,
+  "poster_path": "/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+  "release_date": "2020-09-24",
+  "title": "Another Round",
+  "video": false,
+  "vote_average": 7.674,
+  "vote_count": 2524
+}

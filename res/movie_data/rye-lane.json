@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/baJBSia4tPYG11Qh5iymbsXSswe.jpg",
+  "genre_ids": [
+    10749,
+    35
+  ],
+  "id": 1049638,
+  "original_language": "en",
+  "original_title": "Rye Lane",
+  "overview": "Two twenty-somethings, both reeling from bad break-ups, connect over the course of an eventful day in South London \u2013 helping each other deal with their nightmare exes, and potentially restoring their faith in romance.",
+  "popularity": 21.696,
+  "poster_path": "/z1B8GAem6gtcMDmdWtxkeq5FSgC.jpg",
+  "release_date": "2023-03-17",
+  "title": "Rye Lane",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 15
+}

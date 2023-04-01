@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/oLp6ueqQXNWvWCFwrb6tXDnH0Ye.jpg",
+  "genre_ids": [
+    35,
+    80,
+    28
+  ],
+  "id": 290250,
+  "original_language": "en",
+  "original_title": "The Nice Guys",
+  "overview": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
+  "popularity": 16.991,
+  "poster_path": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+  "release_date": "2016-05-15",
+  "title": "The Nice Guys",
+  "video": false,
+  "vote_average": 7.098,
+  "vote_count": 6939
+}

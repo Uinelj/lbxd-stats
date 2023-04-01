@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+  "genre_ids": [
+    28,
+    80
+  ],
+  "id": 23483,
+  "original_language": "en",
+  "original_title": "Kick-Ass",
+  "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+  "popularity": 57.357,
+  "poster_path": "/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+  "release_date": "2010-03-22",
+  "title": "Kick-Ass",
+  "video": false,
+  "vote_average": 7.117,
+  "vote_count": 10679
+}

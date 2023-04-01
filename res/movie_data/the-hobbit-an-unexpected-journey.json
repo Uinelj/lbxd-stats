@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+  "genre_ids": [
+    12,
+    14,
+    28
+  ],
+  "id": 49051,
+  "original_language": "en",
+  "original_title": "The Hobbit: An Unexpected Journey",
+  "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+  "popularity": 83.415,
+  "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+  "release_date": "2012-11-26",
+  "title": "The Hobbit: An Unexpected Journey",
+  "video": false,
+  "vote_average": 7.331,
+  "vote_count": 16898
+}

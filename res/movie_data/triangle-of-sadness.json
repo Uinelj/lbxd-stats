@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/jENycYiYGr5NvMs789zj06JkW5l.jpg",
+  "genre_ids": [
+    35,
+    18
+  ],
+  "id": 497828,
+  "original_language": "en",
+  "original_title": "Triangle of Sadness",
+  "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
+  "popularity": 111.75,
+  "poster_path": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+  "release_date": "2022-09-18",
+  "title": "Triangle of Sadness",
+  "video": false,
+  "vote_average": 7.237,
+  "vote_count": 1119
+}

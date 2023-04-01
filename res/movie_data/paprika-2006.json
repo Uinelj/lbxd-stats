@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/9CkI4VsYF8qJWfZpPqwZnBctb3M.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 50270,
+  "original_language": "it",
+  "original_title": "Paprika",
+  "overview": "A young country girl comes to town and works in a brothel in order to help her fiance get the money to start his own business. \"Paprika\" is the name given to her by the madam.",
+  "popularity": 34.446,
+  "poster_path": "/jwlo74haG1XNmp5IdSJ5Gy3KuIm.jpg",
+  "release_date": "1991-02-13",
+  "title": "Paprika",
+  "video": false,
+  "vote_average": 7.067,
+  "vote_count": 329
+}

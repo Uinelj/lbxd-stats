@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/3upEZ0ltY7WwOSFVXrtiP34D48p.jpg",
+  "genre_ids": [
+    53,
+    18,
+    10749
+  ],
+  "id": 290098,
+  "original_language": "ko",
+  "original_title": "\uc544\uac00\uc528",
+  "overview": "In 1930s Korea, a new girl is hired as a handmaiden to a Japanese heiress who lives a secluded life on a large countryside estate. But the maid has a secret: She is a pickpocket recruited by a swindler, who is posing as a Japanese Count, to help him seduce the Lady and steal her fortune.",
+  "popularity": 44.584,
+  "poster_path": "/ic4s9k48semzBCUrbglyCmnGaHJ.jpg",
+  "release_date": "2016-06-01",
+  "title": "The Handmaiden",
+  "video": false,
+  "vote_average": 8.25,
+  "vote_count": 3082
+}

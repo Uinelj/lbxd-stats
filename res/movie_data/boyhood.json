@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/qRwkMMZhQRKM4uDaXpd2XbZZmkE.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 85350,
+  "original_language": "en",
+  "original_title": "Boyhood",
+  "overview": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+  "popularity": 18.834,
+  "poster_path": "/cQz2gp3Dcxq17Ip3Bq1qUQkDkFH.jpg",
+  "release_date": "2014-06-05",
+  "title": "Boyhood",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 4682
+}

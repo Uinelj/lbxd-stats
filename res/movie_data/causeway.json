@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/lInZWt4JQXZw3VzGvTM2I56L7gB.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 595586,
+  "original_language": "en",
+  "original_title": "Causeway",
+  "overview": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home in New Orleans. When she meets local mechanic James, the pair begin to forge an unexpected bond.",
+  "popularity": 23.876,
+  "poster_path": "/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg",
+  "release_date": "2022-10-28",
+  "title": "Causeway",
+  "video": false,
+  "vote_average": 6.673,
+  "vote_count": 260
+}

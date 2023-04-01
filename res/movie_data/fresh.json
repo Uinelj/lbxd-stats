@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
+  "genre_ids": [
+    27,
+    53,
+    35
+  ],
+  "id": 787752,
+  "original_language": "en",
+  "original_title": "Fresh",
+  "overview": "Frustrated by scrolling dating apps only to end up on lame, tedious dates, Noa takes a chance by giving her number to the awkwardly charming Steve after a produce-section meet-cute at the grocery store.",
+  "popularity": 18.37,
+  "poster_path": "/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
+  "release_date": "2022-03-03",
+  "title": "Fresh",
+  "video": false,
+  "vote_average": 6.974,
+  "vote_count": 1070
+}

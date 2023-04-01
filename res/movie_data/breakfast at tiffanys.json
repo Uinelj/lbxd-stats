@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+  "genre_ids": [
+    35,
+    10749
+  ],
+  "id": 164,
+  "original_language": "en",
+  "original_title": "Breakfast at Tiffany's",
+  "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+  "popularity": 24.477,
+  "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+  "release_date": "1961-10-06",
+  "title": "Breakfast at Tiffany's",
+  "video": false,
+  "vote_average": 7.691,
+  "vote_count": 3760
+}

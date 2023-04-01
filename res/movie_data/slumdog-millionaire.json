@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 12405,
+  "original_language": "en",
+  "original_title": "Slumdog Millionaire",
+  "overview": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
+  "popularity": 22.673,
+  "poster_path": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+  "release_date": "2008-11-12",
+  "title": "Slumdog Millionaire",
+  "video": false,
+  "vote_average": 7.735,
+  "vote_count": 9595
+}

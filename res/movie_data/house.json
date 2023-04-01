@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/dQ1NwW8LE4PR8UfLEf8eAQpgTpG.jpg",
+  "genre_ids": [
+    35,
+    27
+  ],
+  "id": 11415,
+  "original_language": "en",
+  "original_title": "House",
+  "overview": "Roger Cobb is an author who has just separated from his wife. He moves into a new house and tries to work on a novel based on his experiences in the Vietnam War. Strange things start happening around him; little things at first, but as they become more frequent, Cobb becomes aware that the house resents his presence.",
+  "popularity": 14.893,
+  "poster_path": "/ysIPmxLVYYvTUaOwEsLjF7nEf4C.jpg",
+  "release_date": "1986-02-27",
+  "title": "House",
+  "video": false,
+  "vote_average": 6.133,
+  "vote_count": 458
+}

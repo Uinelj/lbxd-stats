@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/71X982Z2hHTRSc2Ez70cpgeGuVu.jpg",
+  "genre_ids": [
+    18,
+    27,
+    53
+  ],
+  "id": 11804,
+  "original_language": "en",
+  "original_title": "White Noise",
+  "overview": "An architect's desire to speak with his wife from beyond the grave using EVP (Electronic Voice Phenomenon), becomes an obsession with supernatural repercussions.",
+  "popularity": 10.021,
+  "poster_path": "/8G5OKXjO5iQkuHAgysWRV1bUs1R.jpg",
+  "release_date": "2005-01-07",
+  "title": "White Noise",
+  "video": false,
+  "vote_average": 5.558,
+  "vote_count": 713
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+  "genre_ids": [
+    16,
+    35,
+    10751
+  ],
+  "id": 585,
+  "original_language": "en",
+  "original_title": "Monsters, Inc.",
+  "overview": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
+  "popularity": 126.638,
+  "poster_path": "/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+  "release_date": "2001-11-01",
+  "title": "Monsters, Inc.",
+  "video": false,
+  "vote_average": 7.829,
+  "vote_count": 16588
+}

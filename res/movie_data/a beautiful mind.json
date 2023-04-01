@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 453,
+  "original_language": "en",
+  "original_title": "A Beautiful Mind",
+  "overview": "John Nash is a brilliant but asocial mathematician fighting schizophrenia. After he accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+  "popularity": 28.799,
+  "poster_path": "/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+  "release_date": "2001-12-11",
+  "title": "A Beautiful Mind",
+  "video": false,
+  "vote_average": 7.854,
+  "vote_count": 9143
+}

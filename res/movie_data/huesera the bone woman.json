@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/A2avUoNFstnBhAnHiogXQs4c9Bt.jpg",
+  "genre_ids": [
+    18,
+    27,
+    9648
+  ],
+  "id": 772515,
+  "original_language": "es",
+  "original_title": "Huesera",
+  "overview": "Valeria's joy at becoming a first-time mother is quickly taken away when she's cursed by a sinister entity. As danger closes in, she's forced deeper into a chilling world of dark magic that threatens to consume her.",
+  "popularity": 378.339,
+  "poster_path": "/zgpj76z9byUgcWnxLDmtZ3XqfvN.jpg",
+  "release_date": "2023-02-10",
+  "title": "Huesera: The Bone Woman",
+  "video": false,
+  "vote_average": 5.764,
+  "vote_count": 165
+}

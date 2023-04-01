@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/oCKZAdUROqdlTcUOstqJ1gM8JQt.jpg",
+  "genre_ids": [
+    18,
+    35
+  ],
+  "id": 615777,
+  "original_language": "en",
+  "original_title": "Babylon",
+  "overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films and to sound films in the late 1920s.",
+  "popularity": 235.641,
+  "poster_path": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+  "release_date": "2022-12-22",
+  "title": "Babylon",
+  "video": false,
+  "vote_average": 7.547,
+  "vote_count": 1498
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/5N8LOeRzt7LcZIhPbNVaCsVOPdT.jpg",
+  "genre_ids": [
+    27,
+    9648,
+    878
+  ],
+  "id": 762504,
+  "original_language": "en",
+  "original_title": "Nope",
+  "overview": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
+  "popularity": 81.734,
+  "poster_path": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+  "release_date": "2022-07-20",
+  "title": "Nope",
+  "video": false,
+  "vote_average": 6.934,
+  "vote_count": 2701
+}

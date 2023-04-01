@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/ufUdEHvs31M8yw3HMFjhTaVJIVp.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 1374,
+  "original_language": "en",
+  "original_title": "Rocky IV",
+  "overview": "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.",
+  "popularity": 63.266,
+  "poster_path": "/jmvpwgW5M2kduR9zB0q8qGFC4zM.jpg",
+  "release_date": "1985-11-21",
+  "title": "Rocky IV",
+  "video": false,
+  "vote_average": 7.07,
+  "vote_count": 3810
+}

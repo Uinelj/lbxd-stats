@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/6QOZ7RGucRJLGvm7TH5k2BN0xSp.jpg",
+  "genre_ids": [
+    18,
+    10402
+  ],
+  "id": 86829,
+  "original_language": "en",
+  "original_title": "Inside Llewyn Davis",
+  "overview": "In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future.",
+  "popularity": 12.267,
+  "poster_path": "/cjiE3mMvDSYqVBh1iTmPs3RNY3x.jpg",
+  "release_date": "2013-10-13",
+  "title": "Inside Llewyn Davis",
+  "video": false,
+  "vote_average": 7.201,
+  "vote_count": 2379
+}

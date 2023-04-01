@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/5tb7RjF0OAAaiGDUXsuedvhoGqV.jpg",
+  "genre_ids": [
+    18,
+    36
+  ],
+  "id": 837881,
+  "original_language": "en",
+  "original_title": "She Said",
+  "overview": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation \u2014 a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+  "popularity": 28.226,
+  "poster_path": "/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+  "release_date": "2022-11-17",
+  "title": "She Said",
+  "video": false,
+  "vote_average": 7.297,
+  "vote_count": 254
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/6ZZjNFjTlO9F25467CruIibwuxl.jpg",
+  "genre_ids": [
+    28,
+    53,
+    35
+  ],
+  "id": 739405,
+  "original_language": "en",
+  "original_title": "Operation Fortune: Ruse de Guerre",
+  "overview": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+  "popularity": 178.736,
+  "poster_path": "/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
+  "release_date": "2023-01-04",
+  "title": "Operation Fortune: Ruse de Guerre",
+  "video": false,
+  "vote_average": 6.731,
+  "vote_count": 290
+}

@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/qoBKQC28B1F6dKCPAMqBGQwJdM7.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    28,
+    35
+  ],
+  "id": 513736,
+  "original_language": "en",
+  "original_title": "LEGO DC Super Heroes - Aquaman: Rage Of Atlantis",
+  "overview": "Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.",
+  "popularity": 11.303,
+  "poster_path": "/1SzblFjGFBK4w00i4L1CDw46RI3.jpg",
+  "release_date": "2018-12-21",
+  "title": "LEGO DC Super Heroes - Aquaman: Rage Of Atlantis",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 80
+}

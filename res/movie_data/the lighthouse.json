@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+  "genre_ids": [
+    18,
+    14,
+    53,
+    27
+  ],
+  "id": 503919,
+  "original_language": "en",
+  "original_title": "The Lighthouse",
+  "overview": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+  "popularity": 21.567,
+  "poster_path": "/4SC4cyzHWWzDEdszdxHYPWd32YH.jpg",
+  "release_date": "2019-10-18",
+  "title": "The Lighthouse",
+  "video": false,
+  "vote_average": 7.527,
+  "vote_count": 4018
+}

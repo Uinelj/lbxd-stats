@@ -1,0 +1,23 @@
+{
+  "adult": false,
+  "backdrop_path": "/26FT7NBKiGvWJBB3VG9i72LnI8S.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    14,
+    12,
+    35,
+    10749
+  ],
+  "id": 11970,
+  "original_language": "en",
+  "original_title": "Hercules",
+  "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
+  "popularity": 71.099,
+  "poster_path": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+  "release_date": "1997-06-20",
+  "title": "Hercules",
+  "video": false,
+  "vote_average": 7.507,
+  "vote_count": 6570
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
+  "genre_ids": [
+    53,
+    80,
+    9648
+  ],
+  "id": 65754,
+  "original_language": "en",
+  "original_title": "The Girl with the Dragon Tattoo",
+  "overview": "This English-language adaptation of the Swedish novel by Stieg Larsson follows a disgraced journalist, Mikael Blomkvist, as he investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+  "popularity": 20.458,
+  "poster_path": "/zqDopwg7XQ4IfFX2dRlQCT1SwMG.jpg",
+  "release_date": "2011-12-14",
+  "title": "The Girl with the Dragon Tattoo",
+  "video": false,
+  "vote_average": 7.358,
+  "vote_count": 6242
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+  "genre_ids": [
+    18,
+    10749,
+    80
+  ],
+  "id": 511809,
+  "original_language": "en",
+  "original_title": "West Side Story",
+  "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+  "popularity": 20.033,
+  "poster_path": "/lnUxSldaVI0mYCCf2akyQpbTFgr.jpg",
+  "release_date": "2021-12-08",
+  "title": "West Side Story",
+  "video": false,
+  "vote_average": 7.072,
+  "vote_count": 1223
+}

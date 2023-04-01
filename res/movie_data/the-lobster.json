@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/rqMvkc7P5yYfomhYXDmteWQoUeK.jpg",
+  "genre_ids": [
+    35,
+    18,
+    10749
+  ],
+  "id": 254320,
+  "original_language": "en",
+  "original_title": "The Lobster",
+  "overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+  "popularity": 18.932,
+  "poster_path": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+  "release_date": "2015-10-15",
+  "title": "The Lobster",
+  "video": false,
+  "vote_average": 7.027,
+  "vote_count": 5350
+}

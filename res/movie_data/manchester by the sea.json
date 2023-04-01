@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/wj2nLa0vfS0SLu2vJ6ABTRhMrok.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 334541,
+  "original_language": "en",
+  "original_title": "Manchester by the Sea",
+  "overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+  "popularity": 45.406,
+  "poster_path": "/e8daDzP0vFOnGyKmve95Yv0D0io.jpg",
+  "release_date": "2016-11-18",
+  "title": "Manchester by the Sea",
+  "video": false,
+  "vote_average": 7.535,
+  "vote_count": 5202
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
+  "genre_ids": [
+    28,
+    12,
+    878
+  ],
+  "id": 545611,
+  "original_language": "en",
+  "original_title": "Everything Everywhere All at Once",
+  "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+  "popularity": 218.724,
+  "poster_path": "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+  "release_date": "2022-03-24",
+  "title": "Everything Everywhere All at Once",
+  "video": false,
+  "vote_average": 7.885,
+  "vote_count": 4214
+}

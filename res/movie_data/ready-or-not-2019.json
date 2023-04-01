@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
+  "genre_ids": [
+    35,
+    27,
+    53
+  ],
+  "id": 567609,
+  "original_language": "en",
+  "original_title": "Ready or Not",
+  "overview": "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
+  "popularity": 52.53,
+  "poster_path": "/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg",
+  "release_date": "2019-08-21",
+  "title": "Ready or Not",
+  "video": false,
+  "vote_average": 7.057,
+  "vote_count": 3662
+}

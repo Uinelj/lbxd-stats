@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/mrYJ0ijgaxjHKAs0ybNYxyfP8l5.jpg",
+  "genre_ids": [
+    35,
+    10751
+  ],
+  "id": 9820,
+  "original_language": "en",
+  "original_title": "The Parent Trap",
+  "overview": "Hallie Parker and Annie James are identical twins separated at a young age because of their parents' divorce. Unknowingly to their parents, the girls are sent to the same summer camp where they meet, discover the truth about themselves, and then plot with each other to switch places.",
+  "popularity": 84.155,
+  "poster_path": "/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg",
+  "release_date": "1998-07-28",
+  "title": "The Parent Trap",
+  "video": false,
+  "vote_average": 7.15,
+  "vote_count": 3614
+}

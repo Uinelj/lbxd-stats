@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg",
+  "genre_ids": [
+    53,
+    18,
+    80
+  ],
+  "id": 1359,
+  "original_language": "en",
+  "original_title": "American Psycho",
+  "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+  "popularity": 55.956,
+  "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+  "release_date": "2000-04-13",
+  "title": "American Psycho",
+  "video": false,
+  "vote_average": 7.392,
+  "vote_count": 9167
+}

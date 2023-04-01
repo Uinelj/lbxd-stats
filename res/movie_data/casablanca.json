@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 289,
+  "original_language": "en",
+  "original_title": "Casablanca",
+  "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+  "popularity": 21.207,
+  "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+  "release_date": "1942-11-26",
+  "title": "Casablanca",
+  "video": false,
+  "vote_average": 8.172,
+  "vote_count": 4659
+}

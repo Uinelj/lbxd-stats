@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/5BNjRTNqQff6Mz1c17WCRSdz0RF.jpg",
+  "genre_ids": [
+    16,
+    10402,
+    10751
+  ],
+  "id": 490935,
+  "original_language": "en",
+  "original_title": "A Frozen Christmas 2",
+  "overview": "When Santa and his reindeer pal Barnaby finish delivering presents for Christmas, they head back to the North Pole to celebrate. Gather around and listen as Santa and his elf pals dance and tell stories. Including time-honored Christmas story classics!",
+  "popularity": 2.637,
+  "poster_path": "/zrzGLUDdziaBEvIbmXBSCJgLHrC.jpg",
+  "release_date": "2017-12-04",
+  "title": "A Frozen Christmas 2",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 2
+}

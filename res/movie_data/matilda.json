@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/iUuQPjS5gcvFRm2j9bGiCyNAa6t.jpg",
+  "genre_ids": [
+    35,
+    10751,
+    14
+  ],
+  "id": 10830,
+  "original_language": "en",
+  "original_title": "Matilda",
+  "overview": "An extraordinarily intelligent young girl from a cruel and uncaring family discovers she possesses telekinetic powers and is sent off to a school headed by a tyrannical principal.",
+  "popularity": 42.611,
+  "poster_path": "/wnLbqoGRGdnPNjMV6rY75wgRamd.jpg",
+  "release_date": "1996-08-02",
+  "title": "Matilda",
+  "video": false,
+  "vote_average": 7.144,
+  "vote_count": 3854
+}

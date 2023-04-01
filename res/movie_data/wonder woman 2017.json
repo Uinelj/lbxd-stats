@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+  "genre_ids": [
+    28,
+    12,
+    14
+  ],
+  "id": 297762,
+  "original_language": "en",
+  "original_title": "Wonder Woman",
+  "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+  "popularity": 57.596,
+  "poster_path": "/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg",
+  "release_date": "2017-05-30",
+  "title": "Wonder Woman",
+  "video": false,
+  "vote_average": 7.24,
+  "vote_count": 18498
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/g1U311jgL4DJbGgvIZgiCfHp44Q.jpg",
+  "genre_ids": [
+    80,
+    18
+  ],
+  "id": 641,
+  "original_language": "en",
+  "original_title": "Requiem for a Dream",
+  "overview": "The hopes and dreams of four ambitious people are shattered when their drug addictions begin spiraling out of control. A look into addiction and how it overcomes the mind and body.",
+  "popularity": 13.769,
+  "poster_path": "/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+  "release_date": "2000-10-06",
+  "title": "Requiem for a Dream",
+  "video": false,
+  "vote_average": 8.032,
+  "vote_count": 8766
+}

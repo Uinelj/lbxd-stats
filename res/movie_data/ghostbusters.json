@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/3RWsSQlqzRjsuqSRmoyggy74UA7.jpg",
+  "genre_ids": [
+    28,
+    14,
+    35
+  ],
+  "id": 43074,
+  "original_language": "en",
+  "original_title": "Ghostbusters",
+  "overview": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+  "popularity": 36.389,
+  "poster_path": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+  "release_date": "2016-07-14",
+  "title": "Ghostbusters",
+  "video": false,
+  "vote_average": 5.37,
+  "vote_count": 5799
+}

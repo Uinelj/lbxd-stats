@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/eoMushgujydxFplE9yPZ54lwOvo.jpg",
+  "genre_ids": [
+    16,
+    28,
+    35,
+    10751
+  ],
+  "id": 324849,
+  "original_language": "en",
+  "original_title": "The Lego Batman Movie",
+  "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+  "popularity": 31.874,
+  "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+  "release_date": "2017-02-08",
+  "title": "The Lego Batman Movie",
+  "video": false,
+  "vote_average": 7.207,
+  "vote_count": 4389
+}

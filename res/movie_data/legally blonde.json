@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/shTxmoxGE6PMQQjnpgK49hZXLX.jpg",
+  "genre_ids": [
+    35,
+    10749
+  ],
+  "id": 8835,
+  "original_language": "en",
+  "original_title": "Legally Blonde",
+  "overview": "Elle Woods, a fashionable sorority queen, is dumped by her boyfriend. She decides to follow him to law school, but while there, she figures out that there is more to herself than just looks.",
+  "popularity": 29.073,
+  "poster_path": "/4ABNnmkVpzplrEVQWt1piITT0Ey.jpg",
+  "release_date": "2001-07-13",
+  "title": "Legally Blonde",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 3427
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/5pLaYZGbweHYULiNiRehPxYuUnn.jpg",
+  "genre_ids": [
+    35,
+    80
+  ],
+  "id": 2640,
+  "original_language": "en",
+  "original_title": "Heathers",
+  "overview": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+  "popularity": 20.598,
+  "poster_path": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+  "release_date": "1989-03-31",
+  "title": "Heathers",
+  "video": false,
+  "vote_average": 7.314,
+  "vote_count": 1426
+}

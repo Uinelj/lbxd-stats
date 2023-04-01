@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/2SEGjVLy7fYbovIyDR7IntH1jT2.jpg",
+  "genre_ids": [
+    27,
+    9648,
+    53
+  ],
+  "id": 913290,
+  "original_language": "en",
+  "original_title": "Barbarian",
+  "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+  "popularity": 57.781,
+  "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+  "release_date": "2022-09-08",
+  "title": "Barbarian",
+  "video": false,
+  "vote_average": 6.913,
+  "vote_count": 1360
+}

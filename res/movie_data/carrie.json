@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/8z5qtVE2N3AuA3bmvIQsI10Wjg8.jpg",
+  "genre_ids": [
+    18,
+    27,
+    10770
+  ],
+  "id": 7342,
+  "original_language": "en",
+  "original_title": "Carrie",
+  "overview": "Carrie White is a lonely and painfully shy teenage girl with telekinetic powers who is slowly pushed to the edge of insanity by frequent bullying from both classmates at her school, and her own religious, but abusive, mother.",
+  "popularity": 27.975,
+  "poster_path": "/knjeEeeyIwDkUtZwDfJOcUIuNdB.jpg",
+  "release_date": "2002-11-04",
+  "title": "Carrie",
+  "video": false,
+  "vote_average": 6.128,
+  "vote_count": 405
+}

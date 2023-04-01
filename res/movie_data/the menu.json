@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/mSyQoValhBsJdq3JNGXJww2Q5yL.jpg",
+  "genre_ids": [
+    27,
+    53
+  ],
+  "id": 593643,
+  "original_language": "en",
+  "original_title": "The Menu",
+  "overview": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+  "popularity": 116.816,
+  "poster_path": "/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+  "release_date": "2022-11-17",
+  "title": "The Menu",
+  "video": false,
+  "vote_average": 7.228,
+  "vote_count": 2805
+}

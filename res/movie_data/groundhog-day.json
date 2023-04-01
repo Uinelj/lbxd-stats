@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+  "genre_ids": [
+    10749,
+    14,
+    18,
+    35
+  ],
+  "id": 137,
+  "original_language": "en",
+  "original_title": "Groundhog Day",
+  "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+  "popularity": 26.554,
+  "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+  "release_date": "1993-02-11",
+  "title": "Groundhog Day",
+  "video": false,
+  "vote_average": 7.603,
+  "vote_count": 6897
+}

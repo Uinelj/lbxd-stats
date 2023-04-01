@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/htbWYT0oQDsttfs8LLmz8I2pbve.jpg",
+  "genre_ids": [
+    14,
+    878,
+    35
+  ],
+  "id": 424781,
+  "original_language": "en",
+  "original_title": "Sorry to Bother You",
+  "overview": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success \u2013 which propels him into a macabre universe.",
+  "popularity": 9.97,
+  "poster_path": "/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+  "release_date": "2018-07-06",
+  "title": "Sorry to Bother You",
+  "video": false,
+  "vote_average": 6.844,
+  "vote_count": 1308
+}

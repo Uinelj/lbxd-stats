@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/xIuNgwALQK96aRuOe7f827VM4gA.jpg",
+  "genre_ids": [
+    99
+  ],
+  "id": 1061671,
+  "original_language": "en",
+  "original_title": "Pamela, A Love Story",
+  "overview": "In her own words, through personal video and diaries, Pamela Anderson shares the story of her rise to fame, rocky romances and infamous sex tape scandal.",
+  "popularity": 32.36,
+  "poster_path": "/aOj8mNRXz3ss9pwCYgpva1JqmZx.jpg",
+  "release_date": "2023-01-30",
+  "title": "Pamela, A Love Story",
+  "video": false,
+  "vote_average": 7.149,
+  "vote_count": 154
+}

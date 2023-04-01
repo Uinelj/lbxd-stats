@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+  "genre_ids": [
+    28,
+    53,
+    878
+  ],
+  "id": 577922,
+  "original_language": "en",
+  "original_title": "Tenet",
+  "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+  "popularity": 54.611,
+  "poster_path": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+  "release_date": "2020-08-22",
+  "title": "Tenet",
+  "video": false,
+  "vote_average": 7.204,
+  "vote_count": 8175
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+  "genre_ids": [
+    14,
+    18,
+    10749
+  ],
+  "id": 8966,
+  "original_language": "en",
+  "original_title": "Twilight",
+  "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+  "popularity": 113.116,
+  "poster_path": "/60IEwC4FaHSRpVEAM6iNpXZ5oSA.jpg",
+  "release_date": "2008-11-20",
+  "title": "Twilight",
+  "video": false,
+  "vote_average": 6.292,
+  "vote_count": 12277
+}

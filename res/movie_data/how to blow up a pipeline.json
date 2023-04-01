@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/i2MVCHL8vuP8G0WxxQB1eJ7T84G.jpg",
+  "genre_ids": [
+    80,
+    18,
+    53
+  ],
+  "id": 1008048,
+  "original_language": "en",
+  "original_title": "How to Blow Up a Pipeline",
+  "overview": "A crew of young environmental activists execute a daring mission to sabotage an oil pipeline.",
+  "popularity": 15.998,
+  "poster_path": "/AgIU3R9E73DEZI2M7b6241sBPvn.jpg",
+  "release_date": "2023-04-07",
+  "title": "How to Blow Up a Pipeline",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0
+}

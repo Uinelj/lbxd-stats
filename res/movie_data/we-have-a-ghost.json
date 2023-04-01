@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/6VX3TrYBtnMOHp3v44lIWWnEp7N.jpg",
+  "genre_ids": [
+    35,
+    14,
+    10751,
+    12
+  ],
+  "id": 852096,
+  "original_language": "en",
+  "original_title": "We Have a Ghost",
+  "overview": "After Kevin finds a ghost named Ernest haunting his new home, he becomes an overnight social media sensation. But when Kevin and Ernest go rogue to investigate the mystery of the latter's past, they become targets of the CIA.",
+  "popularity": 123.102,
+  "poster_path": "/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg",
+  "release_date": "2023-02-24",
+  "title": "We Have a Ghost",
+  "video": false,
+  "vote_average": 6.626,
+  "vote_count": 302
+}

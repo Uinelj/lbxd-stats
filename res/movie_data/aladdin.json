@@ -1,0 +1,22 @@
+{
+  "adult": false,
+  "backdrop_path": "/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    12,
+    14,
+    10749
+  ],
+  "id": 812,
+  "original_language": "en",
+  "original_title": "Aladdin",
+  "overview": "Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street-urchin Aladdin.  The couple falls in love, although Jasmine may only marry a prince.  After being thrown in jail, Aladdin becomes embroiled in a plot to find a mysterious lamp, with which the evil Jafar hopes to rule the land.",
+  "popularity": 61.623,
+  "poster_path": "/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",
+  "release_date": "1992-11-25",
+  "title": "Aladdin",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 10209
+}

@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/5uLqjVQlKNR4MbOeuheaRihPxAx.jpg",
+  "genre_ids": [
+    53,
+    878,
+    18,
+    27
+  ],
+  "id": 333371,
+  "original_language": "en",
+  "original_title": "10 Cloverfield Lane",
+  "overview": "After getting in a car accident, a woman is held in a shelter with two men, who claim the outside world is affected by a widespread chemical attack.",
+  "popularity": 25.128,
+  "poster_path": "/84Dhwz93vCin6T1PX6ctSvWEuNE.jpg",
+  "release_date": "2016-03-10",
+  "title": "10 Cloverfield Lane",
+  "video": false,
+  "vote_average": 6.976,
+  "vote_count": 7097
+}

@@ -1,0 +1,22 @@
+{
+  "adult": false,
+  "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+  "genre_ids": [
+    16,
+    28,
+    35,
+    10751,
+    878
+  ],
+  "id": 38055,
+  "original_language": "en",
+  "original_title": "Megamind",
+  "overview": "Bumbling supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.",
+  "popularity": 49.017,
+  "poster_path": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+  "release_date": "2010-10-28",
+  "title": "Megamind",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 6056
+}

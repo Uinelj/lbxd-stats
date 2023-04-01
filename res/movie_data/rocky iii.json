@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/1T7d8EuYnpZRc3yHxqa3vipZ2DE.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 1371,
+  "original_language": "en",
+  "original_title": "Rocky III",
+  "overview": "Now the world champion, Rocky Balboa is living in luxury and only fighting opponents who pose no threat to him in the ring, until Clubber Lang challenges him to a bout. After taking a pounding from Lang, the humbled champ turns to former bitter rival Apollo Creed for a rematch with Lang.",
+  "popularity": 45.937,
+  "poster_path": "/3avfzaUDxMieyEgGPopVvh8ABXR.jpg",
+  "release_date": "1982-05-28",
+  "title": "Rocky III",
+  "video": false,
+  "vote_average": 6.869,
+  "vote_count": 3551
+}

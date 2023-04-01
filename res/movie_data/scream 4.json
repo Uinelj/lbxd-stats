@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/c5EmNhLQsTTKAyUHULnKYQjlloz.jpg",
+  "genre_ids": [
+    27,
+    9648
+  ],
+  "id": 41446,
+  "original_language": "en",
+  "original_title": "Scream 4",
+  "overview": "Sidney returns home to Woodsboro on the last stop of her book tour, which brings about the return of Ghost Face and puts her family, friends, and the whole town in danger.",
+  "popularity": 89.841,
+  "poster_path": "/iENnwz4Xa0DDnarnWIFvMdgOJAi.jpg",
+  "release_date": "2011-04-11",
+  "title": "Scream 4",
+  "video": false,
+  "vote_average": 6.426,
+  "vote_count": 3030
+}

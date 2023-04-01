@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/cn9GQzCaeYylEV2hymVR8bskRMJ.jpg",
+  "genre_ids": [
+    9648,
+    35,
+    53
+  ],
+  "id": 766475,
+  "original_language": "en",
+  "original_title": "See How They Run",
+  "overview": "In the West End of 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after a pivotal member of the crew is murdered. When world-weary Inspector Stoppard and eager rookie Constable Stalker take on the case, the two find themselves thrown into a puzzling whodunit within the glamorously sordid theater underground, investigating the mysterious homicide at their own peril.",
+  "popularity": 20.576,
+  "poster_path": "/r3rpSAi2yukZwr9H2km0WKGODWo.jpg",
+  "release_date": "2022-09-09",
+  "title": "See How They Run",
+  "video": false,
+  "vote_average": 6.494,
+  "vote_count": 706
+}

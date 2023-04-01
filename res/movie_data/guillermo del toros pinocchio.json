@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/e782pDRAlu4BG0ahd777n8zfPzZ.jpg",
+  "genre_ids": [
+    16,
+    14,
+    18,
+    10402
+  ],
+  "id": 555604,
+  "original_language": "en",
+  "original_title": "Guillermo del Toro's Pinocchio",
+  "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+  "popularity": 303.892,
+  "poster_path": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+  "release_date": "2022-11-09",
+  "title": "Guillermo del Toro's Pinocchio",
+  "video": false,
+  "vote_average": 8.248,
+  "vote_count": 2125
+}

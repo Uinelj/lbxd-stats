@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/ypyzpI0qnBEHg8wdjMmaRdrReLV.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 889598,
+  "original_language": "en",
+  "original_title": "An Irish Goodbye",
+  "overview": "In rural Northern Ireland, following the untimely death of their mother, a young man with Down syndrome and his estranged brother discover her unfulfilled bucket list.",
+  "popularity": 5.612,
+  "poster_path": "/oR0lFQkXESt6TMinfO4ZsimcPxO.jpg",
+  "release_date": "2022-03-04",
+  "title": "An Irish Goodbye",
+  "video": false,
+  "vote_average": 6.611,
+  "vote_count": 18
+}

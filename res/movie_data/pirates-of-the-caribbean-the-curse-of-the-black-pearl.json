@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg",
+  "genre_ids": [
+    12,
+    14,
+    28
+  ],
+  "id": 22,
+  "original_language": "en",
+  "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "overview": "Jack Sparrow, a freewheeling 18th-century pirate, quarrels with a rival pirate bent on pillaging Port Royal. When the governor's daughter is kidnapped, Sparrow decides to help the girl's love save her.",
+  "popularity": 104.28,
+  "poster_path": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+  "release_date": "2003-07-09",
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "video": false,
+  "vote_average": 7.783,
+  "vote_count": 18569
+}

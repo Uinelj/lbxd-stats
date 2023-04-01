@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/pS4oSxn9g0PAzkWD5zrSOuRIgT6.jpg",
+  "genre_ids": [
+    12,
+    35,
+    18,
+    14
+  ],
+  "id": 798286,
+  "original_language": "en",
+  "original_title": "Beau Is Afraid",
+  "overview": "A paranoid man embarks on an epic odyssey to get home to his mother.",
+  "popularity": 37.398,
+  "poster_path": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+  "release_date": "2023-04-14",
+  "title": "Beau Is Afraid",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
+  "genre_ids": [
+    18,
+    10749,
+    36
+  ],
+  "id": 331482,
+  "original_language": "en",
+  "original_title": "Little Women",
+  "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+  "popularity": 38.42,
+  "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+  "release_date": "2019-12-25",
+  "title": "Little Women",
+  "video": false,
+  "vote_average": 7.905,
+  "vote_count": 5385
+}

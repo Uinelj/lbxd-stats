@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/a2tys4sD7xzVaogPntGsT1ypVoT.jpg",
+  "genre_ids": [
+    53,
+    35,
+    80
+  ],
+  "id": 804150,
+  "original_language": "en",
+  "original_title": "Cocaine Bear",
+  "overview": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+  "popularity": 2768.807,
+  "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+  "release_date": "2023-02-22",
+  "title": "Cocaine Bear",
+  "video": false,
+  "vote_average": 6.51,
+  "vote_count": 568
+}

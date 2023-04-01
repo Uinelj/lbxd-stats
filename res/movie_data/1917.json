@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+  "genre_ids": [
+    10752,
+    18,
+    36
+  ],
+  "id": 530915,
+  "original_language": "en",
+  "original_title": "1917",
+  "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+  "popularity": 31.651,
+  "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+  "release_date": "2019-12-25",
+  "title": "1917",
+  "video": false,
+  "vote_average": 7.986,
+  "vote_count": 10860
+}

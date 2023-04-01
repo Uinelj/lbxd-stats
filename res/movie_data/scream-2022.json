@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+  "genre_ids": [
+    27,
+    9648,
+    53
+  ],
+  "id": 646385,
+  "original_language": "en",
+  "original_title": "Scream",
+  "overview": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town\u2019s deadly past.",
+  "popularity": 294.918,
+  "poster_path": "/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg",
+  "release_date": "2022-01-12",
+  "title": "Scream",
+  "video": false,
+  "vote_average": 6.735,
+  "vote_count": 2249
+}

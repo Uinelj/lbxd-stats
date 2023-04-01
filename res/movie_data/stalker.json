@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/dQoRGk9r0k0wfk1wMCCwzRMT2zm.jpg",
+  "genre_ids": [
+    27,
+    53
+  ],
+  "id": 1004130,
+  "original_language": "en",
+  "original_title": "Stalker",
+  "overview": "Rose Hepburn, a young actor working in horror movies, returns to her empty hotel. Forced to use the old freight elevator, it jolts to a halt on the twelfth floor, leaving her trapped with an unusual stranger. Left with no mobile phone signal as a storm approaches, tensions escalate and suspicions rise when Rose discovers the identity of the mysterious man is Daniel Reed, a camera operator on her latest movie, who is seemingly obsessed with her. As the elevator hangs precariously high about to plunge down at any minute, some harsh truths and actions start unfolding.",
+  "popularity": 11.701,
+  "poster_path": "/g6aZ3KUntef8IbT16uMNSkcUPe1.jpg",
+  "release_date": "2023-03-31",
+  "title": "Stalker",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0
+}

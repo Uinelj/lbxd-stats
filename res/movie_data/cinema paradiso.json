@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 11216,
+  "original_language": "it",
+  "original_title": "Nuovo Cinema Paradiso",
+  "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+  "popularity": 23.985,
+  "poster_path": "/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+  "release_date": "1988-11-17",
+  "title": "Cinema Paradiso",
+  "video": false,
+  "vote_average": 8.462,
+  "vote_count": 3691
+}

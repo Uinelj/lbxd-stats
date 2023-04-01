@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/dp4jcu2tlAyJnJNnCyHXnWnqhUl.jpg",
+  "genre_ids": [
+    80,
+    18,
+    53
+  ],
+  "id": 889699,
+  "original_language": "fa",
+  "original_title": "\u0639\u0646\u06a9\u0628\u0648\u062a \u0645\u0642\u062f\u0633",
+  "overview": "A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so called \"Spider Killer\", who believes he is cleansing the streets of sinners.",
+  "popularity": 14.701,
+  "poster_path": "/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg",
+  "release_date": "2022-07-13",
+  "title": "Holy Spider",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 145
+}

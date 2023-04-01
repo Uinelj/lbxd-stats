@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+  "genre_ids": [
+    18,
+    14,
+    10749
+  ],
+  "id": 399055,
+  "original_language": "en",
+  "original_title": "The Shape of Water",
+  "overview": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
+  "popularity": 30.383,
+  "poster_path": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+  "release_date": "2017-12-01",
+  "title": "The Shape of Water",
+  "video": false,
+  "vote_average": 7.249,
+  "vote_count": 11214
+}

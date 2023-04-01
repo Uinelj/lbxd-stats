@@ -1,0 +1,22 @@
+{
+  "adult": false,
+  "backdrop_path": "/mVuH9hNGnxF9bbhlh1Tr9FuG3Uc.jpg",
+  "genre_ids": [
+    12,
+    16,
+    10751,
+    14,
+    878
+  ],
+  "id": 9016,
+  "original_language": "en",
+  "original_title": "Treasure Planet",
+  "overview": "When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic \"loot of a thousand worlds,\" a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.",
+  "popularity": 32.807,
+  "poster_path": "/zMKatZ0c0NCoKzfizaCzVUcbKMf.jpg",
+  "release_date": "2002-11-26",
+  "title": "Treasure Planet",
+  "video": false,
+  "vote_average": 7.528,
+  "vote_count": 3634
+}

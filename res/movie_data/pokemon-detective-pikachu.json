@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
+  "genre_ids": [
+    28,
+    12,
+    14
+  ],
+  "id": 447404,
+  "original_language": "en",
+  "original_title": "Pok\u00e9mon Detective Pikachu",
+  "overview": "In a world where people collect pocket-size monsters (Pok\u00e9mon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+  "popularity": 56.045,
+  "poster_path": "/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg",
+  "release_date": "2019-05-10",
+  "title": "Pok\u00e9mon Detective Pikachu",
+  "video": false,
+  "vote_average": 6.966,
+  "vote_count": 6042
+}

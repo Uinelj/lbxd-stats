@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+  "genre_ids": [
+    10751,
+    35,
+    14
+  ],
+  "id": 8871,
+  "original_language": "en",
+  "original_title": "How the Grinch Stole Christmas",
+  "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
+  "popularity": 50.906,
+  "poster_path": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+  "release_date": "2000-11-15",
+  "title": "How the Grinch Stole Christmas",
+  "video": false,
+  "vote_average": 6.745,
+  "vote_count": 6494
+}

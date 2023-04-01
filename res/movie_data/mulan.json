@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    12
+  ],
+  "id": 10674,
+  "original_language": "en",
+  "original_title": "Mulan",
+  "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+  "popularity": 98.859,
+  "poster_path": "/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+  "release_date": "1998-06-18",
+  "title": "Mulan",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 8600
+}

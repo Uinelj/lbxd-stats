@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/qkLZoJ1h998eJEmbuHGPCKZF0y7.jpg",
+  "genre_ids": [
+    12,
+    18,
+    878,
+    14
+  ],
+  "id": 387426,
+  "original_language": "en",
+  "original_title": "Okja",
+  "overview": "A young girl named Mija risks everything to prevent a powerful, multi-national company from kidnapping her best friend - a massive animal named Okja.",
+  "popularity": 17.29,
+  "poster_path": "/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg",
+  "release_date": "2017-06-28",
+  "title": "Okja",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 3874
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    14
+  ],
+  "id": 14836,
+  "original_language": "en",
+  "original_title": "Coraline",
+  "overview": "A young girl discovers an idealized parallel universe behind a secret door in her new home, unaware that it contains a sinister secret.",
+  "popularity": 129.355,
+  "poster_path": "/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg",
+  "release_date": "2009-02-05",
+  "title": "Coraline",
+  "video": false,
+  "vote_average": 7.821,
+  "vote_count": 6469
+}

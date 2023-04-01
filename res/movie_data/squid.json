@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/AjQ0f9MnlScffNUWJQxxIbYUWXW.jpg",
+  "genre_ids": [
+    35,
+    18
+  ],
+  "id": 10707,
+  "original_language": "en",
+  "original_title": "The Squid and the Whale",
+  "overview": "Based on the true childhood experiences of Noah Baumbach and his brother, The Squid and the Whale tells the touching story of two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
+  "popularity": 13.998,
+  "poster_path": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+  "release_date": "2005-10-05",
+  "title": "The Squid and the Whale",
+  "video": false,
+  "vote_average": 6.961,
+  "vote_count": 790
+}

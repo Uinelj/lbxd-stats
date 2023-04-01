@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/cBR4g7jOlENyQl3oD4SZjwwZQq7.jpg",
+  "genre_ids": [
+    16,
+    18
+  ],
+  "id": 965171,
+  "original_language": "pt",
+  "original_title": "Ice Merchants",
+  "overview": "Every day, a father and his son jump with a parachute from their vertiginous cold house, attached to a cliff, to go to the village on the ground, far away where they sell the ice they produce daily.",
+  "popularity": 2.099,
+  "poster_path": "/7FahiLihDd3zMn6bXcH3zyDZZm.jpg",
+  "release_date": "2022-05-24",
+  "title": "Ice Merchants",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 24
+}

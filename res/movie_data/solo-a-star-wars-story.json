@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/ojHCeDULAkQK25700fhRU75Tur2.jpg",
+  "genre_ids": [
+    878,
+    12,
+    28
+  ],
+  "id": 348350,
+  "original_language": "en",
+  "original_title": "Solo: A Star Wars Story",
+  "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+  "popularity": 41.612,
+  "poster_path": "/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg",
+  "release_date": "2018-05-15",
+  "title": "Solo: A Star Wars Story",
+  "video": false,
+  "vote_average": 6.564,
+  "vote_count": 7601
+}

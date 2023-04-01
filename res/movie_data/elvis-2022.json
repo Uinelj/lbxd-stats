@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/kaoTwHrJDmCPDLriN68pjlgx4R.jpg",
+  "genre_ids": [
+    18,
+    10402,
+    36
+  ],
+  "id": 614934,
+  "original_language": "en",
+  "original_title": "Elvis",
+  "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+  "popularity": 67.309,
+  "poster_path": "/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg",
+  "release_date": "2022-06-22",
+  "title": "Elvis",
+  "video": false,
+  "vote_average": 7.652,
+  "vote_count": 2462
+}
