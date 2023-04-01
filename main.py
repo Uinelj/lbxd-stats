@@ -99,21 +99,25 @@ if __name__ == "__main__":
     wl = Watchlist(watchlist_path)
     m = Measures(measures_path)
 
+    # keep trace of movies where we got new measures
+    updated_movies = list()
+
     # get popular movies
-    new_movies = popular_movies()
-    new_movies.extend(popular_movies_v2(PopularPeriod.Week))
-    new_movies.extend(popular_movies_v2(PopularPeriod.Month))
-    new_movies.extend(popular_movies_v2(PopularPeriod.Year))
-    new_movies.extend(popular_movies_v2(PopularPeriod.AllTime))
+    pop_movies = popular_movies()
+    pop_movies.extend(popular_movies_v2(PopularPeriod.Week))
+    pop_movies.extend(popular_movies_v2(PopularPeriod.Month))
+    pop_movies.extend(popular_movies_v2(PopularPeriod.Year))
+    pop_movies.extend(popular_movies_v2(PopularPeriod.AllTime))
 
     # convert to set to remove duplicates
-    new_movies = set(new_movies)
+    pop_movies = set(pop_movies)
     # TODO: ensure that new movies were not yet present
 
     # query measures for new movies that are not yet watchlisted
-    for movieid in filter(lambda newmovie: not wl.contains(newmovie), new_movies):
+    for movieid in filter(lambda newmovie: not wl.contains(newmovie), pop_movies):
         log.info(f"New movie monitored: {movieid}")
         m.query_add(movieid)
+        updated_movies.append(movieid)
 
     # query measures for old movies
     nb_query = int(prob_query * len(wl))
@@ -125,9 +129,10 @@ if __name__ == "__main__":
     log.info(f"updating {nb_query} movies")
     for movieid in wl.getn(nb_query):
         m.query_add(movieid)
+        updated_movies.append(movieid)
 
     # add new movies to watchlist
-    wl.add_multiple(new_movies)
+    wl.add_multiple(pop_movies)
 
     # shuffle list
     wl.shuffle()
@@ -137,4 +142,4 @@ if __name__ == "__main__":
     m.append_to_file()
 
     # gen graph info
-    front.gen_graph_info()
+    front.gen_graph_info(updated_movies)

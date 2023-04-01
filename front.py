@@ -18,10 +18,16 @@ def movie_iter(measures_path):
     pl.scan_ndjson(MEASURES)
 
 
-def gen_graph_info():
+def gen_graph_info(updated_movies):
     df = pl.scan_ndjson(MEASURES)
 
     df = df.with_columns(pl.col("timestamp").apply(lambda x: datetime.fromisoformat(x)))
+
+    print(df.with_columns(pl.col("movie")).collect())
+    # ignore movies that haven't been updated
+    df = df.filter(pl.col("movie").is_in(updated_movies))
+
+    print(df.with_columns(pl.col("movie")).collect())
     # go form one rating per row to one movie
     # per row (aggregating scores, timestamps and counts)
     by_movie = (
