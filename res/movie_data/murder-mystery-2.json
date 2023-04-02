@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/bT3IpP7OopgiVuy6HCPOWLuaFAd.jpg",
+  "genre_ids": [
+    35,
+    9648,
+    28
+  ],
+  "id": 638974,
+  "original_language": "en",
+  "original_title": "Murder Mystery 2",
+  "overview": "After starting their own detective agency, Nick and Audrey Spitz land a career-making case when their billionaire pal is kidnapped from his wedding.",
+  "popularity": 235.901,
+  "poster_path": "/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg",
+  "release_date": "2023-03-26",
+  "title": "Murder Mystery 2",
+  "video": false,
+  "vote_average": 6.855,
+  "vote_count": 166
+}

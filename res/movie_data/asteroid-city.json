@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/giTLTUNDU7DXhJEzsuCOkQhZcmi.jpg",
+  "genre_ids": [
+    35,
+    10749,
+    878
+  ],
+  "id": 747188,
+  "original_language": "en",
+  "original_title": "Asteroid City",
+  "overview": "Set in a fictional American desert town circa 1955, the itinerary of a Junior Stargazer/Space Cadet convention (organized to bring together students and parents from across the country for fellowship and scholarly competition) is spectacularly disrupted by world-changing events.",
+  "popularity": 36.302,
+  "poster_path": "/qdq40gRS8xKnpFt5V75t6lUHgpx.jpg",
+  "release_date": "2023-06-09",
+  "title": "Asteroid City",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0
+}
