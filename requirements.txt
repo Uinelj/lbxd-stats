@@ -5,3 +5,4 @@ polars
 plotly
 pyarrow
 statsmodels
+tmdbv3api
