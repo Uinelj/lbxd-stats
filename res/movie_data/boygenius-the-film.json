@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/mPdEobsEVzgq7Yub4YHIPqHi8NG.jpg",
+  "genre_ids": [
+    10402
+  ],
+  "id": 1106409,
+  "original_language": "en",
+  "original_title": "Boygenius: The Film",
+  "overview": "A special presentation of three songs by the US indie rock band Boygenius.",
+  "popularity": 7.531,
+  "poster_path": "/ipCYlxJdrHXUNXzvZPB84YYv0DP.jpg",
+  "release_date": "2023-03-30",
+  "title": "Boygenius: The Film",
+  "video": false,
+  "vote_average": 9.667,
+  "vote_count": 6
+}
