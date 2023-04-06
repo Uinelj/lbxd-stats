@@ -10,18 +10,21 @@
       "marker": {
         "symbol": "circle"
       },
-      "mode": "markers+lines+text",
+      "mode": "lines+markers+text",
       "name": "",
       "orientation": "v",
       "showlegend": false,
       "text": [
+        4.12,
         4.12
       ],
       "x": [
-        "2023-03-19T19:34:43.542024"
+        "2023-03-19T19:34:43.542024",
+        "2023-04-06T01:21:47.981056"
       ],
       "xaxis": "x",
       "y": [
+        4.12,
         4.12
       ],
       "yaxis": "y",
