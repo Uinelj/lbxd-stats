@@ -32,9 +32,9 @@ class Watchlist:
 
     def getn(self, n):
         log.info(f"getting {n} movies from watchlist")
-        l = list(self.watchlist)
-        random.shuffle(l)
-        return l[:n]
+        watchlist = list(self.watchlist)
+        random.shuffle(watchlist)
+        return watchlist[:n]
 
     def __len__(self):
         return len(self.watchlist)
