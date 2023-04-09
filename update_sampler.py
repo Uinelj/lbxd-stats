@@ -9,6 +9,9 @@ from glob import glob
 import json
 from pathlib import Path
 from datetime import datetime
+import logging
+
+log = logging.getLogger(__name__)
 
 
 class UpdateSampler:
@@ -179,10 +182,15 @@ class UpdateSampler:
         to_update = list(
             choice(results["id"], p=results["h_prob"], size=nb_samples, replace=False)
         )
-        return to_update
-        # results.filter(pl.col("id").is_in(to_update)).sort("h_prob")
 
-    def run(self):
+        log.info(
+            self.df.filter(pl.col("id").is_in(to_update))
+            .sort("h_prob")
+            .select([pl.col("id"), pl.col("h"), pl.col("h_prob")])
+        )
+        return to_update
+
+    def run(self, nb_samples):
         self._build_df()
         self._compute_last_measures()
         self._compute_days_since_release()
@@ -190,7 +198,7 @@ class UpdateSampler:
         self._compute_note_variability()
         self._normalize_metrics()
         self._compute_heuristic()
-        return self.sample()
+        return self.sample(nb_samples)
 
 
 if __name__ == "__main__":

@@ -4,6 +4,7 @@ import front
 import logging
 from utils import DateTimeEncoder
 from watchlist import Watchlist
+from update_sampler import UpdateSampler
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
@@ -61,8 +62,9 @@ if __name__ == "__main__":
     wl = Watchlist(watchlist_path)
     m = Measures(measures_path)
     mi = MovieInfo()
+    us = UpdateSampler()
     # keep trace of movies where we got new measures
-    updated_movies = list()
+    updated_movies = []
 
     # get popular movies
     pop_movies = popular_movies()
@@ -84,13 +86,17 @@ if __name__ == "__main__":
 
     # query measures for old movies
     nb_query = int(prob_query * len(wl))
+
     if nb_query < min_number_updates:
         log.info(
             f"computed query number too short ({nb_query}), using {min_number_updates}."
         )
         nb_query = min_number_updates
     log.info(f"updating {nb_query} movies")
-    for movieid in wl.getn(nb_query):
+
+    to_update = us.run(nb_samples=nb_query)
+    for movieid in to_update:
+        log.debug(f"updating {movieid}")
         m.query_add(movieid)
         updated_movies.append(movieid)
 
