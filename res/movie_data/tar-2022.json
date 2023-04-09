@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/fwnXTIWQl1Ky6CgcWMBhkn9uV3g.jpg",
-  "genre_ids": [
-    18,
-    10402
-  ],
   "id": 817758,
   "original_language": "en",
   "original_title": "T\u00c1R",
   "overview": "Renowned musician Lydia T\u00e1r is days away from recording the symphony that will elevate her career.  However, Lydia's elaborate facade begins to unravel, revealing dirty secrets and the corrosive nature of power.",
-  "popularity": 48.861,
+  "popularity": 56.377,
   "poster_path": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
   "release_date": "2022-09-23",
   "title": "T\u00c1R",
   "video": false,
-  "vote_average": 7.231,
-  "vote_count": 633
+  "vote_average": 7.224,
+  "vote_count": 646
 }

@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
-  "genre_ids": [
-    80,
-    18,
-    9648,
-    53
-  ],
   "id": 829,
   "original_language": "en",
   "original_title": "Chinatown",
   "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
-  "popularity": 18.957,
+  "popularity": 27.294,
   "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
   "release_date": "1974-06-20",
   "title": "Chinatown",
   "video": false,
   "vote_average": 7.925,
-  "vote_count": 3261
+  "vote_count": 3271
 }

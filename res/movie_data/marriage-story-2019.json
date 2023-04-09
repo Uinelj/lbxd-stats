@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/4PCO7tewIGnE6ySjVf2DbJ3pjqq.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 492188,
   "original_language": "en",
   "original_title": "Marriage Story",
   "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
-  "popularity": 23.303,
+  "popularity": 29.875,
   "poster_path": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
   "release_date": "2019-09-28",
   "title": "Marriage Story",
   "video": false,
-  "vote_average": 7.758,
-  "vote_count": 6226
+  "vote_average": 7.757,
+  "vote_count": 6239
 }

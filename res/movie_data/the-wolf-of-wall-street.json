@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
-  "genre_ids": [
-    80,
-    18,
-    35
-  ],
   "id": 106646,
   "original_language": "en",
   "original_title": "The Wolf of Wall Street",
   "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-  "popularity": 128.446,
+  "popularity": 190.01,
   "poster_path": "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
   "release_date": "2013-12-25",
   "title": "The Wolf of Wall Street",
   "video": false,
-  "vote_average": 8.036,
-  "vote_count": 21318
+  "vote_average": 8.0,
+  "vote_count": 21362
 }

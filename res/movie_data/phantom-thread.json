@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/vpRMzPqHC03I7hPPET4Av2OT8dI.jpg",
-  "genre_ids": [
-    18,
-    10749
-  ],
   "id": 400617,
   "original_language": "en",
   "original_title": "Phantom Thread",
   "overview": "In 1950s London, renowned British dressmaker Reynolds Woodcock comes across Alma, a young, strong-willed woman, who soon becomes ever present in his life as his muse and lover.",
-  "popularity": 11.928,
+  "popularity": 21.145,
   "poster_path": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
   "release_date": "2017-12-25",
   "title": "Phantom Thread",
   "video": false,
-  "vote_average": 7.3,
-  "vote_count": 3093
+  "vote_average": 7.299,
+  "vote_count": 3101
 }

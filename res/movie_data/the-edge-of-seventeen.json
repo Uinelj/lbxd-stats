@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/zxQMedIezpcS6Npx8Q5o30WNDhC.jpg",
-  "genre_ids": [
-    35,
-    18
-  ],
   "id": 376660,
   "original_language": "en",
   "original_title": "The Edge of Seventeen",
   "overview": "Two high school girls are best friends until one dates the other's older brother, who is totally his sister's nemesis.",
-  "popularity": 18.681,
+  "popularity": 19.743,
   "poster_path": "/iY5UEYuGxHfaYJ3vAUAWwFGMV7V.jpg",
   "release_date": "2016-11-18",
   "title": "The Edge of Seventeen",
   "video": false,
   "vote_average": 7.177,
-  "vote_count": 3733
+  "vote_count": 3737
 }

@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
-  "genre_ids": [
-    35,
-    12,
-    10751
-  ],
   "id": 116149,
   "original_language": "en",
   "original_title": "Paddington",
   "overview": "A young Peruvian bear travels to London in search of a new home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family.",
-  "popularity": 21.734,
+  "popularity": 25.918,
   "poster_path": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
   "release_date": "2014-11-24",
   "title": "Paddington",
   "video": false,
   "vote_average": 7.064,
-  "vote_count": 3184
+  "vote_count": 3191
 }

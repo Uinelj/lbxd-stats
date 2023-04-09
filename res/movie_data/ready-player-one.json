@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/dbrLfmFNFEJWv8rLnjpgCKlXWSy.jpg",
-  "genre_ids": [
-    878,
-    12,
-    28
-  ],
   "id": 333339,
   "original_language": "en",
   "original_title": "Ready Player One",
   "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
-  "popularity": 70.923,
+  "popularity": 100.208,
   "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
   "release_date": "2018-03-28",
   "title": "Ready Player One",
   "video": false,
   "vote_average": 7.615,
-  "vote_count": 13886
+  "vote_count": 13908
 }

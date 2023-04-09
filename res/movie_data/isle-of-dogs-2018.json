@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
-  "genre_ids": [
-    12,
-    35,
-    16
-  ],
   "id": 399174,
   "original_language": "en",
   "original_title": "Isle of Dogs",
   "overview": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that's a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
-  "popularity": 17.551,
+  "popularity": 27.713,
   "poster_path": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
   "release_date": "2018-03-23",
   "title": "Isle of Dogs",
   "video": false,
   "vote_average": 7.86,
-  "vote_count": 4217
+  "vote_count": 4224
 }

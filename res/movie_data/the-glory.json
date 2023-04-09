@@ -1,21 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/fCK2T5ruQrqRsciJ01jjQSkNWVq.jpg",
-  "genre_ids": [
-    16,
-    28,
-    12,
-    14
-  ],
-  "id": 613200,
-  "original_language": "zh",
-  "original_title": "\u5168\u804c\u9ad8\u624b\u4e4b\u5dc5\u5cf0\u8363\u8000",
-  "overview": "Prequel movie to the animated series The King's Avatar, dealing with Ye Xiu's original entry into the pro gaming world of Glory, and the first Pro League series tournament.",
-  "popularity": 27.544,
-  "poster_path": "/aQ7ZUDxcSf8U4ynCstNCMLgdhrD.jpg",
-  "release_date": "2019-08-16",
-  "title": "The King's Avatar: For the Glory",
+  "backdrop_path": null,
+  "id": 136283,
+  "original_language": "fr",
+  "original_title": "Dans l'oeil d'un tueur",
+  "overview": "",
+  "popularity": 0.6,
+  "poster_path": null,
+  "release_date": "",
+  "title": "Dans l'oeil d'un tueur",
   "video": false,
-  "vote_average": 6.593,
-  "vote_count": 27
+  "vote_average": 3.0,
+  "vote_count": 2
 }

@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
-  "genre_ids": [
-    28,
-    35,
-    80,
-    53
-  ],
   "id": 899112,
   "original_language": "en",
   "original_title": "Violent Night",
   "overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn\u2019t prepared for a surprise combatant: Santa Claus is on the grounds, and he\u2019s about to show why this Nick is no saint.",
-  "popularity": 323.518,
+  "popularity": 400.782,
   "poster_path": "/1XSYOP0JjjyMz1irihvWywro82r.jpg",
   "release_date": "2022-11-30",
   "title": "Violent Night",
   "video": false,
-  "vote_average": 7.559,
-  "vote_count": 1328
+  "vote_average": 7.549,
+  "vote_count": 1356
 }

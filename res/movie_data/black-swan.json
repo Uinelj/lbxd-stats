@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg",
-  "genre_ids": [
-    18,
-    53,
-    27
-  ],
   "id": 44214,
   "original_language": "en",
   "original_title": "Black Swan",
   "overview": "A journey through the psyche of a young ballerina whose starring role as the duplicitous swan queen turns out to be a part for which she becomes frighteningly perfect.",
-  "popularity": 31.886,
+  "popularity": 43.926,
   "poster_path": "/8XYghKF0xkxp5A7QtK2F5vffdpZ.jpg",
   "release_date": "2010-12-03",
   "title": "Black Swan",
   "video": false,
   "vote_average": 7.663,
-  "vote_count": 13120
+  "vote_count": 13143
 }

@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/xOpQ4jIQJ0HSUhVDixZA9yWqVBP.jpg",
-  "genre_ids": [
-    18,
-    10751
-  ],
   "id": 505192,
   "original_language": "ja",
   "original_title": "\u4e07\u5f15\u304d\u5bb6\u65cf",
   "overview": "After one of their shoplifting sessions, Osamu and his son come across a little girl in the freezing cold. At first reluctant to shelter the girl, Osamu\u2019s wife agrees to take care of her after learning of the hardships she faces. Although the family is poor, barely making enough money to survive through petty crime, they seem to live happily together until an unforeseen incident reveals hidden secrets, testing the bonds that unite them.",
-  "popularity": 14.703,
+  "popularity": 11.934,
   "poster_path": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
   "release_date": "2018-06-02",
   "title": "Shoplifters",
   "video": false,
-  "vote_average": 7.862,
-  "vote_count": 1732
+  "vote_average": 7.865,
+  "vote_count": 1736
 }

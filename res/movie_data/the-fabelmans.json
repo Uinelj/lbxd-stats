@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 804095,
   "original_language": "en",
   "original_title": "The Fabelmans",
   "overview": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
-  "popularity": 69.292,
+  "popularity": 62.485,
   "poster_path": "/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg",
   "release_date": "2022-11-11",
   "title": "The Fabelmans",
   "video": false,
-  "vote_average": 7.868,
-  "vote_count": 1205
+  "vote_average": 7.858,
+  "vote_count": 1241
 }

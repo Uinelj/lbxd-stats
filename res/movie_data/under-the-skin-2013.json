@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/sfqnvsK7sG0id3MLNg0FQIgyogu.jpg",
-  "genre_ids": [
-    53,
-    878,
-    18
-  ],
   "id": 97370,
   "original_language": "en",
   "original_title": "Under the Skin",
   "overview": "A seductive alien prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
-  "popularity": 19.482,
+  "popularity": 22.259,
   "poster_path": "/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
   "release_date": "2014-03-14",
   "title": "Under the Skin",
   "video": false,
-  "vote_average": 6.118,
-  "vote_count": 2997
+  "vote_average": 6.122,
+  "vote_count": 3004
 }

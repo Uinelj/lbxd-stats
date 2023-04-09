@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
-  "genre_ids": [
-    12,
-    14,
-    18
-  ],
   "id": 587,
   "original_language": "en",
   "original_title": "Big Fish",
   "overview": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
-  "popularity": 22.5,
+  "popularity": 25.442,
   "poster_path": "/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
   "release_date": "2003-12-25",
   "title": "Big Fish",
   "video": false,
-  "vote_average": 7.765,
-  "vote_count": 6515
+  "vote_average": 7.767,
+  "vote_count": 6528
 }

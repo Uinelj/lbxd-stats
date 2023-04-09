@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
-  "genre_ids": [
-    53,
-    80
-  ],
   "id": 429200,
   "original_language": "en",
   "original_title": "Good Time",
   "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
-  "popularity": 13.291,
+  "popularity": 18.144,
   "poster_path": "/s6DJXJU3HzX24Ij3VWg5MfVGHrI.jpg",
   "release_date": "2017-08-11",
   "title": "Good Time",
   "video": false,
   "vote_average": 7.216,
-  "vote_count": 2493
+  "vote_count": 2499
 }

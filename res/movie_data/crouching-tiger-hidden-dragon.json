@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
-  "genre_ids": [
-    12,
-    18,
-    28,
-    10749
-  ],
   "id": 146,
   "original_language": "zh",
   "original_title": "\u5367\u864e\u85cf\u9f8d",
   "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
-  "popularity": 19.76,
+  "popularity": 23.992,
   "poster_path": "/wqwIbYNRGzqh8oOM98bK35gEWqg.jpg",
   "release_date": "2000-07-06",
   "title": "Crouching Tiger, Hidden Dragon",
   "video": false,
-  "vote_average": 7.403,
-  "vote_count": 2773
+  "vote_average": 7.402,
+  "vote_count": 2781
 }

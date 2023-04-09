@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/hY97iRKr2t44lbX2GHRhfK5CVC7.jpg",
-  "genre_ids": [
-    99
-  ],
   "id": 1004663,
   "original_language": "en",
   "original_title": "All the Beauty and the Bloodshed",
   "overview": "The life of internationally renowned artist and activist Nan Goldin is told through her slideshows, intimate interviews, ground-breaking photography, and rare footage of her personal fight to hold the Sackler family accountable for the overdose crisis.",
-  "popularity": 13.244,
+  "popularity": 17.389,
   "poster_path": "/cvO51xxtIUHc5w5ZgFsigiFaUaO.jpg",
   "release_date": "2022-11-23",
   "title": "All the Beauty and the Bloodshed",
   "video": false,
-  "vote_average": 7.4,
-  "vote_count": 47
+  "vote_average": 7.5,
+  "vote_count": 51
 }

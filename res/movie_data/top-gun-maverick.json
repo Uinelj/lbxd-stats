@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
-  "genre_ids": [
-    28,
-    18
-  ],
   "id": 361743,
   "original_language": "en",
   "original_title": "Top Gun: Maverick",
   "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
-  "popularity": 361.418,
+  "popularity": 502.62,
   "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
   "release_date": "2022-05-24",
   "title": "Top Gun: Maverick",
   "video": false,
   "vote_average": 8.3,
-  "vote_count": 6474
+  "vote_count": 6547
 }

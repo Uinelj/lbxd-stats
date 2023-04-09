@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/hJN3ZaueIDWFO5FfxoXdiP6Y4oH.jpg",
-  "genre_ids": [
-    18,
-    9648
-  ],
   "id": 823766,
   "original_language": "en",
   "original_title": "The Wonder",
   "overview": "Haunted by her past, a nurse travels from England to a remote Irish village in 1862 to investigate a young girl's supposedly miraculous fast.",
-  "popularity": 50.436,
+  "popularity": 58.594,
   "poster_path": "/4dX1LPGuZG0FSoP9y9SyDKLYicy.jpg",
   "release_date": "2022-11-02",
   "title": "The Wonder",
   "video": false,
-  "vote_average": 6.667,
-  "vote_count": 547
+  "vote_average": 6.668,
+  "vote_count": 558
 }

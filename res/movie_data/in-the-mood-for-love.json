@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg",
-  "genre_ids": [
-    18,
-    10749
-  ],
   "id": 843,
   "original_language": "cn",
   "original_title": "\u82b1\u6a23\u5e74\u83ef",
   "overview": "Two neighbors become intimate after discovering that their spouses are having an affair with one another.",
-  "popularity": 23.46,
+  "popularity": 34.934,
   "poster_path": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
   "release_date": "2000-09-29",
   "title": "In the Mood for Love",
   "video": false,
   "vote_average": 8.11,
-  "vote_count": 2164
+  "vote_count": 2172
 }

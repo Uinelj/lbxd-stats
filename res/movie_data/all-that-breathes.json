@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/j2V5P9I56CMrhB7KRGk6J1bPvly.jpg",
-  "genre_ids": [
-    99
-  ],
   "id": 913838,
   "original_language": "hi",
   "original_title": "All That Breathes",
   "overview": "Against the darkening backdrop of New Delhi's apocalyptic air and escalating violence, two brothers devote their lives to protecting one casualty of the turbulent times: the bird known as the black kite.",
-  "popularity": 12.73,
+  "popularity": 5.327,
   "poster_path": "/4X01J7lpVdWWPTKvJKc2Zbqf9V.jpg",
   "release_date": "2022-10-21",
   "title": "All That Breathes",
   "video": false,
-  "vote_average": 7.0,
-  "vote_count": 35
+  "vote_average": 6.986,
+  "vote_count": 37
 }

@@ -1,19 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/dQoRGk9r0k0wfk1wMCCwzRMT2zm.jpg",
-  "genre_ids": [
-    27,
-    53
-  ],
-  "id": 1004130,
-  "original_language": "en",
-  "original_title": "Stalker",
-  "overview": "Rose Hepburn, a young actor working in horror movies, returns to her empty hotel. Forced to use the old freight elevator, it jolts to a halt on the twelfth floor, leaving her trapped with an unusual stranger. Left with no mobile phone signal as a storm approaches, tensions escalate and suspicions rise when Rose discovers the identity of the mysterious man is Daniel Reed, a camera operator on her latest movie, who is seemingly obsessed with her. As the elevator hangs precariously high about to plunge down at any minute, some harsh truths and actions start unfolding.",
-  "popularity": 11.701,
-  "poster_path": "/g6aZ3KUntef8IbT16uMNSkcUPe1.jpg",
-  "release_date": "2023-03-31",
+  "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+  "id": 1398,
+  "original_language": "ru",
+  "original_title": "\u0421\u0442\u0430\u043b\u043a\u0435\u0440",
+  "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+  "popularity": 21.686,
+  "poster_path": "/rem87AyEochEuhn9VvAGoMQpigz.jpg",
+  "release_date": "1979-05-25",
   "title": "Stalker",
   "video": false,
-  "vote_average": 0.0,
-  "vote_count": 0
+  "vote_average": 8.202,
+  "vote_count": 1750
 }

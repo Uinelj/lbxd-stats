@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/gsR5KLGBDa7oqjPCciKDVuiWfcx.jpg",
-  "genre_ids": [
-    14,
-    18,
-    10752
-  ],
   "id": 1417,
   "original_language": "es",
   "original_title": "El laberinto del fauno",
   "overview": "Living with her tyrannical stepfather in a new home with her pregnant mother, 10-year-old Ofelia feels alone until she explores a decaying labyrinth guarded by a mysterious faun who claims to know her destiny. If she wishes to return to her real father, Ofelia must complete three terrifying tasks.",
-  "popularity": 34.592,
+  "popularity": 50.32,
   "poster_path": "/s8C4whhKtDaJvMDcyiMvx3BIF5F.jpg",
   "release_date": "2006-10-10",
   "title": "Pan's Labyrinth",
   "video": false,
   "vote_average": 7.752,
-  "vote_count": 9548
+  "vote_count": 9568
 }

@@ -1,22 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/9531Jp42H0ppRXjkxxgCulnQNZp.jpg",
-  "genre_ids": [
-    16,
-    10751,
-    12,
-    35,
-    14
-  ],
   "id": 137106,
   "original_language": "en",
   "original_title": "The Lego Movie",
   "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
-  "popularity": 31.7,
+  "popularity": 42.88,
   "poster_path": "/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
   "release_date": "2014-02-06",
   "title": "The Lego Movie",
   "video": false,
-  "vote_average": 7.414,
-  "vote_count": 6964
+  "vote_average": 7.413,
+  "vote_count": 6973
 }

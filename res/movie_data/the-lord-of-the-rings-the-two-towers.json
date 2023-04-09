@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/7ABgKch4hBX4qwCujRKM58fKsoG.jpg",
-  "genre_ids": [
-    12,
-    14,
-    28
-  ],
   "id": 121,
   "original_language": "en",
   "original_title": "The Lord of the Rings: The Two Towers",
   "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
-  "popularity": 81.526,
+  "popularity": 98.33,
   "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
   "release_date": "2002-12-18",
   "title": "The Lord of the Rings: The Two Towers",
   "video": false,
   "vote_average": 8.377,
-  "vote_count": 19514
+  "vote_count": 19549
 }

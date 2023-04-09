@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
-  "genre_ids": [
-    878,
-    28,
-    12
-  ],
   "id": 524434,
   "original_language": "en",
   "original_title": "Eternals",
   "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind\u2019s most ancient enemy, the Deviants.",
-  "popularity": 135.913,
+  "popularity": 176.192,
   "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
   "release_date": "2021-11-03",
   "title": "Eternals",
   "video": false,
-  "vote_average": 6.981,
-  "vote_count": 7005
+  "vote_average": 6.979,
+  "vote_count": 7017
 }

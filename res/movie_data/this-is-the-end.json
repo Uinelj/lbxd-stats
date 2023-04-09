@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/sXfN4ir91SfTeoWidIukQWane43.jpg",
-  "genre_ids": [
-    28,
-    35
-  ],
   "id": 109414,
   "original_language": "en",
   "original_title": "This Is the End",
   "overview": "While attending a party at James Franco's house, Seth Rogen, Jay Baruchel and many other celebrities are faced with the apocalypse.",
-  "popularity": 27.08,
+  "popularity": 29.957,
   "poster_path": "/7Wdc3etyBJA4432TYtz6n9GQd1c.jpg",
   "release_date": "2013-06-12",
   "title": "This Is the End",
   "video": false,
-  "vote_average": 6.224,
-  "vote_count": 5737
+  "vote_average": 6.222,
+  "vote_count": 5749
 }

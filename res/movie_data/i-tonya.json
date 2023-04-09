@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/dUtZYAMoTSZ8GYrB0AIYsMe0LvN.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 389015,
   "original_language": "en",
   "original_title": "I, Tonya",
   "overview": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the sport is thrown into doubt when her ex-husband intervenes.",
-  "popularity": 65.472,
+  "popularity": 37.846,
   "poster_path": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
   "release_date": "2017-12-08",
   "title": "I, Tonya",
   "video": false,
-  "vote_average": 7.511,
-  "vote_count": 5187
+  "vote_average": 7.512,
+  "vote_count": 5197
 }

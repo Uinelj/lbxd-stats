@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/7H01zprUY67n7bdcFg6VMvrkNjs.jpg",
-  "genre_ids": [
-    12,
-    18
-  ],
   "id": 87827,
   "original_language": "en",
   "original_title": "Life of Pi",
   "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
-  "popularity": 45.221,
+  "popularity": 54.982,
   "poster_path": "/mYDKm9HxImm8PRru3KbkHAe1cmk.jpg",
   "release_date": "2012-11-20",
   "title": "Life of Pi",
   "video": false,
   "vote_average": 7.394,
-  "vote_count": 12122
+  "vote_count": 12130
 }

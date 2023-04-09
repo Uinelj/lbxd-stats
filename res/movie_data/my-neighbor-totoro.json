@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
-  "genre_ids": [
-    14,
-    16,
-    10751
-  ],
   "id": 8392,
   "original_language": "ja",
   "original_title": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed",
   "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
-  "popularity": 41.19,
+  "popularity": 59.508,
   "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
   "release_date": "1988-04-16",
   "title": "My Neighbor Totoro",
   "video": false,
   "vote_average": 8.07,
-  "vote_count": 6736
+  "vote_count": 6751
 }

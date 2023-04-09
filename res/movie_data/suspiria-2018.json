@@ -1,18 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/j7rl2LphIbC88FppTfwJ5Gxj9kX.jpg",
-  "genre_ids": [
-    27
-  ],
-  "id": 11906,
-  "original_language": "it",
+  "backdrop_path": "/AmO8I38bkHwKhgxPNrd6djBQyPU.jpg",
+  "id": 361292,
+  "original_language": "en",
   "original_title": "Suspiria",
-  "overview": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
-  "popularity": 22.687,
-  "poster_path": "/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg",
-  "release_date": "1977-02-01",
+  "overview": "Young American dancer Susie Bannion arrives in 1970s Berlin to audition for the world-renowned Helena Markos Dance Company. When she vaults to the role of lead dancer, the woman she replaces breaks down and accuses the company's female directors of witchcraft. Meanwhile, an inquisitive psychotherapist and a member of the troupe uncover dark and sinister secrets as they probe the depths of the studio's hidden underground chambers.",
+  "popularity": 26.584,
+  "poster_path": "/dzWTnkert9EoiPWldWJ15dnfAFl.jpg",
+  "release_date": "2018-10-11",
   "title": "Suspiria",
   "video": false,
-  "vote_average": 7.514,
-  "vote_count": 2528
+  "vote_average": 6.938,
+  "vote_count": 2189
 }

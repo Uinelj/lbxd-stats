@@ -1,19 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
-  "genre_ids": [
-    28,
-    80
-  ],
+  "backdrop_path": "/9xNOiv6DZZjH7ABoUUDP0ZynouU.jpg",
   "id": 495764,
   "original_language": "en",
   "original_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
   "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
-  "popularity": 64.371,
+  "popularity": 74.712,
   "poster_path": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
   "release_date": "2020-02-05",
   "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
   "video": false,
-  "vote_average": 6.975,
-  "vote_count": 9336
+  "vote_average": 6.974,
+  "vote_count": 9347
 }

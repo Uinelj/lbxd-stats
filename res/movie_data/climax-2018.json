@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/v0sblc9A8eaE8EqDQ5Y6fELj4oB.jpg",
-  "genre_ids": [
-    27,
-    10402
-  ],
   "id": 507076,
   "original_language": "fr",
   "original_title": "Climax",
   "overview": "Young dancers gather in a remote and empty school building to rehearse on a cold and wintry night. The all-night celebration soon turns into a hallucinatory nightmare when they learn that their sangria is laced with LSD.",
-  "popularity": 17.15,
+  "popularity": 21.959,
   "poster_path": "/47IXH2iEWwX0F7vIyGXaKQ0psBG.jpg",
   "release_date": "2018-09-19",
   "title": "Climax",
   "video": false,
-  "vote_average": 7.11,
-  "vote_count": 1764
+  "vote_average": 7.109,
+  "vote_count": 1767
 }

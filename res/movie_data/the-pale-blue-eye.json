@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/i6zyJ18xvVvqbN6eUdzgSwlhb8h.jpg",
-  "genre_ids": [
-    9648,
-    53
-  ],
   "id": 800815,
   "original_language": "en",
   "original_title": "The Pale Blue Eye",
   "overview": "West Point, New York, 1830. When a cadet at the burgeoning military academy is found hanged with his heart cut out, the top brass summons former New York City constable Augustus Landor to investigate. While attempting to solve this grisly mystery, the reluctant detective engages the help of one of the cadets: a strange but brilliant young fellow by the name of Edgar Allan Poe",
-  "popularity": 122.161,
+  "popularity": 175.248,
   "poster_path": "/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
   "release_date": "2022-12-22",
   "title": "The Pale Blue Eye",
   "video": false,
   "vote_average": 6.964,
-  "vote_count": 1184
+  "vote_count": 1208
 }

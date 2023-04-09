@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/3tuWpnCTe14zZZPt6sI1W9ByOXx.jpg",
-  "genre_ids": [
-    35,
-    10749
-  ],
   "id": 114,
   "original_language": "en",
   "original_title": "Pretty Woman",
   "overview": "When a millionaire wheeler-dealer enters a business contract with a Hollywood hooker Vivian Ward, he loses his heart in the bargain.",
-  "popularity": 46.709,
+  "popularity": 40.763,
   "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
   "release_date": "1990-03-23",
   "title": "Pretty Woman",
   "video": false,
-  "vote_average": 7.424,
-  "vote_count": 6959
+  "vote_average": 7.423,
+  "vote_count": 6964
 }

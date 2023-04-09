@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
-  "genre_ids": [
-    28,
-    53,
-    80
-  ],
   "id": 324552,
   "original_language": "en",
   "original_title": "John Wick: Chapter 2",
   "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers.",
-  "popularity": 811.169,
+  "popularity": 805.934,
   "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
   "release_date": "2017-02-08",
   "title": "John Wick: Chapter 2",
   "video": false,
-  "vote_average": 7.303,
-  "vote_count": 11199
+  "vote_average": 7.307,
+  "vote_count": 11276
 }

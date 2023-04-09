@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/tweDJNQzBGgsWVF5MC8JhSAk07p.jpg",
-  "genre_ids": [
-    53,
-    878,
-    27
-  ],
   "id": 570670,
   "original_language": "en",
   "original_title": "The Invisible Man",
   "overview": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
-  "popularity": 29.536,
+  "popularity": 30.894,
   "poster_path": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
   "release_date": "2020-02-26",
   "title": "The Invisible Man",
   "video": false,
-  "vote_average": 7.14,
-  "vote_count": 5046
+  "vote_average": 7.139,
+  "vote_count": 5061
 }

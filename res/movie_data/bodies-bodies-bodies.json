@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/uB6OgpI6n9MAbpQsv8Ul0HFosYj.jpg",
-  "genre_ids": [
-    35,
-    27,
-    9648
-  ],
   "id": 520023,
   "original_language": "en",
   "original_title": "Bodies Bodies Bodies",
   "overview": "In an isolated family mansion, a group of rich 20-somethings decides to play Bodies Bodies Bodies, a game where one of them is secretly a \"killer\" while the rest tries to \"escape\". Things take a turn for the worse when real bodies start turning up, setting off a paranoid and dangerous chain of events.",
-  "popularity": 23.099,
+  "popularity": 32.228,
   "poster_path": "/8Hm6ouAOOB9SQrChuTqvRblW8Qj.jpg",
   "release_date": "2022-08-05",
   "title": "Bodies Bodies Bodies",
   "video": false,
-  "vote_average": 6.472,
-  "vote_count": 543
+  "vote_average": 6.466,
+  "vote_count": 554
 }

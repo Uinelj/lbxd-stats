@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
-  "genre_ids": [
-    18,
-    10402
-  ],
   "id": 786,
   "original_language": "en",
   "original_title": "Almost Famous",
   "overview": "In 1973, 15-year-old William Miller's unabashed love of music and aspiration to become a rock journalist lands him an assignment from Rolling Stone magazine to interview and tour with the up-and-coming band, Stillwater.",
-  "popularity": 16.587,
+  "popularity": 20.38,
   "poster_path": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
   "release_date": "2000-09-15",
   "title": "Almost Famous",
   "video": false,
-  "vote_average": 7.483,
-  "vote_count": 2334
+  "vote_average": 7.487,
+  "vote_count": 2344
 }

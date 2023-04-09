@@ -1,18 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/rryI5WchAXVJKazxnZeGalvSllc.jpg",
-  "genre_ids": [
-    27
-  ],
+  "backdrop_path": "/8Y0RxH5cXiKV8C9Wyj6JkW9VYaG.jpg",
   "id": 994143,
   "original_language": "en",
   "original_title": "Skinamarink",
   "overview": "Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.",
-  "popularity": 24.619,
+  "popularity": 28.213,
   "poster_path": "/o942912KFh89SGhqWuKXuT0SXzN.jpg",
   "release_date": "2023-01-13",
   "title": "Skinamarink",
   "video": false,
-  "vote_average": 5.75,
-  "vote_count": 72
+  "vote_average": 5.72,
+  "vote_count": 75
 }

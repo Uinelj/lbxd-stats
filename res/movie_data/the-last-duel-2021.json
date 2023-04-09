@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/4LrL40XecjGLRpX5I2gzMTUt04l.jpg",
-  "genre_ids": [
-    28,
-    18,
-    36
-  ],
   "id": 617653,
   "original_language": "en",
   "original_title": "The Last Duel",
   "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
-  "popularity": 59.032,
+  "popularity": 59.954,
   "poster_path": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
   "release_date": "2021-10-13",
   "title": "The Last Duel",
   "video": false,
-  "vote_average": 7.5,
-  "vote_count": 2715
+  "vote_average": 7.494,
+  "vote_count": 2723
 }

@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/cpDoykGqISrjXb4SG1L18OkmWAf.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 615643,
   "original_language": "en",
   "original_title": "Minari",
   "overview": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
-  "popularity": 15.072,
+  "popularity": 21.231,
   "poster_path": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
   "release_date": "2021-02-12",
   "title": "Minari",
   "video": false,
-  "vote_average": 7.389,
-  "vote_count": 1290
+  "vote_average": 7.388,
+  "vote_count": 1291
 }

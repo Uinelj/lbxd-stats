@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 312221,
   "original_language": "en",
   "original_title": "Creed",
   "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
-  "popularity": 209.86,
+  "popularity": 341.121,
   "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
   "release_date": "2015-11-25",
   "title": "Creed",
   "video": false,
-  "vote_average": 7.406,
-  "vote_count": 6585
+  "vote_average": 7.408,
+  "vote_count": 6622
 }

@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/moTOuNKnM2phZCYPF49Y1Hb7WJj.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 655,
   "original_language": "en",
   "original_title": "Paris, Texas",
   "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
-  "popularity": 15.354,
+  "popularity": 17.008,
   "poster_path": "/7G6ea5djDvCxfqfoMAX8479T4UB.jpg",
   "release_date": "1984-08-23",
   "title": "Paris, Texas",
   "video": false,
   "vote_average": 8.1,
-  "vote_count": 1443
+  "vote_count": 1448
 }

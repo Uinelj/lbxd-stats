@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/d9cfPuZzai6d4ZaKNnicEUgXVjS.jpg",
-  "genre_ids": [
-    18,
-    80,
-    36
-  ],
   "id": 644495,
   "original_language": "en",
   "original_title": "House of Gucci",
   "overview": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately\u2026 murder.",
-  "popularity": 27.117,
+  "popularity": 41.314,
   "poster_path": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
   "release_date": "2021-11-24",
   "title": "House of Gucci",
   "video": false,
-  "vote_average": 6.637,
-  "vote_count": 2533
+  "vote_average": 6.638,
+  "vote_count": 2545
 }

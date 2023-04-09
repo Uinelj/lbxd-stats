@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/aspjY3LjTkF7NnXkIYM8fBh9g9m.jpg",
-  "genre_ids": [
-    18,
-    10749
-  ],
   "id": 962571,
   "original_language": "ur",
   "original_title": "Joyland",
   "overview": "As a patriarchal family yearn for the birth of a baby boy to continue their family line, their youngest son secretly joins an erotic dance theatre and falls for a transgender starlet.",
-  "popularity": 9.34,
+  "popularity": 11.434,
   "poster_path": "/gXTgWDZaWsxzUmFUDWREsRamTox.jpg",
   "release_date": "2022-12-28",
   "title": "Joyland",
   "video": false,
-  "vote_average": 7.7,
-  "vote_count": 35
+  "vote_average": 7.784,
+  "vote_count": 37
 }

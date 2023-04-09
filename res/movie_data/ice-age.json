@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/a9ykRAWtQnI3SsZDfh8sCJo5cWI.jpg",
-  "genre_ids": [
-    16,
-    35,
-    10751,
-    12
-  ],
   "id": 425,
   "original_language": "en",
   "original_title": "Ice Age",
   "overview": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters \u2013 Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth \u2013 find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.",
-  "popularity": 114.794,
+  "popularity": 165.026,
   "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
   "release_date": "2002-03-10",
   "title": "Ice Age",
   "video": false,
-  "vote_average": 7.342,
-  "vote_count": 11865
+  "vote_average": 7.341,
+  "vote_count": 11878
 }

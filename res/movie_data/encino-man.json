@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/mWjyhm33lg7bfPciwxKQEUbjvSV.jpg",
-  "genre_ids": [
-    35
-  ],
   "id": 10406,
   "original_language": "en",
   "original_title": "Encino Man",
   "overview": "High school misfits Stoney and Dave discover a long-frozen primeval man buried in their backyard. But the thawed-out Link\u2014as the boys have named him\u2014quickly becomes a wild card in the teens' already zany Southern California lives. After a shave and some new clothes, Link's presence at school makes the daily drudgery a lot more interesting.",
-  "popularity": 13.512,
+  "popularity": 14.815,
   "poster_path": "/xRR9CLZOEKxAt4CNcFe7R7A4ptj.jpg",
   "release_date": "1992-05-22",
   "title": "Encino Man",
   "video": false,
-  "vote_average": 5.798,
-  "vote_count": 557
+  "vote_average": 5.799,
+  "vote_count": 559
 }

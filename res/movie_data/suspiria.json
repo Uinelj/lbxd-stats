@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/j7rl2LphIbC88FppTfwJ5Gxj9kX.jpg",
-  "genre_ids": [
-    27
-  ],
   "id": 11906,
   "original_language": "it",
   "original_title": "Suspiria",
   "overview": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
-  "popularity": 22.687,
+  "popularity": 26.419,
   "poster_path": "/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg",
   "release_date": "1977-02-01",
   "title": "Suspiria",
   "video": false,
-  "vote_average": 7.514,
-  "vote_count": 2528
+  "vote_average": 7.511,
+  "vote_count": 2535
 }

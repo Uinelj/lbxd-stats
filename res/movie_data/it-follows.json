@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/keEWjA5ykLJo851tIBFdmkxPxxh.jpg",
-  "genre_ids": [
-    27,
-    9648
-  ],
   "id": 270303,
   "original_language": "en",
   "original_title": "It Follows",
   "overview": "When carefree teenager Jay sleeps with her older boyfriend for the first time, she learns that she is the latest recipient of a fatal curse that is passed from victim to victim via sexual intercourse. Death, Jay learns, will creep inexorably toward her as either a friend or a stranger. Jay's friends don't believe her seemingly paranoid ravings, until they too begin to see the phantom assassins and band together to help her defend herself.",
-  "popularity": 39.094,
+  "popularity": 43.594,
   "poster_path": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
   "release_date": "2014-09-24",
   "title": "It Follows",
   "video": false,
-  "vote_average": 6.56,
-  "vote_count": 5678
+  "vote_average": 6.561,
+  "vote_count": 5692
 }

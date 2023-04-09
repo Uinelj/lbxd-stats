@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/veUl0QT8swshQ9Dz0fQ1k6ZkthD.jpg",
-  "genre_ids": [
-    27,
-    53,
-    878
-  ],
   "id": 170,
   "original_language": "en",
   "original_title": "28 Days Later",
   "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
-  "popularity": 33.675,
+  "popularity": 47.007,
   "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
   "release_date": "2002-10-31",
   "title": "28 Days Later",
   "video": false,
-  "vote_average": 7.2,
-  "vote_count": 5835
+  "vote_average": 7.201,
+  "vote_count": 5848
 }

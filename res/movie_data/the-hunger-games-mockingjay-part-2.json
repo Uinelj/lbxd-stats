@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/vPToLA075RgDEKllFYAq5BaMxKU.jpg",
-  "genre_ids": [
-    28,
-    12,
-    878
-  ],
   "id": 131634,
   "original_language": "en",
   "original_title": "The Hunger Games: Mockingjay - Part 2",
   "overview": "With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends \u2013 including Gale, Finnick, and Peeta \u2013 Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.",
-  "popularity": 64.017,
+  "popularity": 103.713,
   "poster_path": "/lImKHDfExAulp16grYm8zD5eONE.jpg",
   "release_date": "2015-11-18",
   "title": "The Hunger Games: Mockingjay - Part 2",
   "video": false,
   "vote_average": 6.888,
-  "vote_count": 11172
+  "vote_count": 11194
 }

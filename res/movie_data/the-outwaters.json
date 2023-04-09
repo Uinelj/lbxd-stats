@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/i0hgZc8wyPWtVspPNFkWWaJpzWT.jpg",
-  "genre_ids": [
-    27,
-    878,
-    53
-  ],
   "id": 752867,
   "original_language": "en",
   "original_title": "The Outwaters",
   "overview": "Four travelers encounter menacing phenomena while camping in a remote stretch of the Mojave Desert.",
-  "popularity": 25.385,
+  "popularity": 44.413,
   "poster_path": "/yBN3HGVjIIZtHlSX8t4H51cGDKd.jpg",
   "release_date": "2023-02-09",
   "title": "The Outwaters",
   "video": false,
-  "vote_average": 4.905,
-  "vote_count": 21
+  "vote_average": 4.826,
+  "vote_count": 23
 }

@@ -1,18 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/yVhHwdIOLAytGAnk6JJ09yVcYn3.jpg",
-  "genre_ids": [
-    27
-  ],
-  "id": 490863,
+  "backdrop_path": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+  "id": 310131,
   "original_language": "en",
-  "original_title": "Ghost Witch",
-  "overview": "A group of rag-tag paranormal investigators get more than they bargain for when they research an old local urban legend for a disturbed local girl.",
-  "popularity": 2.154,
-  "poster_path": "/9n0l1yHrYTp6K1fultWK6NvRkTw.jpg",
-  "release_date": "2015-03-13",
-  "title": "Ghost Witch",
+  "original_title": "The Witch",
+  "overview": "In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.",
+  "popularity": 45.872,
+  "poster_path": "/o384OC1tCV8nCnozkM6y4MiSqsw.jpg",
+  "release_date": "2015-01-27",
+  "title": "The Witch",
   "video": false,
-  "vote_average": 5.0,
-  "vote_count": 5
+  "vote_average": 6.909,
+  "vote_count": 6125
 }

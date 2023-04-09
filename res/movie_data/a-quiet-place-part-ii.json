@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/z2UtGA1WggESspi6KOXeo66lvLx.jpg",
-  "genre_ids": [
-    878,
-    53,
-    27
-  ],
   "id": 520763,
   "original_language": "en",
   "original_title": "A Quiet Place Part II",
   "overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
-  "popularity": 88.743,
+  "popularity": 174.104,
   "poster_path": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
   "release_date": "2021-05-21",
   "title": "A Quiet Place Part II",
   "video": false,
-  "vote_average": 7.535,
-  "vote_count": 5232
+  "vote_average": 7.532,
+  "vote_count": 5258
 }

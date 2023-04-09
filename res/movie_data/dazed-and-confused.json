@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/rS3UGClQcSGAsRXMVXGhvwGr6dO.jpg",
-  "genre_ids": [
-    35
-  ],
   "id": 9571,
   "original_language": "en",
   "original_title": "Dazed and Confused",
   "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
-  "popularity": 14.614,
+  "popularity": 17.345,
   "poster_path": "/lR8dzfCIdfaaSWagHHiFcJ6B4PI.jpg",
   "release_date": "1993-09-24",
   "title": "Dazed and Confused",
   "video": false,
-  "vote_average": 7.3,
-  "vote_count": 1742
+  "vote_average": 7.347,
+  "vote_count": 1749
 }

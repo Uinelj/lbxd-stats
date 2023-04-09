@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/jHwASc8hBtdfRGUmxS6pq5mHiyN.jpg",
-  "genre_ids": [
-    18,
-    36
-  ],
   "id": 152532,
   "original_language": "en",
   "original_title": "Dallas Buyers Club",
   "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
-  "popularity": 15.899,
+  "popularity": 21.827,
   "poster_path": "/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
   "release_date": "2013-11-01",
   "title": "Dallas Buyers Club",
   "video": false,
-  "vote_average": 7.933,
-  "vote_count": 7783
+  "vote_average": 7.934,
+  "vote_count": 7791
 }

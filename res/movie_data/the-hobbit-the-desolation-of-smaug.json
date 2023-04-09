@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg",
-  "genre_ids": [
-    14,
-    12,
-    28
-  ],
   "id": 57158,
   "original_language": "en",
   "original_title": "The Hobbit: The Desolation of Smaug",
   "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
-  "popularity": 75.065,
+  "popularity": 81.321,
   "poster_path": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
   "release_date": "2013-12-11",
   "title": "The Hobbit: The Desolation of Smaug",
   "video": false,
-  "vote_average": 7.575,
-  "vote_count": 11858
+  "vote_average": 7.574,
+  "vote_count": 11883
 }

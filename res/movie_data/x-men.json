@@ -1,21 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/2ex2beZ4ssMeOduLD0ILzXKCiep.jpg",
-  "genre_ids": [
-    28,
-    12,
-    878,
-    14
-  ],
-  "id": 246655,
+  "backdrop_path": "/yGxMIIDSUvaXUjjJuIYZi40Jt3J.jpg",
+  "id": 36657,
   "original_language": "en",
-  "original_title": "X-Men: Apocalypse",
-  "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-  "popularity": 64.044,
-  "poster_path": "/lRxsDK4exeEgKoXqI4zdr0Vl0yk.jpg",
-  "release_date": "2016-05-18",
-  "title": "X-Men: Apocalypse",
+  "original_title": "X-Men",
+  "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+  "popularity": 2.309,
+  "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+  "release_date": "2000-07-13",
+  "title": "X-Men",
   "video": false,
-  "vote_average": 6.516,
-  "vote_count": 11887
+  "vote_average": 6.99,
+  "vote_count": 10210
 }

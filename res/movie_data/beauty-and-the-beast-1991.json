@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
-  "genre_ids": [
-    10749,
-    10751,
-    16,
-    14
-  ],
   "id": 10020,
   "original_language": "en",
   "original_title": "Beauty and the Beast",
   "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
-  "popularity": 79.652,
+  "popularity": 99.251,
   "poster_path": "/6DDJ8o2d6T4fpGWECLF4xBGTyAM.jpg",
   "release_date": "1991-10-22",
   "title": "Beauty and the Beast",
   "video": false,
-  "vote_average": 7.732,
-  "vote_count": 8941
+  "vote_average": 7.731,
+  "vote_count": 8949
 }

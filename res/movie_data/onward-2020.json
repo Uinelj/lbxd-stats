@@ -1,23 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg",
-  "genre_ids": [
-    10751,
-    16,
-    12,
-    35,
-    14,
-    28
-  ],
   "id": 508439,
   "original_language": "en",
   "original_title": "Onward",
   "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
-  "popularity": 40.382,
+  "popularity": 48.541,
   "poster_path": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
   "release_date": "2020-02-29",
   "title": "Onward",
   "video": false,
-  "vote_average": 7.75,
-  "vote_count": 5427
+  "vote_average": 7.748,
+  "vote_count": 5445
 }

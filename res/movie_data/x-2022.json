@@ -1,16 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": null,
-  "genre_ids": [],
-  "id": 948483,
+  "backdrop_path": "/21ldFAokKVjwzi1SHXoPb5gc7md.jpg",
+  "id": 760104,
   "original_language": "en",
-  "original_title": "2022 TOMORROW X TOGETHER FANLIVE MOA X TOGETHER",
-  "overview": "K-Pop group Tomorrow X Together held their 3rd fan live to commemorate their debut day and spent a special time with MOAs around the world on March 5 and 6 in Olympic Park Olympic Hall and held simultaneously with online live streaming.",
-  "popularity": 0.969,
-  "poster_path": "/h8C6NGgVANv0SB343JZqdxfu1D9.jpg",
-  "release_date": "2022-03-05",
-  "title": "2022 TOMORROW X TOGETHER FANLIVE MOA X TOGETHER",
-  "video": true,
-  "vote_average": 10.0,
-  "vote_count": 1
+  "original_title": "X",
+  "overview": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives. Hilarity ensues.",
+  "popularity": 194.137,
+  "poster_path": "/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg",
+  "release_date": "2022-03-17",
+  "title": "X",
+  "video": false,
+  "vote_average": 6.778,
+  "vote_count": 1841
 }

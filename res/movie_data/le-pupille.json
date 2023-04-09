@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/aHkjDwtkPkuc88X7FBQuN1EMjis.jpg",
-  "genre_ids": [
-    10751,
-    35
-  ],
   "id": 974586,
   "original_language": "it",
   "original_title": "Le pupille",
   "overview": "A facetious coming-of-age fable that ends with a cheeky moral: what if allegedly \"bad girls\" were the best?",
-  "popularity": 5.167,
+  "popularity": 6.207,
   "poster_path": "/kpV6clnGWQO57liEp8FffpKOUAS.jpg",
   "release_date": "2022-05-27",
   "title": "Le Pupille",
   "video": false,
-  "vote_average": 7.143,
-  "vote_count": 63
+  "vote_average": 7.125,
+  "vote_count": 64
 }

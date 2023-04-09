@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
-  "genre_ids": [
-    14,
-    18,
-    10749
-  ],
   "id": 162,
   "original_language": "en",
   "original_title": "Edward Scissorhands",
   "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
-  "popularity": 37.888,
+  "popularity": 41.585,
   "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
   "release_date": "1990-12-05",
   "title": "Edward Scissorhands",
   "video": false,
-  "vote_average": 7.714,
-  "vote_count": 11649
+  "vote_average": 7.715,
+  "vote_count": 11678
 }

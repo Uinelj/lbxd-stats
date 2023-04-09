@@ -1,19 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/dQ1NwW8LE4PR8UfLEf8eAQpgTpG.jpg",
-  "genre_ids": [
-    35,
-    27
-  ],
-  "id": 11415,
-  "original_language": "en",
-  "original_title": "House",
-  "overview": "Roger Cobb is an author who has just separated from his wife. He moves into a new house and tries to work on a novel based on his experiences in the Vietnam War. Strange things start happening around him; little things at first, but as they become more frequent, Cobb becomes aware that the house resents his presence.",
-  "popularity": 14.893,
-  "poster_path": "/ysIPmxLVYYvTUaOwEsLjF7nEf4C.jpg",
-  "release_date": "1986-02-27",
+  "backdrop_path": "/ylHdeFztJTQorRtePsLyNt69msB.jpg",
+  "id": 25623,
+  "original_language": "ja",
+  "original_title": "\u30cf\u30a6\u30b9",
+  "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip to the countryside to visit her aunt at their ancestral house. She invites her six friends, Prof, Melody, Mac, Fantasy, Kung Fu, and Sweet, to join her. The girls soon discover that there is more to the old house than meets the eye.",
+  "popularity": 13.664,
+  "poster_path": "/myMnHnG6kxYaQYknnW76VCHBpYT.jpg",
+  "release_date": "1977-08-26",
   "title": "House",
   "video": false,
-  "vote_average": 6.133,
-  "vote_count": 458
+  "vote_average": 7.395,
+  "vote_count": 499
 }

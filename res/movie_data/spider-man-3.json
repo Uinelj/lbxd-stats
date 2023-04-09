@@ -1,20 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/6MQmtWk4cFwSDyNvIgoJRBIHUT3.jpg",
-  "genre_ids": [
-    14,
-    28,
-    12
-  ],
+  "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
   "id": 559,
   "original_language": "en",
   "original_title": "Spider-Man 3",
   "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains\u2014including the shape-shifting Sandman. While Spider-Man\u2019s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
-  "popularity": 63.923,
+  "popularity": 73.841,
   "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
   "release_date": "2007-05-01",
   "title": "Spider-Man 3",
   "video": false,
   "vote_average": 6.383,
-  "vote_count": 12565
+  "vote_count": 12587
 }

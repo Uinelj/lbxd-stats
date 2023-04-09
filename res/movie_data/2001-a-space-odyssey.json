@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/kCEXA22ASuq7Y29jnngyaisyA0X.jpg",
-  "genre_ids": [
-    878,
-    9648,
-    12
-  ],
   "id": 62,
   "original_language": "en",
   "original_title": "2001: A Space Odyssey",
   "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-  "popularity": 40.201,
+  "popularity": 47.83,
   "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
   "release_date": "1968-04-02",
   "title": "2001: A Space Odyssey",
   "video": false,
   "vote_average": 8.083,
-  "vote_count": 10095
+  "vote_count": 10117
 }

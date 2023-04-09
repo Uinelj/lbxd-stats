@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/45He7gApNQyDbqCDjxew9BnHzjf.jpg",
-  "genre_ids": [
-    18,
-    10749,
-    35
-  ],
   "id": 153,
   "original_language": "en",
   "original_title": "Lost in Translation",
   "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
-  "popularity": 20.129,
+  "popularity": 23.841,
   "poster_path": "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg",
   "release_date": "2003-09-18",
   "title": "Lost in Translation",
   "video": false,
   "vote_average": 7.4,
-  "vote_count": 6446
+  "vote_count": 6462
 }

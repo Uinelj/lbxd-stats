@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/uMSxXLfH7v30gRNBqsQaSP3yqX5.jpg",
-  "genre_ids": [
-    16,
-    35,
-    10751
-  ],
   "id": 438148,
   "original_language": "en",
   "original_title": "Minions: The Rise of Gru",
   "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
-  "popularity": 275.214,
+  "popularity": 356.058,
   "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
   "release_date": "2022-06-29",
   "title": "Minions: The Rise of Gru",
   "video": false,
-  "vote_average": 7.456,
-  "vote_count": 2726
+  "vote_average": 7.5,
+  "vote_count": 2742
 }

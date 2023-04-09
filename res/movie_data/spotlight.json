@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
-  "genre_ids": [
-    18,
-    36
-  ],
   "id": 314365,
   "original_language": "en",
   "original_title": "Spotlight",
   "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
-  "popularity": 19.418,
+  "popularity": 22.565,
   "poster_path": "/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
   "release_date": "2015-11-06",
   "title": "Spotlight",
   "video": false,
   "vote_average": 7.813,
-  "vote_count": 7554
+  "vote_count": 7564
 }

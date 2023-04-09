@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/5DU39tmUzbXtD6UXgm7iZqxpwoV.jpg",
-  "genre_ids": [
-    35,
-    878,
-    14,
-    27
-  ],
   "id": 36685,
   "original_language": "en",
   "original_title": "The Rocky Horror Picture Show",
   "overview": "Sweethearts Brad and Janet, stuck with a flat tire during a storm, discover the eerie mansion of Dr. Frank-N-Furter, a transvestite scientist. As their innocence is lost, Brad and Janet meet a houseful of wild characters, including a rocking biker and a creepy butler. Through elaborate dances and rock songs, Frank-N-Furter unveils his latest creation: a muscular man named 'Rockv'.",
-  "popularity": 12.489,
+  "popularity": 18.997,
   "poster_path": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
   "release_date": "1975-08-14",
   "title": "The Rocky Horror Picture Show",
   "video": false,
-  "vote_average": 7.5,
-  "vote_count": 2455
+  "vote_average": 7.498,
+  "vote_count": 2460
 }

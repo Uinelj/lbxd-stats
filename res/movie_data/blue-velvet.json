@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/vB5hoogPuLO5Hpbb63c8yFB7WPf.jpg",
-  "genre_ids": [
-    18,
-    80,
-    9648,
-    53
-  ],
   "id": 793,
   "original_language": "en",
   "original_title": "Blue Velvet",
   "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of criminals who have kidnapped her child.",
-  "popularity": 15.194,
+  "popularity": 22.837,
   "poster_path": "/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg",
   "release_date": "1986-01-01",
   "title": "Blue Velvet",
   "video": false,
-  "vote_average": 7.641,
-  "vote_count": 2813
+  "vote_average": 7.64,
+  "vote_count": 2827
 }

@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
-  "genre_ids": [
-    18,
-    28
-  ],
   "id": 677179,
   "original_language": "en",
   "original_title": "Creed III",
   "overview": "After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damien Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damien \u2014 a fighter who has nothing to lose.",
-  "popularity": 1098.485,
-  "poster_path": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+  "popularity": 9575.225,
+  "poster_path": "/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg",
   "release_date": "2023-03-01",
   "title": "Creed III",
   "video": false,
-  "vote_average": 7.205,
-  "vote_count": 519
+  "vote_average": 7.303,
+  "vote_count": 815
 }

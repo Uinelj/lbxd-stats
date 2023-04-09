@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/sIzZQdXY21sEks9lGkGuXzqdGSA.jpg",
-  "genre_ids": [
-    14,
-    35
-  ],
   "id": 4011,
   "original_language": "en",
   "original_title": "Beetlejuice",
   "overview": "After an untimely death, a newly dead New England couple seek help from a deranged demon exorcist to scare an affluent New York family out of their home.",
-  "popularity": 42.146,
+  "popularity": 31.935,
   "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
   "release_date": "1988-03-30",
   "title": "Beetlejuice",
   "video": false,
-  "vote_average": 7.381,
-  "vote_count": 5889
+  "vote_average": 7.383,
+  "vote_count": 5901
 }

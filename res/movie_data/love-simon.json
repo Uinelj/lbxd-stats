@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/5VF2y1KyrrAL2WAX47odZ7TdelT.jpg",
-  "genre_ids": [
-    35,
-    18,
-    10749
-  ],
   "id": 449176,
   "original_language": "en",
   "original_title": "Love, Simon",
   "overview": "Everyone deserves a great love story. But for seventeen-year old Simon Spier it's a little more complicated: he's yet to tell his family or friends he's gay and he doesn't know the identity of the anonymous classmate he's fallen for online.",
-  "popularity": 22.071,
+  "popularity": 29.912,
   "poster_path": "/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg",
   "release_date": "2018-02-16",
   "title": "Love, Simon",
   "video": false,
-  "vote_average": 8.055,
-  "vote_count": 5621
+  "vote_average": 8.056,
+  "vote_count": 5628
 }

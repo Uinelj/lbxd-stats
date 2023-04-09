@@ -1,20 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/35slSk2fwFGDK8pZnPprOFKWxhV.jpg",
-  "genre_ids": [
-    28,
-    35,
-    14
-  ],
+  "backdrop_path": "/wybmSmviUXxlBmX44gtpow5Y9TB.jpg",
   "id": 594767,
   "original_language": "en",
   "original_title": "Shazam! Fury of the Gods",
   "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
-  "popularity": 724.697,
-  "poster_path": "/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
+  "popularity": 1516.918,
+  "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
   "release_date": "2023-03-15",
   "title": "Shazam! Fury of the Gods",
   "video": false,
-  "vote_average": 6.777,
-  "vote_count": 305
+  "vote_average": 6.931,
+  "vote_count": 504
 }

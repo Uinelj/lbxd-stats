@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/hh28CTWLdxTXA5yJgefZ6gUnFDo.jpg",
-  "genre_ids": [
-    80,
-    9648,
-    53
-  ],
   "id": 807,
   "original_language": "en",
   "original_title": "Se7en",
   "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
-  "popularity": 50.209,
+  "popularity": 62.394,
   "poster_path": "/6yoghtyTpznpBik8EngEmJskVUO.jpg",
   "release_date": "1995-09-22",
   "title": "Se7en",
   "video": false,
-  "vote_average": 8.365,
-  "vote_count": 18555
+  "vote_average": 8.366,
+  "vote_count": 18596
 }

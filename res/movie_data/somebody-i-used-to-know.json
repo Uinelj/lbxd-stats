@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/6VEcSQCteETPnX5aQySC0vKQhOh.jpg",
-  "genre_ids": [
-    10749,
-    35,
-    18
-  ],
   "id": 869112,
   "original_language": "en",
   "original_title": "Somebody I Used to Know",
   "overview": "On a trip to her hometown, workaholic Ally reminisces with her first love Sean, and starts to question everything about the person she's become. Things only get more confusing when she meets Sean's fianc\u00e9, Cassidy, who reminds her of the person she used to be.",
-  "popularity": 85.812,
+  "popularity": 108.743,
   "poster_path": "/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg",
   "release_date": "2023-02-10",
   "title": "Somebody I Used to Know",
   "video": false,
-  "vote_average": 5.9,
-  "vote_count": 83
+  "vote_average": 5.97,
+  "vote_count": 84
 }

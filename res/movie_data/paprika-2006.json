@@ -1,18 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/9CkI4VsYF8qJWfZpPqwZnBctb3M.jpg",
-  "genre_ids": [
-    18
-  ],
-  "id": 50270,
-  "original_language": "it",
-  "original_title": "Paprika",
-  "overview": "A young country girl comes to town and works in a brothel in order to help her fiance get the money to start his own business. \"Paprika\" is the name given to her by the madam.",
-  "popularity": 34.446,
-  "poster_path": "/jwlo74haG1XNmp5IdSJ5Gy3KuIm.jpg",
-  "release_date": "1991-02-13",
+  "backdrop_path": "/3IkChGhTllTULVWht55UDFHTg6Q.jpg",
+  "id": 4977,
+  "original_language": "ja",
+  "original_title": "\u30d1\u30d7\u30ea\u30ab",
+  "overview": "When a machine that allows therapists to enter their patient's dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.",
+  "popularity": 19.992,
+  "poster_path": "/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+  "release_date": "2006-10-01",
   "title": "Paprika",
   "video": false,
-  "vote_average": 7.067,
-  "vote_count": 329
+  "vote_average": 7.792,
+  "vote_count": 1884
 }

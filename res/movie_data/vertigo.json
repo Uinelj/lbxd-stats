@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/77aHwg1SCy89rfvQtiruPU58qEV.jpg",
-  "genre_ids": [
-    9648,
-    10749,
-    53
-  ],
   "id": 426,
   "original_language": "en",
   "original_title": "Vertigo",
   "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-  "popularity": 27.016,
+  "popularity": 33.525,
   "poster_path": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
   "release_date": "1958-05-28",
   "title": "Vertigo",
   "video": false,
-  "vote_average": 8.194,
-  "vote_count": 5003
+  "vote_average": 8.195,
+  "vote_count": 5012
 }

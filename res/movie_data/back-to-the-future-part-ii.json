@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/iGkZLNllCJH9QqKIAIkg5NSy8I6.jpg",
-  "genre_ids": [
-    12,
-    35,
-    878
-  ],
   "id": 165,
   "original_language": "en",
   "original_title": "Back to the Future Part II",
   "overview": "Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
-  "popularity": 37.916,
-  "poster_path": "/xAuA0NicFJkwumIbCCePOU6WKe.jpg",
+  "popularity": 42.043,
+  "poster_path": "/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
   "release_date": "1989-11-22",
   "title": "Back to the Future Part II",
   "video": false,
   "vote_average": 7.751,
-  "vote_count": 11373
+  "vote_count": 11394
 }

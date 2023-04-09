@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
-  "genre_ids": [
-    27,
-    53
-  ],
   "id": 829410,
   "original_language": "en",
   "original_title": "Sick",
   "overview": "In the midst of the pandemic, college student Parker and her best friend Miri decide to self-quarantine at her family's lake house, where they will be alone \u2014 or so they think.",
-  "popularity": 833.493,
+  "popularity": 781.185,
   "poster_path": "/nBgxSimgLMGYCQckRQw7C2f7row.jpg",
   "release_date": "2022-09-11",
   "title": "Sick",
   "video": false,
-  "vote_average": 6.313,
-  "vote_count": 120
+  "vote_average": 6.305,
+  "vote_count": 123
 }

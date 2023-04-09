@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/zZoSxRhNwdqSBB5mVmRpXEwKFWv.jpg",
-  "genre_ids": [
-    35,
-    10402,
-    10749
-  ],
   "id": 114150,
   "original_language": "en",
   "original_title": "Pitch Perfect",
   "overview": "College student Beca knows she does not want to be part of a clique, but that's exactly where she finds herself after arriving at her new school. Thrust in among mean gals, nice gals and just plain weird gals, Beca finds that the only thing they have in common is how well they sing together. She takes the women of the group out of their comfort zone of traditional arrangements and into a world of amazing harmonic combinations in a fight to the top of college music competitions.",
-  "popularity": 25.473,
+  "popularity": 28.569,
   "poster_path": "/ntRIoh8Qf1BI1AYGx0STfq0wUmb.jpg",
   "release_date": "2012-09-28",
   "title": "Pitch Perfect",
   "video": false,
-  "vote_average": 7.309,
-  "vote_count": 6049
+  "vote_average": 7.307,
+  "vote_count": 6058
 }

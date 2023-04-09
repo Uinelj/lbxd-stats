@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg",
-  "genre_ids": [
-    12,
-    14,
-    10751
-  ],
   "id": 674,
   "original_language": "en",
   "original_title": "Harry Potter and the Goblet of Fire",
   "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools\u2014the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
-  "popularity": 181.61,
+  "popularity": 244.052,
   "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
   "release_date": "2005-11-16",
   "title": "Harry Potter and the Goblet of Fire",
   "video": false,
-  "vote_average": 7.817,
-  "vote_count": 18594
+  "vote_average": 7.816,
+  "vote_count": 18627
 }

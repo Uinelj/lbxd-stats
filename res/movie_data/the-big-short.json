@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
-  "genre_ids": [
-    35,
-    18
-  ],
   "id": 318846,
   "original_language": "en",
   "original_title": "The Big Short",
   "overview": "The men who made millions from a global economic meltdown.",
-  "popularity": 28.397,
+  "popularity": 33.029,
   "poster_path": "/isuQWbJPbjybBEWdcCaBUPmU0XO.jpg",
   "release_date": "2015-12-11",
   "title": "The Big Short",
   "video": false,
   "vote_average": 7.336,
-  "vote_count": 7995
+  "vote_count": 8008
 }

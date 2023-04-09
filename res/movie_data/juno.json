@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
-  "genre_ids": [
-    35,
-    18,
-    10749
-  ],
   "id": 7326,
   "original_language": "en",
   "original_title": "Juno",
   "overview": "Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding her unborn child.",
-  "popularity": 14.101,
+  "popularity": 18.377,
   "poster_path": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
   "release_date": "2007-12-05",
   "title": "Juno",
   "video": false,
-  "vote_average": 7.043,
-  "vote_count": 6483
+  "vote_average": 7.0,
+  "vote_count": 6489
 }

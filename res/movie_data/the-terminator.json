@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/wh4ze6klUbeichAj603OKZwY1W5.jpg",
-  "genre_ids": [
-    28,
-    53,
-    878
-  ],
   "id": 218,
   "original_language": "en",
   "original_title": "The Terminator",
   "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
-  "popularity": 53.489,
+  "popularity": 70.763,
   "poster_path": "/kdYu7YJJP0uuGEuhUX5toqvBSog.jpg",
   "release_date": "1984-10-26",
   "title": "The Terminator",
   "video": false,
   "vote_average": 7.639,
-  "vote_count": 11323
+  "vote_count": 11343
 }

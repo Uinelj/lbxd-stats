@@ -1,21 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/iw0Na1UBHgA5BgifwmQ8vKhlWgA.jpg",
-  "genre_ids": [
-    16,
-    12,
-    10751,
-    14
-  ],
-  "id": 502356,
+  "backdrop_path": "/1GGfWFp9hp4RUHRHxd505z9rVFa.jpg",
+  "id": 9607,
   "original_language": "en",
-  "original_title": "The Super Mario Bros. Movie",
-  "overview": "While working underground to fix a water main, Brooklyn plumbers\u2014and brothers\u2014Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
-  "popularity": 869.729,
-  "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
-  "release_date": "2023-04-05",
-  "title": "The Super Mario Bros. Movie",
+  "original_title": "Super Mario Bros.",
+  "overview": "Mario and Luigi, plumbers from Brooklyn, find themselves in an alternate universe where evolved dinosaurs live in hi-tech squalor. They're the only hope to save our universe from invasion by the dino dictator, Koopa.",
+  "popularity": 609.623,
+  "poster_path": "/cudfWiiFDxj8rq1Myolzv6yY3ah.jpg",
+  "release_date": "1993-05-28",
+  "title": "Super Mario Bros.",
   "video": false,
-  "vote_average": 8.6,
-  "vote_count": 17
+  "vote_average": 4.259,
+  "vote_count": 1032
 }

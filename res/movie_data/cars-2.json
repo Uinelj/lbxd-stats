@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/jTx4XlVsLJkDwbEQkFYwpApD556.jpg",
-  "genre_ids": [
-    16,
-    10751,
-    12,
-    35
-  ],
   "id": 49013,
   "original_language": "en",
   "original_title": "Cars 2",
   "overview": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
-  "popularity": 159.871,
+  "popularity": 177.525,
   "poster_path": "/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
   "release_date": "2011-06-11",
   "title": "Cars 2",
   "video": false,
-  "vote_average": 6.052,
-  "vote_count": 6803
+  "vote_average": 6.055,
+  "vote_count": 6823
 }

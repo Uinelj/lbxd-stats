@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/yPgAHVzCF0yJGhxupwVwknOHdJj.jpg",
-  "genre_ids": [
-    18,
-    10749
-  ],
   "id": 1366,
   "original_language": "en",
   "original_title": "Rocky",
-  "overview": "When world heavyweight boxing champion, Apollo Creed wants to give an unknown fighter a shot at the title as a publicity stunt, his handlers choose palooka Rocky Balboa, an uneducated collector for a Philadelphia loan shark. Rocky teams up with trainer  Mickey Goldmill to make the most of this once in a lifetime break.",
-  "popularity": 61.483,
+  "overview": "An uneducated collector for a Philadelphia loan shark is given a once-in-a-lifetime opportunity to fight against the world heavyweight boxing champion.",
+  "popularity": 80.819,
   "poster_path": "/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
   "release_date": "1976-11-21",
   "title": "Rocky",
   "video": false,
-  "vote_average": 7.784,
-  "vote_count": 6752
+  "vote_average": 7.786,
+  "vote_count": 6776
 }

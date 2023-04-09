@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/hbrXbVoE0NuA1ORoSGGYNASagrl.jpg",
-  "genre_ids": [
-    35
-  ],
   "id": 740985,
   "original_language": "en",
   "original_title": "Borat Subsequent Moviefilm",
   "overview": "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
-  "popularity": 20.561,
+  "popularity": 21.561,
   "poster_path": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
   "release_date": "2020-10-23",
   "title": "Borat Subsequent Moviefilm",
   "video": false,
-  "vote_average": 6.479,
-  "vote_count": 2142
+  "vote_average": 6.473,
+  "vote_count": 2146
 }

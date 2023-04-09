@@ -1,19 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/f95HJq5bwa3RsfJySjIR8mP8kPo.jpg",
-  "genre_ids": [
-    18,
-    27
-  ],
-  "id": 523,
-  "original_language": "de",
+  "backdrop_path": "/j1mnIfWRqWnCedkYjy73UBYfs9G.jpg",
+  "id": 1019545,
+  "original_language": "en",
   "original_title": "Requiem",
-  "overview": "Michaela, an epileptic, enrolls in college to study education. She goes off her medication and soon begins hearing voices and seeing apparitions that tell her to avoid religious objects, although she is devoutly Roman Catholic. One priest scoffs at the idea that Michaela could be possessed by demons, but a younger pastor arranges an exorcism for the young woman.",
-  "popularity": 5.475,
-  "poster_path": "/m42xNNYk3Nxs3xmucuKjl4zSjMc.jpg",
-  "release_date": "2006-03-02",
+  "overview": "Requiem is set in 1605, against the backdrop of the witch trials. It's a coming of age story, following Evelyn as she engages in a game of cat and mouse against her father, Minister Gilbert, in order to be with Mary, the woman she loves.",
+  "popularity": 0.713,
+  "poster_path": "/ifgi9kPSEn5PdhvxOx9FzntemOC.jpg",
+  "release_date": "2021-05-27",
   "title": "Requiem",
   "video": false,
-  "vote_average": 6.7,
-  "vote_count": 75
+  "vote_average": 7.8,
+  "vote_count": 7
 }

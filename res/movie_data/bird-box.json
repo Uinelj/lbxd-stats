@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
-  "genre_ids": [
-    53,
-    18,
-    878
-  ],
   "id": 405774,
   "original_language": "en",
   "original_title": "Bird Box",
   "overview": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
-  "popularity": 32.424,
+  "popularity": 38.614,
   "poster_path": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
   "release_date": "2018-12-13",
   "title": "Bird Box",
   "video": false,
-  "vote_average": 6.861,
-  "vote_count": 8864
+  "vote_average": 6.86,
+  "vote_count": 8879
 }

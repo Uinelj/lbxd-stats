@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/7ar7VuZdK8ihZH2vycXHrhmYUrX.jpg",
-  "genre_ids": [
-    35
-  ],
   "id": 1065890,
   "original_language": "en",
   "original_title": "Chris Rock: Selective Outrage",
   "overview": "Chris Rock makes comedy history as he performs stand-up in real time for Netflix\u2019s first global live-streaming event.",
-  "popularity": 11.805,
+  "popularity": 15.484,
   "poster_path": "/ctagMkN8rT66iVJTZfiEqb2edAm.jpg",
   "release_date": "2023-03-04",
   "title": "Chris Rock: Selective Outrage",
   "video": false,
-  "vote_average": 6.2,
-  "vote_count": 57
+  "vote_average": 6.215,
+  "vote_count": 65
 }

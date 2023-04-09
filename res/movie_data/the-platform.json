@@ -1,16 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": null,
-  "genre_ids": [],
-  "id": 676595,
-  "original_language": "en",
-  "original_title": "The Platform",
-  "overview": "At a windy, abandoned province station a man is waiting for a train. But something seems to be wrong; wasn't that a naked person running by? The man begins to examine the area; the tension rises up to the point, where another passenger arrives on the platform.",
-  "popularity": 0.6,
-  "poster_path": null,
-  "release_date": "2001-01-01",
+  "backdrop_path": "/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
+  "id": 619264,
+  "original_language": "es",
+  "original_title": "El hoyo",
+  "overview": "A mysterious place, an indescribable prison, a deep hole. An unknown number of levels. Two inmates living on each level. A descending platform containing food for all of them. An inhuman fight for survival, but also an opportunity for solidarity.",
+  "popularity": 42.674,
+  "poster_path": "/8ZX18L5m6rH5viSYpRnTSbb9eXh.jpg",
+  "release_date": "2019-11-08",
   "title": "The Platform",
   "video": false,
-  "vote_average": 5.0,
-  "vote_count": 1
+  "vote_average": 6.99,
+  "vote_count": 5993
 }

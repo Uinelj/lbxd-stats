@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/20pkC7yJdCV4J1IMKfsCT9QU7zV.jpg",
-  "genre_ids": [
-    10751,
-    14,
-    12
-  ],
   "id": 12155,
   "original_language": "en",
   "original_title": "Alice in Wonderland",
   "overview": "Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.",
-  "popularity": 60.736,
+  "popularity": 91.447,
   "poster_path": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
   "release_date": "2010-03-03",
   "title": "Alice in Wonderland",
   "video": false,
-  "vote_average": 6.618,
-  "vote_count": 12776
+  "vote_average": 6.619,
+  "vote_count": 12792
 }

@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/eT9fTSTjsCCmdQJ62EpxvePGANc.jpg",
-  "genre_ids": [
-    27,
-    53,
-    28
-  ],
   "id": 396535,
   "original_language": "ko",
   "original_title": "\ubd80\uc0b0\ud589",
   "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
-  "popularity": 88.826,
+  "popularity": 94.735,
   "poster_path": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
   "release_date": "2016-07-20",
   "title": "Train to Busan",
   "video": false,
   "vote_average": 7.759,
-  "vote_count": 6294
+  "vote_count": 6312
 }

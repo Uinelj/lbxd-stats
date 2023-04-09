@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/z49xfB5s3A7G8vnXDfzFWJup046.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 4960,
   "original_language": "en",
   "original_title": "Synecdoche, New York",
   "overview": "A theater director struggles with his work, and the women in his life, as he attempts to create a life-size replica of New York inside a warehouse as part of his new play.",
-  "popularity": 10.686,
+  "popularity": 12.537,
   "poster_path": "/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
   "release_date": "2008-10-24",
   "title": "Synecdoche, New York",
   "video": false,
-  "vote_average": 7.646,
-  "vote_count": 1196
+  "vote_average": 7.6,
+  "vote_count": 1200
 }

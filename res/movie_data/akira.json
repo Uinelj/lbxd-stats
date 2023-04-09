@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/jkwVCMIkN3j284EPIDIGnskTd69.jpg",
-  "genre_ids": [
-    16,
-    878,
-    28
-  ],
   "id": 149,
   "original_language": "ja",
   "original_title": "AKIRA",
   "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-  "popularity": 30.45,
+  "popularity": 40.406,
   "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
   "release_date": "1988-07-16",
   "title": "Akira",
   "video": false,
-  "vote_average": 7.946,
-  "vote_count": 3490
+  "vote_average": 7.949,
+  "vote_count": 3499
 }

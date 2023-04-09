@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/M7Kiquud2bjrhQvZXeIrvW0J4a.jpg",
-  "genre_ids": [
-    28,
-    35,
-    80
-  ],
   "id": 648579,
   "original_language": "en",
   "original_title": "The Unbearable Weight of Massive Talent",
   "overview": "Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 million offer to attend the birthday of a dangerous superfan. Things take a wildly unexpected turn when Cage is recruited by a CIA operative and forced to live up to his own legend, channeling his most iconic and beloved on-screen characters in order to save himself and his loved ones.",
-  "popularity": 112.725,
+  "popularity": 185.188,
   "poster_path": "/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
   "release_date": "2022-04-20",
   "title": "The Unbearable Weight of Massive Talent",
   "video": false,
-  "vote_average": 6.789,
-  "vote_count": 1131
+  "vote_average": 6.78,
+  "vote_count": 1159
 }

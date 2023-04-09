@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/4JOPLgIwDQ1qNI5EHiCF5hPII8Y.jpg",
-  "genre_ids": [
-    27,
-    9648
-  ],
   "id": 4234,
   "original_language": "en",
   "original_title": "Scream 3",
   "overview": "While Sidney lives in safely guarded seclusion, bodies begin dropping around the Hollywood set of STAB 3, the latest movie based on the gruesome Woodsboro killings.",
-  "popularity": 68.319,
+  "popularity": 97.545,
   "poster_path": "/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",
   "release_date": "2000-02-03",
   "title": "Scream 3",
   "video": false,
-  "vote_average": 5.975,
-  "vote_count": 2894
+  "vote_average": 5.976,
+  "vote_count": 2911
 }

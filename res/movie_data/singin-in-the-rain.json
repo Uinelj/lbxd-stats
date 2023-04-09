@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/g7KmJaGFvST5cyvA71V6epKAqIC.jpg",
-  "genre_ids": [
-    35,
-    10402,
-    10749,
-    18
-  ],
   "id": 872,
   "original_language": "en",
   "original_title": "Singin' in the Rain",
   "overview": "In 1927 Hollywood, a silent film production company and cast make a difficult transition to sound.",
-  "popularity": 18.327,
+  "popularity": 22.318,
   "poster_path": "/671EPwBsHGHBk0cdOeZqmOK0XB3.jpg",
   "release_date": "1952-04-09",
   "title": "Singin' in the Rain",
   "video": false,
-  "vote_average": 8.166,
-  "vote_count": 2700
+  "vote_average": 8.165,
+  "vote_count": 2710
 }

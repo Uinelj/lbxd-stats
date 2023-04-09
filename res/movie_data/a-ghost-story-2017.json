@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/8kiPIqPWJaeTNQlHvGyHodeh9lU.jpg",
-  "genre_ids": [
-    18,
-    14
-  ],
   "id": 428449,
   "original_language": "en",
   "original_title": "A Ghost Story",
   "overview": "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.",
-  "popularity": 14.734,
+  "popularity": 18.568,
   "poster_path": "/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
   "release_date": "2017-04-24",
   "title": "A Ghost Story",
   "video": false,
-  "vote_average": 7.102,
-  "vote_count": 2049
+  "vote_average": 7.104,
+  "vote_count": 2051
 }

@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/yzpZVgaTZzDrAP1yVeCbKZH9jmA.jpg",
-  "genre_ids": [
-    80,
-    18,
-    53,
-    28
-  ],
   "id": 559969,
   "original_language": "en",
   "original_title": "El Camino: A Breaking Bad Movie",
   "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
-  "popularity": 25.248,
+  "popularity": 36.278,
   "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
   "release_date": "2019-10-11",
   "title": "El Camino: A Breaking Bad Movie",
   "video": false,
-  "vote_average": 6.94,
-  "vote_count": 4229
+  "vote_average": 6.941,
+  "vote_count": 4239
 }

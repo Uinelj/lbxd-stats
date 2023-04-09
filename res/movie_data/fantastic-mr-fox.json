@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/qU4HDNKv7gjdlvMu74r70rISPwn.jpg",
-  "genre_ids": [
-    12,
-    16,
-    35,
-    10751
-  ],
   "id": 10315,
   "original_language": "en",
   "original_title": "Fantastic Mr. Fox",
   "overview": "The Fantastic Mr. Fox bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
-  "popularity": 28.239,
+  "popularity": 32.799,
   "poster_path": "/jGhVauMEznd1R0yI6CYG9PONA9D.jpg",
   "release_date": "2009-10-23",
   "title": "Fantastic Mr. Fox",
   "video": false,
-  "vote_average": 7.777,
-  "vote_count": 4481
+  "vote_average": 7.778,
+  "vote_count": 4489
 }

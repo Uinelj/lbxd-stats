@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/toJ3y1kNbOF6dFY0UZwBvExFTaM.jpg",
-  "genre_ids": [
-    18,
-    10749
-  ],
   "id": 2288,
   "original_language": "en",
   "original_title": "Closer",
   "overview": "Two couples disintegrate when they begin destructive adulterous affairs with each other.",
-  "popularity": 20.31,
+  "popularity": 21.924,
   "poster_path": "/fGGaokx4k00S0J603VG53Qlr9jz.jpg",
   "release_date": "2004-12-03",
   "title": "Closer",
   "video": false,
   "vote_average": 6.838,
-  "vote_count": 2942
+  "vote_count": 2951
 }

@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/7jjwdoIVPJp7gcDo9uE1sVZi2Rs.jpg",
-  "genre_ids": [
-    18,
-    10749
-  ],
   "id": 296096,
   "original_language": "en",
   "original_title": "Me Before You",
   "overview": "A small town girl is caught between dead-end jobs. A high-profile, successful man becomes wheelchair bound following an accident. The man decides his life is not worth living until the girl is hired for six months to be his new caretaker. Worlds apart and trapped together by circumstance, the two get off to a rocky start. But the girl becomes determined to prove to the man that life is worth living and as they embark on a series of adventures together, each finds their world changing in ways neither of them could begin to imagine.",
-  "popularity": 113.079,
+  "popularity": 231.424,
   "poster_path": "/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg",
   "release_date": "2016-06-01",
   "title": "Me Before You",
   "video": false,
-  "vote_average": 7.911,
-  "vote_count": 10989
+  "vote_average": 7.912,
+  "vote_count": 11009
 }

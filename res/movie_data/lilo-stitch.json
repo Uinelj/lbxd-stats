@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
-  "genre_ids": [
-    16,
-    10751
-  ],
   "id": 11544,
   "original_language": "en",
   "original_title": "Lilo & Stitch",
   "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and \u02bbohana, the Hawaiian tradition of family.",
-  "popularity": 64.711,
+  "popularity": 89.375,
   "poster_path": "/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg",
   "release_date": "2002-06-21",
   "title": "Lilo & Stitch",
   "video": false,
-  "vote_average": 7.506,
-  "vote_count": 5424
+  "vote_average": 7.505,
+  "vote_count": 5436
 }

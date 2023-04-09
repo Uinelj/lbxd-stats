@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/b5i3wPa2lKXdMQfNNX9nfxnkFfG.jpg",
-  "genre_ids": [
-    12,
-    28,
-    878
-  ],
   "id": 1892,
   "original_language": "en",
   "original_title": "Return of the Jedi",
   "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
-  "popularity": 26.305,
+  "popularity": 46.473,
   "poster_path": "/xxCnFmRZ83jHTZsBiceG4IBUGoq.jpg",
   "release_date": "1983-05-25",
   "title": "Return of the Jedi",
   "video": false,
-  "vote_average": 7.9,
-  "vote_count": 14046
+  "vote_average": 7.889,
+  "vote_count": 14072
 }

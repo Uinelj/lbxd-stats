@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/mXELcGjyU0osFfUCiz1YdAn470M.jpg",
-  "genre_ids": [
-    80,
-    53,
-    18
-  ],
   "id": 184,
   "original_language": "en",
   "original_title": "Jackie Brown",
   "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan \u2014 with help from a bail bondsman \u2014 to keep the money for herself.",
-  "popularity": 18.871,
+  "popularity": 16.276,
   "poster_path": "/ewbLUXvm4riZL0aepy90o0vMesn.jpg",
   "release_date": "1997-12-25",
   "title": "Jackie Brown",
   "video": false,
-  "vote_average": 7.353,
-  "vote_count": 5619
+  "vote_average": 7.352,
+  "vote_count": 5626
 }

@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
-  "genre_ids": [
-    18,
-    35,
-    10752
-  ],
   "id": 935,
   "original_language": "en",
   "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
   "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike.",
-  "popularity": 29.046,
+  "popularity": 29.293,
   "poster_path": "/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
   "release_date": "1964-01-29",
   "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
   "video": false,
-  "vote_average": 8.136,
-  "vote_count": 4890
+  "vote_average": 8.137,
+  "vote_count": 4899
 }

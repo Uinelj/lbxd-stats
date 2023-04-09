@@ -1,22 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/okJXzeIpbdx7q8rQjJwBNr8VTEk.jpg",
-  "genre_ids": [
-    16,
-    10751,
-    12,
-    18,
-    35
-  ],
   "id": 150540,
   "original_language": "en",
   "original_title": "Inside Out",
   "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions\u2014 Joy, Fear, Anger, Disgust and Sadness\u2014live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.",
-  "popularity": 98.437,
+  "popularity": 121.997,
   "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
   "release_date": "2015-06-09",
   "title": "Inside Out",
   "video": false,
-  "vote_average": 7.925,
-  "vote_count": 18858
+  "vote_average": 7.923,
+  "vote_count": 18885
 }

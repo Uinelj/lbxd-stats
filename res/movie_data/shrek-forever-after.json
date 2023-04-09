@@ -1,22 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/gVl6aX2paJIHpMxAAe8X36VNExi.jpg",
-  "genre_ids": [
-    35,
-    12,
-    14,
-    16,
-    10751
-  ],
   "id": 10192,
   "original_language": "en",
   "original_title": "Shrek Forever After",
   "overview": "A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away\u2014where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met\u2014he sets out to restore his world and reclaim his true love.",
-  "popularity": 103.343,
+  "popularity": 166.65,
   "poster_path": "/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
   "release_date": "2010-05-16",
   "title": "Shrek Forever After",
   "video": false,
-  "vote_average": 6.3,
-  "vote_count": 6458
+  "vote_average": 6.336,
+  "vote_count": 6471
 }

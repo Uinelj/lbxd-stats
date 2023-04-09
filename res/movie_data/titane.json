@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/zEddiBK6yZNUGVnmBJzmnYcEWiR.jpg",
-  "genre_ids": [
-    18,
-    53,
-    27
-  ],
   "id": 630240,
   "original_language": "fr",
   "original_title": "Titane",
   "overview": "A woman with a metal plate in her head from a childhood car accident embarks on a bizarre journey, bringing her into contact with a firefighter who's reunited with his missing son after 10 years.",
-  "popularity": 49.91,
+  "popularity": 67.37,
   "poster_path": "/37JWYHDvIu7XbuldEKZchDXcVDz.jpg",
   "release_date": "2021-07-14",
   "title": "Titane",
   "video": false,
-  "vote_average": 6.456,
-  "vote_count": 1087
+  "vote_average": 6.452,
+  "vote_count": 1091
 }

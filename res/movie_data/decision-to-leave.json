@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/A1bWhTFQKkhF1yhSKWosSyzn2Hp.jpg",
-  "genre_ids": [
-    80,
-    18,
-    9648,
-    10749
-  ],
   "id": 705996,
   "original_language": "ko",
   "original_title": "\ud5e4\uc5b4\uc9c8 \uacb0\uc2ec",
   "overview": "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man\u2019s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire.",
-  "popularity": 78.592,
-  "poster_path": "/N0rskx91Eh6aWjvBybeY6epNic.jpg",
+  "popularity": 96.547,
+  "poster_path": "/TDaXKGBqJUSbCQ9XjkrJs8GYuU.jpg",
   "release_date": "2022-06-29",
   "title": "Decision to Leave",
   "video": false,
-  "vote_average": 7.416,
-  "vote_count": 663
+  "vote_average": 7.418,
+  "vote_count": 669
 }

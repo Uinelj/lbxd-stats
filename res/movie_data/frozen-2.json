@@ -1,20 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/5BNjRTNqQff6Mz1c17WCRSdz0RF.jpg",
-  "genre_ids": [
-    16,
-    10402,
-    10751
-  ],
-  "id": 490935,
+  "backdrop_path": "/xJWPZIYOEFIjZpBL7SVBGnzRYXp.jpg",
+  "id": 330457,
   "original_language": "en",
-  "original_title": "A Frozen Christmas 2",
-  "overview": "When Santa and his reindeer pal Barnaby finish delivering presents for Christmas, they head back to the North Pole to celebrate. Gather around and listen as Santa and his elf pals dance and tell stories. Including time-honored Christmas story classics!",
-  "popularity": 2.637,
-  "poster_path": "/zrzGLUDdziaBEvIbmXBSCJgLHrC.jpg",
-  "release_date": "2017-12-04",
-  "title": "A Frozen Christmas 2",
+  "original_title": "Frozen II",
+  "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+  "popularity": 145.827,
+  "poster_path": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+  "release_date": "2019-11-20",
+  "title": "Frozen II",
   "video": false,
-  "vote_average": 8.0,
-  "vote_count": 2
+  "vote_average": 7.28,
+  "vote_count": 8791
 }

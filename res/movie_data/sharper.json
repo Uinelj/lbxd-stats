@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
-  "genre_ids": [
-    53,
-    80,
-    18
-  ],
   "id": 717980,
   "original_language": "en",
   "original_title": "Sharper",
   "overview": "A small, wealthy family in New York City gets progressively torn apart by secrets, lies, and the theft that orchestrates all of it.",
-  "popularity": 70.131,
+  "popularity": 81.337,
   "poster_path": "/tq8x5F17q95T1j0up5rpzXFAylN.jpg",
   "release_date": "2023-02-10",
   "title": "Sharper",
   "video": false,
-  "vote_average": 7.095,
-  "vote_count": 216
+  "vote_average": 7.126,
+  "vote_count": 227
 }

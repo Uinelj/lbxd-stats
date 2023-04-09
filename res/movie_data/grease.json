@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/pdhDFmVQSA0f5i5IL0gpWROjgZ5.jpg",
-  "genre_ids": [
-    10749,
-    35
-  ],
   "id": 621,
   "original_language": "en",
   "original_title": "Grease",
   "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
-  "popularity": 39.711,
+  "popularity": 58.813,
   "poster_path": "/czVhhAaSBFpakur7U8pOIDV9NUG.jpg",
   "release_date": "1978-07-07",
   "title": "Grease",
   "video": false,
   "vote_average": 7.407,
-  "vote_count": 6519
+  "vote_count": 6533
 }

@@ -1,18 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/kl7N2uKee2aIORJ4tlW5SMdyXTz.jpg",
-  "genre_ids": [
-    99
-  ],
-  "id": 935344,
-  "original_language": "zh",
-  "original_title": "\u5317\u4eac2022\u51ac\u5b63\u5965\u8fd0\u4f1a\u95ed\u5e55\u5f0f",
-  "overview": "On February 20, 2022, the closing ceremony of the 24th Winter Olympic Games was held at the Beijing National Stadium.",
-  "popularity": 1.177,
-  "poster_path": "/uQxi6m5UEUqiIIwzO2jDG7wSlNy.jpg",
-  "release_date": "2022-02-20",
-  "title": "Beijing 2022 Olympics Closing Ceremony",
+  "backdrop_path": "/rCZNtFhCId7zAMo68xyCEwnRvB.jpg",
+  "id": 901563,
+  "original_language": "fr",
+  "original_title": "Close",
+  "overview": "Two thirteen year-olds have always been incredibly close but they drift apart after the intimacy of their relationship is questioned by schoolmates.  An emotionally transformative and unforgettable portrait of the intersection of friendship and love, identity and independence, and heartbreak and healing.",
+  "popularity": 237.36,
+  "poster_path": "/54FGmbm9kJselaFPLRomXDuuCGK.jpg",
+  "release_date": "2022-11-01",
+  "title": "Close",
   "video": false,
-  "vote_average": 7.0,
-  "vote_count": 1
+  "vote_average": 7.79,
+  "vote_count": 321
 }

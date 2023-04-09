@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
-  "genre_ids": [
-    10749,
-    14,
-    16
-  ],
   "id": 3933,
   "original_language": "en",
   "original_title": "Corpse Bride",
   "overview": "Set in a 19th-century European village, this stop-motion animation feature follows the story of Victor, a young man whisked away to the underworld and wed to a mysterious corpse bride, while his real bride Victoria waits bereft in the land of the living.",
-  "popularity": 84.413,
+  "popularity": 96.06,
   "poster_path": "/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
   "release_date": "2005-09-12",
   "title": "Corpse Bride",
   "video": false,
-  "vote_average": 7.513,
-  "vote_count": 7879
+  "vote_average": 7.514,
+  "vote_count": 7902
 }

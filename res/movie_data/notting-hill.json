@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/egyi9TQjLhNEQuEsK1dXovdHOHL.jpg",
-  "genre_ids": [
-    10749,
-    35,
-    18
-  ],
   "id": 509,
   "original_language": "en",
   "original_title": "Notting Hill",
   "overview": "William Thacker is a London bookstore owner whose humdrum existence is thrown into romantic turmoil when famous American actress Anna Scott appears in his shop. A chance encounter over spilled orange juice leads to a kiss that blossoms into a full-blown affair. As the average bloke and glamorous movie star draw closer and closer together, they struggle to reconcile their radically different lifestyles in the name of love.",
-  "popularity": 24.131,
+  "popularity": 26.406,
   "poster_path": "/fQqfLeD7h4nCXK0N5HEa4dAExk1.jpg",
   "release_date": "1999-05-21",
   "title": "Notting Hill",
   "video": false,
   "vote_average": 7.263,
-  "vote_count": 5347
+  "vote_count": 5353
 }

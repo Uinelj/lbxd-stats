@@ -1,20 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/qUv51IFUvVRAP2379ThmA3eLJx6.jpg",
-  "genre_ids": [
-    28,
-    12,
-    14
-  ],
+  "backdrop_path": "/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
   "id": 284052,
   "original_language": "en",
   "original_title": "Doctor Strange",
   "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
-  "popularity": 90.869,
+  "popularity": 112.367,
   "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
   "release_date": "2016-10-25",
   "title": "Doctor Strange",
   "video": false,
   "vote_average": 7.426,
-  "vote_count": 20312
+  "vote_count": 20333
 }

@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/gOlMx8kFIIUmYVRIKuLbaLhBJSZ.jpg",
-  "genre_ids": [
-    35,
-    10751,
-    14
-  ],
   "id": 10330,
   "original_language": "en",
   "original_title": "Freaky Friday",
   "overview": "Mother and daughter bicker over everything -- what Anna wears, whom she likes and what she wants to do when she's older. In turn, Anna detests Tess's fianc\u00e9. When a magical fortune cookie switches their personalities, they each get a peek at how the other person feels, thinks and lives.",
-  "popularity": 48.334,
+  "popularity": 38.71,
   "poster_path": "/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg",
   "release_date": "2003-08-05",
   "title": "Freaky Friday",
   "video": false,
   "vote_average": 6.443,
-  "vote_count": 3314
+  "vote_count": 3318
 }

@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/cMXjXyX53PMtRVOQYgBmBpTdFak.jpg",
-  "genre_ids": [
-    35,
-    18,
-    14
-  ],
   "id": 492,
   "original_language": "en",
   "original_title": "Being John Malkovich",
   "overview": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
-  "popularity": 13.675,
+  "popularity": 17.627,
   "poster_path": "/xVSvIwRNzwXSs0CLefiiG6A96m4.jpg",
   "release_date": "1999-10-29",
   "title": "Being John Malkovich",
   "video": false,
-  "vote_average": 7.415,
-  "vote_count": 3767
+  "vote_average": 7.416,
+  "vote_count": 3778
 }

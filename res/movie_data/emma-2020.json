@@ -1,21 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/skTeEE3kZZG0w7sdMt51ZMW1ZaH.jpg",
-  "genre_ids": [
-    35,
-    18,
-    10749,
-    10770
-  ],
-  "id": 12254,
+  "backdrop_path": "/5GbkL9DDRzq3A21nR7Gkv6cFGjq.jpg",
+  "id": 556678,
   "original_language": "en",
-  "original_title": "Emma",
-  "overview": "Emma Woodhouse has a rigid sense of propriety as regards matrimonial alliances. Unfortunately she insists on matchmaking for her less forceful friend, Harriet, and so causes her to come to grief. Through the sharp words of Mr. Knightley, and the example of the opinionated Mrs. Elton, someone not unlike herself, Emma's attitudes begin to soften.",
-  "popularity": 11.698,
-  "poster_path": "/d6ksCUWYOaweyvGLi1JILYvIybN.jpg",
-  "release_date": "1996-10-02",
-  "title": "Emma",
+  "original_title": "Emma.",
+  "overview": "In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.",
+  "popularity": 34.097,
+  "poster_path": "/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+  "release_date": "2020-02-13",
+  "title": "Emma.",
   "video": false,
-  "vote_average": 6.7,
-  "vote_count": 112
+  "vote_average": 7.052,
+  "vote_count": 1494
 }

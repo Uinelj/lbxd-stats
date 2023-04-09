@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/paUKxrbN2ww0JeT2JtvgAuaGlPf.jpg",
-  "genre_ids": [
-    9648,
-    53,
-    18
-  ],
   "id": 745,
   "original_language": "en",
   "original_title": "The Sixth Sense",
   "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
-  "popularity": 30.16,
+  "popularity": 48.252,
   "poster_path": "/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
   "release_date": "1999-08-06",
   "title": "The Sixth Sense",
   "video": false,
   "vote_average": 7.944,
-  "vote_count": 10313
+  "vote_count": 10339
 }

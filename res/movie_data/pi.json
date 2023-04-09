@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/rYpGznw5UExo3ojqRK8eRIfqoEJ.jpg",
-  "genre_ids": [
-    9648,
-    18,
-    53
-  ],
   "id": 473,
   "original_language": "en",
   "original_title": "Pi",
   "overview": "A mathematical genius discovers a link between numbers and reality, and thus believes he can predict the future.",
-  "popularity": 12.791,
+  "popularity": 16.001,
   "poster_path": "/oPXWSYognG1SsS6GcWQUNJjE7rA.jpg",
   "release_date": "1998-07-10",
   "title": "Pi",
   "video": false,
-  "vote_average": 7.119,
-  "vote_count": 1922
+  "vote_average": 7.12,
+  "vote_count": 1924
 }

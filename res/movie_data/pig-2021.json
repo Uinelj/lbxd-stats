@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/zMecgI8rWjLH81OsJfLehIkUK5q.jpg",
-  "genre_ids": [
-    18,
-    53
-  ],
   "id": 635731,
   "original_language": "en",
   "original_title": "Pig",
   "overview": "A truffle hunter who lives alone in the Oregon wilderness must visit Portland to find the mysterious person who stole his beloved foraging pig.",
-  "popularity": 14.423,
+  "popularity": 19.916,
   "poster_path": "/1InMm4Mbjx8wCKvIy5gglo5i3HN.jpg",
   "release_date": "2021-07-16",
   "title": "Pig",
   "video": false,
-  "vote_average": 6.664,
-  "vote_count": 1004
+  "vote_average": 6.667,
+  "vote_count": 1009
 }

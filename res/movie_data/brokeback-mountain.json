@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/3KyAxlakmcyHWqlcxgIxMQnSilk.jpg",
-  "genre_ids": [
-    18,
-    10749
-  ],
   "id": 142,
   "original_language": "en",
   "original_title": "Brokeback Mountain",
   "overview": "Rodeo cowboy Jack and ranch hand Ennis are hired as sheepherders in 1963 Wyoming. One night on Brokeback Mountain, they spark a physical relationship. Though Ennis marries his longtime sweetheart and Jack marries a fellow rodeo rider, they keep up their tortured, sporadic love affair for 20 years.",
-  "popularity": 25.983,
+  "popularity": 30.672,
   "poster_path": "/fsbzfe9eLOEl5rJX04nPEr1eoAi.jpg",
   "release_date": "2005-09-10",
   "title": "Brokeback Mountain",
   "video": false,
-  "vote_average": 7.803,
-  "vote_count": 6182
+  "vote_average": 7.802,
+  "vote_count": 6191
 }

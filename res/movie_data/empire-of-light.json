@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/bFAozpBc5s0cJcolKABpa5THusM.jpg",
-  "genre_ids": [
-    18,
-    10749
-  ],
   "id": 814757,
   "original_language": "en",
   "original_title": "Empire of Light",
   "overview": "The duty manager of a seaside cinema, who is struggling with her mental health, forms a relationship with a new employee on the south coast of England in the 1980s.",
-  "popularity": 55.647,
+  "popularity": 54.469,
   "poster_path": "/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
   "release_date": "2022-12-09",
   "title": "Empire of Light",
   "video": false,
-  "vote_average": 6.741,
-  "vote_count": 234
+  "vote_average": 6.731,
+  "vote_count": 249
 }

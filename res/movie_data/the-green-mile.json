@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
-  "genre_ids": [
-    14,
-    18,
-    80
-  ],
   "id": 497,
   "original_language": "en",
   "original_title": "The Green Mile",
   "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
-  "popularity": 106.604,
+  "popularity": 100.943,
   "poster_path": "/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg",
   "release_date": "1999-12-10",
   "title": "The Green Mile",
   "video": false,
-  "vote_average": 8.506,
-  "vote_count": 15217
+  "vote_average": 8.507,
+  "vote_count": 15246
 }

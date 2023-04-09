@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/zL4gtCeoPZkAFCKR0kNERpUiuPR.jpg",
-  "genre_ids": [
-    12,
-    14,
-    10751
-  ],
   "id": 630,
   "original_language": "en",
   "original_title": "The Wizard of Oz",
   "overview": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
-  "popularity": 49.418,
+  "popularity": 63.291,
   "poster_path": "/bSA6DbAC5gdkaooU164lQUX6rVs.jpg",
   "release_date": "1939-08-15",
   "title": "The Wizard of Oz",
   "video": false,
   "vote_average": 7.585,
-  "vote_count": 4871
+  "vote_count": 4889
 }

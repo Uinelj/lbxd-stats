@@ -1,20 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/a8tH0jl37366bLVyPB08dncgqqd.jpg",
-  "genre_ids": [
-    35,
-    80,
-    10751
-  ],
-  "id": 654974,
+  "backdrop_path": "/vaVaNrscmsG8CUKYxiwZGFNqGJo.jpg",
+  "id": 771,
   "original_language": "en",
-  "original_title": "Home Sweet Home Alone",
-  "overview": "After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.",
-  "popularity": 47.15,
-  "poster_path": "/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg",
-  "release_date": "2021-11-12",
-  "title": "Home Sweet Home Alone",
+  "original_title": "Home Alone",
+  "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. But when a pair of bungling burglars set their sights on Kevin's house, the plucky kid stands ready to defend his territory. By planting booby traps galore, adorably mischievous Kevin stands his ground as his frantic mother attempts to race home before Christmas Day.",
+  "popularity": 2.26,
+  "poster_path": "/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg",
+  "release_date": "1990-11-16",
+  "title": "Home Alone",
   "video": false,
-  "vote_average": 5.0,
-  "vote_count": 495
+  "vote_average": 7.4,
+  "vote_count": 9783
 }

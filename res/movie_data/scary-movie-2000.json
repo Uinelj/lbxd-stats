@@ -1,19 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": null,
-  "genre_ids": [
-    35,
-    27
-  ],
-  "id": 4240,
+  "backdrop_path": "/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+  "id": 4247,
   "original_language": "en",
-  "original_title": "Titanic 2000",
-  "overview": "The luxury liner Titanic 2000 has set sail on its maiden voyage, and one of the passengers is the vampire Vladamina. Vladamina is searching for a woman she can turn into a vampire queen, and frustrated rock groupie Shari looks to be a perfect target. As various people get seduced and/or killed as the liner continues on its doomed voyage, Shari must chose between eternity as a living dead sex slave or a frigid grave at the bottom of the ocean.",
-  "popularity": 10.137,
-  "poster_path": "/91p8xU2nykmw8psADIJOlBLdlXK.jpg",
-  "release_date": "1999-01-01",
-  "title": "Titanic 2000",
+  "original_title": "Scary Movie",
+  "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+  "popularity": 110.751,
+  "poster_path": "/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",
+  "release_date": "2000-07-07",
+  "title": "Scary Movie",
   "video": false,
-  "vote_average": 3.2,
-  "vote_count": 10
+  "vote_average": 6.324,
+  "vote_count": 6092
 }

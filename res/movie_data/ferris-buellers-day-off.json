@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/zmVq7y63z8NewluK7MUBfTxuyvD.jpg",
-  "genre_ids": [
-    35
-  ],
   "id": 9377,
   "original_language": "en",
   "original_title": "Ferris Bueller's Day Off",
   "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
-  "popularity": 19.754,
+  "popularity": 24.607,
   "poster_path": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
   "release_date": "1986-06-11",
   "title": "Ferris Bueller's Day Off",
   "video": false,
-  "vote_average": 7.62,
-  "vote_count": 4255
+  "vote_average": 7.621,
+  "vote_count": 4269
 }

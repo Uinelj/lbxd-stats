@@ -1,22 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/4JNggqfyJWREqb0enzpUMbvIniV.jpg",
-  "genre_ids": [
-    16,
-    10751,
-    35,
-    14,
-    18
-  ],
   "id": 508442,
   "original_language": "en",
   "original_title": "Soul",
   "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
-  "popularity": 81.802,
+  "popularity": 113.555,
   "poster_path": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
   "release_date": "2020-12-25",
   "title": "Soul",
   "video": false,
-  "vote_average": 8.159,
-  "vote_count": 8965
+  "vote_average": 8.157,
+  "vote_count": 8986
 }

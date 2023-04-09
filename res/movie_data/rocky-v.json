@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/ne1ivJv3lGGUvZ9F72P0r2xpksB.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 1375,
   "original_language": "en",
   "original_title": "Rocky V",
   "overview": "A lifetime of taking shots has ended Rocky\u2019s career, and a crooked accountant has left him broke. Inspired by the memory of his trainer, however, Rocky finds glory in training and takes on an up-and-coming boxer.",
-  "popularity": 39.672,
+  "popularity": 54.939,
   "poster_path": "/qCARerjCFZOEeLiVdomhwRYlDSn.jpg",
   "release_date": "1990-11-16",
   "title": "Rocky V",
   "video": false,
-  "vote_average": 5.759,
-  "vote_count": 2761
+  "vote_average": 5.761,
+  "vote_count": 2769
 }

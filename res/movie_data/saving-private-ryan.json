@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
-  "genre_ids": [
-    18,
-    36,
-    10752
-  ],
   "id": 857,
   "original_language": "en",
   "original_title": "Saving Private Ryan",
   "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
-  "popularity": 56.078,
+  "popularity": 69.837,
   "poster_path": "/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg",
   "release_date": "1998-07-24",
   "title": "Saving Private Ryan",
   "video": false,
   "vote_average": 8.207,
-  "vote_count": 14049
+  "vote_count": 14079
 }

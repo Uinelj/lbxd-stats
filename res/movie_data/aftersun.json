@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/hhICjHximfBciqxX09d91GgghV8.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 965150,
   "original_language": "en",
   "original_title": "Aftersun",
   "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between miniDV footage as she tries to reconcile the father she knew with the man she didn't.",
-  "popularity": 58.08,
-  "poster_path": "/yx3hS1sZIljZgZNTyt0ATmcs0PC.jpg",
+  "popularity": 51.788,
+  "poster_path": "/jeXmhP2zbUkREMRqFOYIwQOk49T.jpg",
   "release_date": "2022-10-21",
   "title": "Aftersun",
   "video": false,
-  "vote_average": 7.769,
-  "vote_count": 581
+  "vote_average": 7.747,
+  "vote_count": 600
 }

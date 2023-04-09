@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/qSuSc03Kz90CtrIvaYBdYuyMpkd.jpg",
-  "genre_ids": [
-    99
-  ],
   "id": 1041580,
   "original_language": "ta",
   "original_title": "The Elephant Whisperers",
   "overview": "The Elephant Whisperers follows an indigenous couple as they fall in love with Raghu, an orphaned elephant given into their care, and tirelessly work to ensure his recovery & survival. The film highlights the beauty of the wild spaces in South India and the people and animals who share this space.",
-  "popularity": 15.61,
+  "popularity": 15.565,
   "poster_path": "/rRn0Uj2WXal7FkWWyKK0bleQlOy.jpg",
   "release_date": "2022-12-08",
   "title": "The Elephant Whisperers",
   "video": false,
-  "vote_average": 7.3,
-  "vote_count": 67
+  "vote_average": 7.25,
+  "vote_count": 70
 }

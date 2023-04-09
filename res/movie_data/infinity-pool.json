@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/lIulkr7fr5rDbbxAuhK29fcjjCP.jpg",
-  "genre_ids": [
-    27,
-    878,
-    53
-  ],
   "id": 667216,
   "original_language": "en",
   "original_title": "Infinity Pool",
   "overview": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror.",
-  "popularity": 49.265,
+  "popularity": 50.176,
   "poster_path": "/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg",
   "release_date": "2023-01-27",
   "title": "Infinity Pool",
   "video": false,
-  "vote_average": 6.5,
-  "vote_count": 178
+  "vote_average": 6.455,
+  "vote_count": 199
 }

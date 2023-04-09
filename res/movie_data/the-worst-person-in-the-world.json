@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg",
-  "genre_ids": [
-    18,
-    35,
-    10749
-  ],
   "id": 660120,
   "original_language": "no",
   "original_title": "Verdens verste menneske",
   "overview": "The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
-  "popularity": 22.195,
+  "popularity": 29.49,
   "poster_path": "/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
   "release_date": "2021-10-13",
   "title": "The Worst Person in the World",
   "video": false,
-  "vote_average": 7.57,
-  "vote_count": 838
+  "vote_average": 7.576,
+  "vote_count": 843
 }

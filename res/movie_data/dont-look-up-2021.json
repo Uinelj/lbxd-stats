@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg",
-  "genre_ids": [
-    878
-  ],
   "id": 646380,
   "original_language": "en",
   "original_title": "Don't Look Up",
   "overview": "Two American astronomers attempt to warn humankind about an approaching comet that will wipe out life on planet Earth.",
-  "popularity": 55.29,
+  "popularity": 56.72,
   "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
   "release_date": "2021-12-07",
   "title": "Don't Look Up",
   "video": false,
-  "vote_average": 7.159,
-  "vote_count": 6733
+  "vote_average": 7.157,
+  "vote_count": 6769
 }

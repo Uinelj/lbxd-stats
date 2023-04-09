@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/f4ZgIaMpOWd6rewhCfoIIMqWquh.jpg",
-  "genre_ids": [
-    35,
-    10749
-  ],
   "id": 20770,
   "original_language": "en",
   "original_title": "But I'm a Cheerleader",
   "overview": "Megan is an all-American girl. A cheerleader. She has a boyfriend. But Megan doesn't like kissing her boyfriend very much. And she's pretty touchy with her cheerleader friends. Her conservative parents worry that she must be a lesbian and send her off to \"sexual redirection\" school, where she must, with other lesbians and gays learn how to be straight.",
-  "popularity": 11.532,
+  "popularity": 13.765,
   "poster_path": "/bemsTZ7S0dkiQA36mw8vpdZY297.jpg",
   "release_date": "2000-07-07",
   "title": "But I'm a Cheerleader",
   "video": false,
-  "vote_average": 6.963,
-  "vote_count": 494
+  "vote_average": 6.965,
+  "vote_count": 495
 }

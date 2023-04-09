@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/roYyPiQDQKmIKUEhO912693tSja.jpg",
-  "genre_ids": [
-    27,
-    18,
-    878
-  ],
   "id": 447332,
   "original_language": "en",
   "original_title": "A Quiet Place",
   "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
-  "popularity": 58.719,
+  "popularity": 90.243,
   "poster_path": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
   "release_date": "2018-04-03",
   "title": "A Quiet Place",
   "video": false,
-  "vote_average": 7.398,
-  "vote_count": 12597
+  "vote_average": 7.399,
+  "vote_count": 12623
 }

@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/aHKzw9AXrISbWpkVCyn4SV3PrY0.jpg",
-  "genre_ids": [
-    10749,
-    35,
-    10770
-  ],
   "id": 932430,
   "original_language": "en",
   "original_title": "Prom Pact",
   "overview": "It's prom season, and high school senior Mandy and her best friend and fellow outsider Ben are surrounded by over-the-top \"promposals.\" Mandy is only focused on getting into her dream school Harvard, but as she starts tutoring basketball all-star Graham, she must re-evaluate whether her dream school is worth the cost of everything she believes in.",
-  "popularity": 167.706,
+  "popularity": 161.194,
   "poster_path": "/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg",
   "release_date": "2023-03-30",
   "title": "Prom Pact",
   "video": false,
-  "vote_average": 7.9,
-  "vote_count": 27
+  "vote_average": 7.5,
+  "vote_count": 36
 }

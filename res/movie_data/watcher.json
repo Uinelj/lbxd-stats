@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/x9egVd79MUI7z5PiqHKg4P3r2Lz.jpg",
-  "genre_ids": [
-    9648,
-    53,
-    27
-  ],
   "id": 807356,
   "original_language": "en",
   "original_title": "Watcher",
   "overview": "As a serial killer stalks the city, Julia \u2014 a young actress who just moved to town with her husband \u2014 notices a mysterious stranger watching her from across the street.",
-  "popularity": 91.004,
+  "popularity": 138.798,
   "poster_path": "/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg",
   "release_date": "2022-06-03",
   "title": "Watcher",
   "video": false,
-  "vote_average": 6.573,
-  "vote_count": 508
+  "vote_average": 6.578,
+  "vote_count": 515
 }

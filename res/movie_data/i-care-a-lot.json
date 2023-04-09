@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/nuZMOvban3QbG4rRx0WRfEZTnfh.jpg",
-  "genre_ids": [
-    35,
-    80,
-    53,
-    18
-  ],
   "id": 601666,
   "original_language": "en",
   "original_title": "I Care a Lot",
   "overview": "A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.",
-  "popularity": 14.866,
+  "popularity": 19.955,
   "poster_path": "/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg",
   "release_date": "2021-02-19",
   "title": "I Care a Lot",
   "video": false,
-  "vote_average": 6.638,
-  "vote_count": 2287
+  "vote_average": 6.64,
+  "vote_count": 2292
 }

@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/k4AVaOboquMcd3zbFSSgCEbzabz.jpg",
-  "genre_ids": [
-    35,
-    27
-  ],
   "id": 246741,
   "original_language": "en",
   "original_title": "What We Do in the Shadows",
   "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead.",
-  "popularity": 13.752,
+  "popularity": 14.37,
   "poster_path": "/ftrq6LsDNfLPQzrlonOaxSq4yMh.jpg",
   "release_date": "2014-06-19",
   "title": "What We Do in the Shadows",
   "video": false,
-  "vote_average": 7.571,
-  "vote_count": 3090
+  "vote_average": 7.573,
+  "vote_count": 3105
 }

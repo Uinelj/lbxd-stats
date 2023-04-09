@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
-  "genre_ids": [
-    12,
-    28,
-    878
-  ],
   "id": 181808,
   "original_language": "en",
   "original_title": "Star Wars: The Last Jedi",
   "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
-  "popularity": 58.777,
+  "popularity": 78.699,
   "poster_path": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
   "release_date": "2017-12-13",
   "title": "Star Wars: The Last Jedi",
   "video": false,
-  "vote_average": 6.84,
-  "vote_count": 13839
+  "vote_average": 6.838,
+  "vote_count": 13864
 }

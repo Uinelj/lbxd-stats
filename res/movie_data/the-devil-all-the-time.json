@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/rUeqBuNDR9zN6vZV9kpEFMtQm0E.jpg",
-  "genre_ids": [
-    80,
-    18,
-    53
-  ],
   "id": 499932,
   "original_language": "en",
   "original_title": "The Devil All the Time",
   "overview": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
-  "popularity": 19.206,
+  "popularity": 26.328,
   "poster_path": "/bVL7LGq528h3KzeNI90HOVbV5uW.jpg",
   "release_date": "2020-09-11",
   "title": "The Devil All the Time",
   "video": false,
   "vote_average": 7.244,
-  "vote_count": 2879
+  "vote_count": 2890
 }

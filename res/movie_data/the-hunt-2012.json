@@ -1,20 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/9R2FuGT0BeZl8usfsfqIcO7KK7v.jpg",
-  "genre_ids": [
-    28,
-    53,
-    27
-  ],
-  "id": 514847,
-  "original_language": "en",
-  "original_title": "The Hunt",
-  "overview": "Twelve strangers wake up in a clearing. They don't know where they are\u2014or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.",
-  "popularity": 27.186,
-  "poster_path": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
-  "release_date": "2020-03-11",
+  "backdrop_path": "/7zN7m5jEyrNxFYm2EbQJAZwAG5i.jpg",
+  "id": 103663,
+  "original_language": "da",
+  "original_title": "Jagten",
+  "overview": "A teacher lives a lonely life, all the while struggling over his son\u2019s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+  "popularity": 16.907,
+  "poster_path": "/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
+  "release_date": "2012-10-25",
   "title": "The Hunt",
   "video": false,
-  "vote_average": 6.658,
-  "vote_count": 2674
+  "vote_average": 8.096,
+  "vote_count": 3523
 }

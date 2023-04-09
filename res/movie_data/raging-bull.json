@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/wgq2oA1aJiawBlRDIU8agXk7DQQ.jpg",
-  "genre_ids": [
-    18,
-    36
-  ],
   "id": 1578,
   "original_language": "en",
   "original_title": "Raging Bull",
   "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
-  "popularity": 18.832,
+  "popularity": 17.579,
   "poster_path": "/rEviyDWNbAFmvvCPlkMRPAGUElG.jpg",
   "release_date": "1980-11-14",
   "title": "Raging Bull",
   "video": false,
-  "vote_average": 7.968,
-  "vote_count": 3668
+  "vote_average": 7.967,
+  "vote_count": 3680
 }

@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/tFlSDoWQsAZ2qjICKzfP5Yw6zM5.jpg",
-  "genre_ids": [
-    878,
-    12,
-    53
-  ],
   "id": 131631,
   "original_language": "en",
   "original_title": "The Hunger Games: Mockingjay - Part 1",
   "overview": "Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.",
-  "popularity": 95.774,
+  "popularity": 174.529,
   "poster_path": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
   "release_date": "2014-11-19",
   "title": "The Hunger Games: Mockingjay - Part 1",
   "video": false,
   "vote_average": 6.8,
-  "vote_count": 14265
+  "vote_count": 14289
 }

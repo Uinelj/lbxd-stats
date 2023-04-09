@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
-  "genre_ids": [
-    28,
-    80
-  ],
   "id": 24,
   "original_language": "en",
   "original_title": "Kill Bill: Vol. 1",
   "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
-  "popularity": 36.421,
+  "popularity": 47.719,
   "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
   "release_date": "2003-10-10",
   "title": "Kill Bill: Vol. 1",
   "video": false,
-  "vote_average": 7.971,
-  "vote_count": 15611
+  "vote_average": 8.0,
+  "vote_count": 15640
 }

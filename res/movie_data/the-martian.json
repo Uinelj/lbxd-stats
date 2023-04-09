@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/3dPhs7hUnQLphDFzdkD407VZDYo.jpg",
-  "genre_ids": [
-    18,
-    12,
-    878
-  ],
   "id": 286217,
   "original_language": "en",
   "original_title": "The Martian",
   "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
-  "popularity": 43.508,
+  "popularity": 61.085,
   "poster_path": "/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
   "release_date": "2015-09-30",
   "title": "The Martian",
   "video": false,
-  "vote_average": 7.67,
-  "vote_count": 17966
+  "vote_average": 7.671,
+  "vote_count": 18000
 }

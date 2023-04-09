@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/OIGX2lm5tmlCKvZUghtwHzoxxO.jpg",
-  "genre_ids": [
-    28,
-    35,
-    14
-  ],
   "id": 287947,
   "original_language": "en",
   "original_title": "Shazam!",
   "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
-  "popularity": 262.673,
+  "popularity": 564.629,
   "poster_path": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
   "release_date": "2019-03-29",
   "title": "Shazam!",
   "video": false,
-  "vote_average": 7.041,
-  "vote_count": 8368
+  "vote_average": 7.0,
+  "vote_count": 8406
 }

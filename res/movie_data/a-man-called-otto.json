@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/v2LilmCylr3bL9TCZSj6syjowZh.jpg",
-  "genre_ids": [
-    35,
-    18
-  ],
   "id": 937278,
   "original_language": "en",
   "original_title": "A Man Called Otto",
   "overview": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.",
-  "popularity": 454.034,
+  "popularity": 549.135,
   "poster_path": "/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
   "release_date": "2022-12-28",
   "title": "A Man Called Otto",
   "video": false,
-  "vote_average": 7.882,
-  "vote_count": 919
+  "vote_average": 7.888,
+  "vote_count": 984
 }

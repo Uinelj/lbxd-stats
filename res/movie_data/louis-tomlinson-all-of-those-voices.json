@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/b5zs7mQ8d8aQZKyBCv8xTcj4joi.jpg",
-  "genre_ids": [
-    99,
-    10402
-  ],
   "id": 1084072,
   "original_language": "en",
   "original_title": "Louis Tomlinson: All of Those Voices",
   "overview": "Ditching the typical glossy sheen of celebrity documentaries, this film gives audiences an intimate and unvarnished view of Louis Tomlinson's life and career. Through never-before-seen home movie footage and behind the scenes access to Louis\u2019 sell-out 2022 World Tour, the documentary offers a unique perspective on what it's like to be a musician in today's fast-paced world.",
-  "popularity": 27.5,
+  "popularity": 20.4,
   "poster_path": "/66OpDNkN3CPcTsyXohOZOAB4L9N.jpg",
   "release_date": "2023-03-22",
   "title": "Louis Tomlinson: All of Those Voices",
   "video": false,
-  "vote_average": 9.0,
-  "vote_count": 12
+  "vote_average": 9.077,
+  "vote_count": 13
 }

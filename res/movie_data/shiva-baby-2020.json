@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/xkXEP5HhFuOAxTzbj770jVpfsyo.jpg",
-  "genre_ids": [
-    35,
-    18
-  ],
   "id": 664300,
   "original_language": "en",
   "original_title": "Shiva Baby",
   "overview": "College student Danielle must cover her tracks when she unexpectedly runs into her sugar daddy at a shiva - with her parents, ex-girlfriend and family friends also in attendance.",
-  "popularity": 8.089,
+  "popularity": 13.041,
   "poster_path": "/5IBJwMPSCS5XdRT7BO1ZMreFOis.jpg",
   "release_date": "2021-04-02",
   "title": "Shiva Baby",
   "video": false,
-  "vote_average": 7.202,
-  "vote_count": 392
+  "vote_average": 7.196,
+  "vote_count": 393
 }

@@ -1,19 +1,15 @@
 {
   "adult": false,
-  "backdrop_path": "/ns4vN9p3Z0inYlhh4q9vYXUw3zp.jpg",
-  "genre_ids": [
-    16,
-    53
-  ],
+  "backdrop_path": "/A1Larywbw79kZQqkvCEiPHJqdLN.jpg",
   "id": 10494,
   "original_language": "ja",
   "original_title": "PERFECT BLUE",
   "overview": "A retired pop singer turned actress' sense of reality is shaken when she is stalked by an obsessed fan and seemingly a ghost of her past.",
-  "popularity": 29.709,
-  "poster_path": "/hwCTlm990H6NlrG8W7sk3pxdMtf.jpg",
+  "popularity": 38.511,
+  "poster_path": "/reMBfiuA6OugResZAqVA5G3yfcT.jpg",
   "release_date": "1997-07-25",
   "title": "Perfect Blue",
   "video": false,
   "vote_average": 8.279,
-  "vote_count": 1981
+  "vote_count": 1994
 }

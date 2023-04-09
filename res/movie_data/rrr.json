@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
-  "genre_ids": [
-    28,
-    18
-  ],
   "id": 579974,
   "original_language": "te",
   "original_title": "\u0c30\u0c4c\u0c26\u0c4d\u0c30\u0c02 \u0c30\u0c23\u0c02 \u0c30\u0c41\u0c27\u0c3f\u0c30\u0c02",
   "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
-  "popularity": 192.674,
+  "popularity": 215.636,
   "poster_path": "/nEufeZlyAOLqO2brrs0yeF1lgXO.jpg",
   "release_date": "2022-03-24",
   "title": "RRR",
   "video": false,
-  "vote_average": 7.806,
-  "vote_count": 853
+  "vote_average": 7.825,
+  "vote_count": 868
 }

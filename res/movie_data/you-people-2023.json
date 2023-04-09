@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/c9yVIqnrD6fyYhNzNcvAoU6CFG.jpg",
-  "genre_ids": [
-    10749,
-    35
-  ],
   "id": 866413,
   "original_language": "en",
   "original_title": "You People",
   "overview": "A new couple and their families reckon with modern love amid culture clashes, societal expectations and generational differences.",
-  "popularity": 68.32,
+  "popularity": 64.974,
   "poster_path": "/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg",
   "release_date": "2023-01-20",
   "title": "You People",
   "video": false,
-  "vote_average": 5.788,
-  "vote_count": 418
+  "vote_average": 5.779,
+  "vote_count": 429
 }

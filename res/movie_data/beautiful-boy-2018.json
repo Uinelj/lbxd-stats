@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/vy5bKKjcdws80nF9xSCeuXqOyuL.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 451915,
   "original_language": "en",
   "original_title": "Beautiful Boy",
   "overview": "After he and his first wife separate, journalist David Sheff struggles to help their teenage son, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.",
-  "popularity": 25.695,
+  "popularity": 27.315,
   "poster_path": "/u2Gfv0mz3xePsgyCPHovrnFL1sB.jpg",
   "release_date": "2018-10-12",
   "title": "Beautiful Boy",
   "video": false,
-  "vote_average": 7.556,
-  "vote_count": 2103
+  "vote_average": 7.558,
+  "vote_count": 2110
 }

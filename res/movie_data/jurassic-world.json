@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/aIGIYJTyOkEVUmEd3z5x6diYsFx.jpg",
-  "genre_ids": [
-    28,
-    12,
-    878,
-    53
-  ],
   "id": 135397,
   "original_language": "en",
   "original_title": "Jurassic World",
   "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-  "popularity": 84.068,
+  "popularity": 112.815,
   "poster_path": "/A0LZHXUzo5C60Oahvt7VxvwuzHw.jpg",
   "release_date": "2015-06-12",
   "title": "Jurassic World",
   "video": false,
-  "vote_average": 6.7,
-  "vote_count": 18928
+  "vote_average": 6.68,
+  "vote_count": 18949
 }

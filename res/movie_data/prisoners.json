@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/oWKcexbupmmdUEtU8h0WK1DUWmt.jpg",
-  "genre_ids": [
-    18,
-    53,
-    80
-  ],
   "id": 146233,
   "original_language": "en",
   "original_title": "Prisoners",
   "overview": "Keller Dover faces a parent's worst nightmare when his 6-year-old daughter, Anna, and her friend go missing. The only lead is an old motorhome that had been parked on their street. The head of the investigation, Detective Loki, arrests the driver, but a lack of evidence forces Loki to release his only suspect. Dover, knowing that his daughter's life is at stake, decides that he has no choice but to take matters into his own hands.",
-  "popularity": 36.727,
+  "popularity": 64.935,
   "poster_path": "/tuZhZ6biFMr5n9YSVuHOJnNL1uU.jpg",
   "release_date": "2013-09-18",
   "title": "Prisoners",
   "video": false,
-  "vote_average": 8.077,
-  "vote_count": 10167
+  "vote_average": 8.078,
+  "vote_count": 10186
 }

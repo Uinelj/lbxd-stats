@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/xhJ9E1uYT7KO3gjdpUO2SCzR9dL.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 916405,
   "original_language": "ga",
   "original_title": "An Cail\u00edn Ci\u00fain",
   "overview": "A quiet, neglected girl is sent away from her dysfunctional family to live with relatives for the summer. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one.",
-  "popularity": 16.814,
+  "popularity": 18.621,
   "poster_path": "/kc6GM4gThJpXHE28MuLofDOmRLJ.jpg",
   "release_date": "2022-05-13",
   "title": "The Quiet Girl",
   "video": false,
-  "vote_average": 7.58,
-  "vote_count": 131
+  "vote_average": 7.597,
+  "vote_count": 134
 }

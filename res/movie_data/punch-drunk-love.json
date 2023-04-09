@@ -1,21 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/eGkIBknnCpmssrrt4CjRPhHZfLK.jpg",
-  "genre_ids": [
-    18,
-    35,
-    53,
-    10749
-  ],
   "id": 8051,
   "original_language": "en",
   "original_title": "Punch-Drunk Love",
   "overview": "A socially awkward and volatile small business owner meets the love of his life after being threatened by a gang of scammers.",
-  "popularity": 13.679,
+  "popularity": 17.342,
   "poster_path": "/ni98pJPeHlfaxWQ3XUD0Bm4r9mb.jpg",
   "release_date": "2002-10-25",
   "title": "Punch-Drunk Love",
   "video": false,
-  "vote_average": 7.128,
-  "vote_count": 1962
+  "vote_average": 7.134,
+  "vote_count": 1969
 }

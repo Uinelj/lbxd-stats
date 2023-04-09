@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/czRXzKy5YcvoVhRUb8RQsFHUDi1.jpg",
-  "genre_ids": [
-    27,
-    53
-  ],
   "id": 424139,
   "original_language": "en",
   "original_title": "Halloween",
   "overview": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
-  "popularity": 32.014,
+  "popularity": 43.921,
   "poster_path": "/wgmniaoxuRfA7waV4wpC7zLPEgX.jpg",
   "release_date": "2018-10-18",
   "title": "Halloween",
   "video": false,
-  "vote_average": 6.544,
-  "vote_count": 4193
+  "vote_average": 6.545,
+  "vote_count": 4201
 }

@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/sqdsuvy8X6Maila4IAc7deMtPAA.jpg",
-  "genre_ids": [
-    27,
-    878
-  ],
   "id": 819876,
   "original_language": "en",
   "original_title": "Crimes of the Future",
   "overview": "With his partner Caprice, celebrity performance artist Saul Tenser publicly showcases the metamorphosis of his organs in avant-garde performances. Timlin, an investigator from the National Organ Registry, obsessively tracks their movements, which is when a mysterious group is revealed... Their mission -- to use Saul's notoriety to shed light on the next phase of human evolution.",
-  "popularity": 30.628,
+  "popularity": 26.175,
   "poster_path": "/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
   "release_date": "2022-05-25",
   "title": "Crimes of the Future",
   "video": false,
-  "vote_average": 6.302,
-  "vote_count": 731
+  "vote_average": 6.292,
+  "vote_count": 738
 }

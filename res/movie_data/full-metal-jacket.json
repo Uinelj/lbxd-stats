@@ -1,19 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/yozBWKbyeXtPGN75PlHurOaVvEz.jpg",
-  "genre_ids": [
-    18,
-    10752
-  ],
   "id": 600,
   "original_language": "en",
   "original_title": "Full Metal Jacket",
   "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
-  "popularity": 38.899,
+  "popularity": 42.119,
   "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
   "release_date": "1987-06-26",
   "title": "Full Metal Jacket",
   "video": false,
   "vote_average": 8.142,
-  "vote_count": 9271
+  "vote_count": 9292
 }

@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/4js6A53tpvUbCEcUsKwuetRnVGb.jpg",
-  "genre_ids": [
-    9648,
-    18,
-    53
-  ],
   "id": 682507,
   "original_language": "en",
   "original_title": "Where the Crawdads Sing",
   "overview": "Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.",
-  "popularity": 41.012,
-  "poster_path": "/6h5OCqRnWH7Dcm4IeP4JypBdtuI.jpg",
+  "popularity": 47.338,
+  "poster_path": "/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
   "release_date": "2022-07-15",
   "title": "Where the Crawdads Sing",
   "video": false,
-  "vote_average": 7.6,
-  "vote_count": 977
+  "vote_average": 7.615,
+  "vote_count": 992
 }

@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/shqLeIkqPAAXM8iT6wVDiXUYz1p.jpg",
-  "genre_ids": [
-    16,
-    14,
-    10751
-  ],
   "id": 12429,
   "original_language": "ja",
   "original_title": "\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7",
-  "overview": "The son of a sailor, 5-year-old Sosuke, lives a quiet life on an oceanside cliff with his mother Lisa. One fateful day, he finds a beautiful goldfish trapped in a bottle on the beach and upon rescuing her, names her Ponyo. But she is no ordinary goldfish.",
-  "popularity": 59.846,
+  "overview": "From the legendary Studio Ghibli, creators of Spirited Away and My Neighbor Totoro, and Academy Award\u00ae-winning director Hayao Miyazaki, comes a heartwarming adventure. When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.",
+  "popularity": 78.815,
   "poster_path": "/yp8vEZflGynlEylxEesbYasc06i.jpg",
   "release_date": "2008-07-19",
   "title": "Ponyo",
   "video": false,
-  "vote_average": 7.7,
-  "vote_count": 3556
+  "vote_average": 7.736,
+  "vote_count": 3560
 }

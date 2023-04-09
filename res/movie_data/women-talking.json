@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/hUtrCoGrlo3o8juAI1ZzA7F1LX9.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 777245,
   "original_language": "en",
   "original_title": "Women Talking",
   "overview": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
-  "popularity": 39.545,
+  "popularity": 40.394,
   "poster_path": "/twUbb6Irktv0VEsJXQWJ3VKyxFX.jpg",
   "release_date": "2022-12-23",
   "title": "Women Talking",
   "video": false,
-  "vote_average": 7.0,
-  "vote_count": 248
+  "vote_average": 6.998,
+  "vote_count": 259
 }

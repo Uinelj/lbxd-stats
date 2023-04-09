@@ -1,20 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/fh7aM10THQzivGU7kAkgKrgzot4.jpg",
-  "genre_ids": [
-    12,
-    14,
-    35
-  ],
   "id": 493529,
   "original_language": "en",
   "original_title": "Dungeons & Dragons: Honor Among Thieves",
   "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
-  "popularity": 578.927,
+  "popularity": 526.164,
   "poster_path": "/6LuXaihVIoJ5FeSiFb7CZMtU7du.jpg",
   "release_date": "2023-03-23",
   "title": "Dungeons & Dragons: Honor Among Thieves",
   "video": false,
-  "vote_average": 7.547,
-  "vote_count": 96
+  "vote_average": 7.564,
+  "vote_count": 267
 }

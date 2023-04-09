@@ -1,18 +1,15 @@
 {
   "adult": false,
   "backdrop_path": "/9LSsSPbP715XT9B7acIZzantPyX.jpg",
-  "genre_ids": [
-    18
-  ],
   "id": 73,
   "original_language": "en",
   "original_title": "American History X",
   "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
-  "popularity": 27.562,
+  "popularity": 34.035,
   "poster_path": "/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
   "release_date": "1998-07-01",
   "title": "American History X",
   "video": false,
-  "vote_average": 8.358,
-  "vote_count": 10281
+  "vote_average": 8.357,
+  "vote_count": 10301
 }
