@@ -2,11 +2,30 @@ from tmdbv3api import Movie
 from pathlib import Path
 import json
 from watchlist import Watchlist
+from scraper import tmdb_id
 import os
 import logging
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
+
+
+KEYS_TO_KEEP = [
+    "adult",
+    "backdrop_path",
+    "genre_ids",
+    "id",
+    "original_language",
+    "original_title",
+    "overview",
+    "popularity",
+    "poster_path",
+    "release_date",
+    "title",
+    "video",
+    "vote_average",
+    "vote_count",
+]
 
 
 class MovieNotFound(Exception):
@@ -45,6 +64,13 @@ class MovieInfo:
         log.info(f"results for movie {movieid}: {results}")
         return results[0]
 
+    def details(self, tmdb_id):
+        """
+        get data from tmdb id
+        """
+        results = self.movie.details(tmdb_id)
+        return results
+
     def get_update(self, movieid):
         """
         get from db OR call refresh()
@@ -59,30 +85,14 @@ class MovieInfo:
         """
         refresh a movie
         """
-        log.info(f"refreshing {movie}")
-        movie_rm_spaces = movie.replace("-", " ")
-        movie_tmdb = self.movie.search(movie_rm_spaces)
 
-        # if no results
-        if len(movie_tmdb) == 0:
-            # try with potential date removed
-            movie_date_removed = _remove_date(movie_rm_spaces)
-            log.info(f"removed date : {movie_rm_spaces} to {movie_date_removed}")
-            # don't bother trying if no date is met
-            if movie_date_removed != movie_rm_spaces:
-                movie_tmdb = self.movie.search(movie_date_removed)
-
-            # if we still have no results
-            # (or still haven't updated movie_tmdb value), raise
-            if len(movie_tmdb) == 0:
-                raise MovieNotFound
-
-        # else, write
-        log.debug(f"{movie}, {movie_tmdb[0].title}, {movie_tmdb[0].id}")
+        _id = tmdb_id(movie)
+        details = self.details(_id)
+        details = {k: v for k, v in details.items() if k in KEYS_TO_KEEP}
         with open(self.data_dir / f"{movie}.json", "w") as f:
-            json.dump(dict(movie_tmdb[0]), f, indent=2)
+            json.dump(details, f, indent=2)
 
-        return movie_tmdb[0]
+        return details
 
     def refresh_all(self, wl_path):
         """
@@ -100,6 +110,3 @@ class MovieInfo:
                 fails.append(movie)
         if len(fails) != 0:
             log.error(f"Following movies failed: {fails}")
-
-
-mi = MovieInfo()

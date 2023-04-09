@@ -3,10 +3,24 @@ from enum import Enum
 from bs4 import BeautifulSoup
 from datetime import datetime
 import logging
+from urllib.parse import urlparse
 
 log = logging.getLogger(__name__)
 
-LBXD_BASEURL = "https://letterboxd.com/csi/film/{movie}/rating-histogram/"
+LBXD_RATING_BASEURL = "https://letterboxd.com/csi/film/{movie}/rating-histogram/"
+LBXD_BASEURL = "https://letterboxd.com/film/{movie}/"
+
+
+def tmdb_id(movie):
+    url = LBXD_BASEURL.format(movie=movie)
+    resp = requests.get(url).text
+    soup = BeautifulSoup(resp, "html.parser")
+    for link in soup.select("a.micro-button"):
+        if link.get("data-track-action") == "TMDb":
+            path = urlparse(link.get("href")).path
+            _id = int(path.split("/")[-2])  # get last component
+            return _id
+    return None
 
 
 def score(movie):
@@ -19,7 +33,7 @@ def score(movie):
     log.info(f"Getting score for {movie}")
 
     # get page
-    url = LBXD_BASEURL.format(movie=movie)
+    url = LBXD_RATING_BASEURL.format(movie=movie)
     resp = requests.get(url).text
     soup = BeautifulSoup(resp, "html.parser")
 
