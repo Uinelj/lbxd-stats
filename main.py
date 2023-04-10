@@ -1,4 +1,5 @@
 from scraper import popular_movies, score, PopularPeriod, popular_movies_v2
+import gen_report
 from movie_info import MovieInfo, MovieNotFound
 import front
 import logging
@@ -121,3 +122,6 @@ if __name__ == "__main__":
 
     # gen graph info
     front.gen_graph_info(updated_movies)
+
+    # gen report
+    gen_report.gen_report()

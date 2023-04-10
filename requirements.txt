@@ -6,3 +6,4 @@ plotly
 pyarrow
 statsmodels
 tmdbv3api
+ydata_profiling
