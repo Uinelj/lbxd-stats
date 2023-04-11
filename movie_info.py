@@ -5,6 +5,7 @@ from watchlist import Watchlist
 from scraper import tmdb_id
 import os
 import logging
+from tmdbv3api.exceptions import TMDbException
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
@@ -68,8 +69,12 @@ class MovieInfo:
         """
         get data from tmdb id
         """
-        results = self.movie.details(tmdb_id)
-        return results
+        try:
+            results = self.movie.details(tmdb_id)
+            return results
+        except TMDbException:
+            log.error("Movie info not found for id: {}")
+            return None
 
     def get_update(self, movieid):
         """
@@ -88,11 +93,14 @@ class MovieInfo:
 
         _id = tmdb_id(movie)
         details = self.details(_id)
-        details = {k: v for k, v in details.items() if k in KEYS_TO_KEEP}
-        with open(self.data_dir / f"{movie}.json", "w") as f:
-            json.dump(details, f, indent=2)
+        if details is not None:
+            details = {k: v for k, v in details.items() if k in KEYS_TO_KEEP}
+            with open(self.data_dir / f"{movie}.json", "w") as f:
+                json.dump(details, f, indent=2)
 
-        return details
+            return details
+        else:
+            raise MovieNotFound
 
     def refresh_all(self, wl_path):
         """
