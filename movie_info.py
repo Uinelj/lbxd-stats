@@ -100,7 +100,7 @@ class MovieInfo:
 
             return details
         else:
-            raise MovieNotFound
+            log.error(f"Movie info not found for {movie}")
 
     def refresh_all(self, wl_path):
         """
