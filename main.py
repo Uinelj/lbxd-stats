@@ -105,7 +105,8 @@ if __name__ == "__main__":
     def getid(movie):
         try:
             movie_title = mi.get_update(movie)["title"]
-        except MovieNotFound:
+        except (MovieNotFound, TypeError) as e:
+            log.error(e)
             movie_title = movie
         return (movie, movie_title)
 
