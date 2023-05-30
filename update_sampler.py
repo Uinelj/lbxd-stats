@@ -86,8 +86,9 @@ class UpdateSampler:
                 return 0
 
         op = pl.element().rolling_apply(sum_changes, self.history_len).sum()
+        # print(self.df.with_columns(pl.col("measures")))
         self.df = self.df.with_columns(
-            pl.col("measures").arr.eval(op, parallel=True).alias("note_change")
+            pl.col("measures").list.eval(op, parallel=True).alias("note_change")
         )
 
     def _compute_days_since_release(self):
@@ -109,7 +110,14 @@ class UpdateSampler:
 
     def _compute_note_variability(self):
         self.df = self.df.with_columns(
-            [(pl.col("note_change").arr.get(-1).fill_null(0).alias("note_variability"))]
+            [
+                (
+                    pl.col("note_change")
+                    .list.get(-1)
+                    .fill_null(0)
+                    .alias("note_variability")
+                )
+            ]
         )
 
     def _normalize_metrics(self):
