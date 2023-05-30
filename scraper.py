@@ -140,4 +140,60 @@ def popular_movies_v2(period: PopularPeriod, page: int = 1):
     return movies
 
 
-print(popular_movies_v2(PopularPeriod.Year))
+def parse_list_page(list_url: str):
+    r = requests.get(list_url)
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    for movie in soup.select_one(".poster-list").findAll("div"):
+        movieid = movie["data-film-slug"][
+            6:-1
+        ]  # move from /film/bienvenue/ to bienvenue
+        yield movieid
+
+
+def get_last_page_number(list_url: str):
+    r = requests.get(list_url)
+    soup = BeautifulSoup(r.text, "html.parser")
+    # get last item in pagination links
+    try:
+        last = (
+            soup.select_one(".paginate-pages > ul:nth-child(1)")
+            .findAll("a")[-1]
+            .get_text()
+        )
+    except AttributeError as e:
+        log.info(f"list {list_url} probably has no pagination.")
+        log.debug(e)
+        last = 1
+
+    print(last)
+    return int(last)
+
+
+def parse_list(list_url: str, page_start=None, page_end=None):
+    """
+    Gets movies from list
+    """
+    log.info(f"Getting movies from list at {list_url}")
+    movies = list()
+    current_page = page_start if page_start is not None else 1
+
+    if page_end is None:
+        # get max page
+        page_end = get_last_page_number(list_url)
+
+    log.info(f"Getting list {list_url} (pages {page_start}->{page_end})")
+    for page_number in range(current_page, page_end + 1):
+        list_page_url = list_url + f"/page/{page_number}"
+        print(list_page_url)
+        movies.extend(parse_list_page(list_page_url))
+    return movies
+
+
+if __name__ == "__main__":
+    # testing on regular lists
+    print(parse_list("https://letterboxd.com/ujj/list/top-2022/"))
+    # testing on watchlist
+    print(parse_list("https://letterboxd.com/ujj/watchlist/"))
+    # testing on film lists
+    print(parse_list("https://letterboxd.com/ujj/films/"))
