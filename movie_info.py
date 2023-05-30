@@ -72,8 +72,9 @@ class MovieInfo:
         try:
             results = self.movie.details(tmdb_id)
             return results
-        except TMDbException:
-            log.error("Movie info not found for id: {}")
+        except TMDbException as e :
+            log.error(f"Movie info not found for id: {tmdb_id}")
+            log.error(e)
             return None
 
     def get_update(self, movieid):
