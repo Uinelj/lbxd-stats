@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "hovertemplate": "x=%{x}<br>y=%{y}<br>text=%{text}<extra></extra>",
+      "hovertemplate": "x=%{x}\u003cbr\u003ey=%{y}\u003cbr\u003etext=%{text}\u003cextra\u003e\u003c\u002fextra\u003e",
       "legendgroup": "",
       "line": {
         "color": "#636efa",
@@ -10,7 +10,7 @@
       "marker": {
         "symbol": "circle"
       },
-      "mode": "lines+text+markers",
+      "mode": "text+markers+lines",
       "name": "",
       "orientation": "v",
       "showlegend": false,
@@ -25,7 +25,8 @@
         4.0,
         4.0,
         4.0,
-        4.0
+        4.0,
+        4.06
       ],
       "x": [
         "2023-03-19T19:32:14.950026",
@@ -38,7 +39,8 @@
         "2023-05-13T01:22:44.822955",
         "2023-05-21T12:31:09.034408",
         "2023-05-22T01:37:03.367226",
-        "2023-06-02T01:49:35.503119"
+        "2023-06-02T01:49:35.503119",
+        "2023-06-20T12:36:25.284523"
       ],
       "xaxis": "x",
       "y": [
@@ -52,7 +54,8 @@
         4.0,
         4.0,
         4.0,
-        4.0
+        4.0,
+        4.06
       ],
       "yaxis": "y",
       "type": "scatter",
