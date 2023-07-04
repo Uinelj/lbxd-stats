@@ -15,17 +15,14 @@
       "orientation": "v",
       "showlegend": false,
       "text": [
-        3.41,
-        3.3
+        2.47
       ],
       "x": [
-        "2023-06-19T01:42:12.726315",
-        "2023-07-04T12:41:24.345094"
+        "2023-07-04T12:41:17.655454"
       ],
       "xaxis": "x",
       "y": [
-        3.41,
-        3.3
+        2.47
       ],
       "yaxis": "y",
       "type": "scatter",
@@ -873,7 +870,7 @@
       "tracegroupgap": 0
     },
     "title": {
-      "text": "black-mirror-demon-79"
+      "text": "run-rabbit-run-2023"
     }
   }
 }
