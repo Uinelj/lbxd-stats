@@ -139,6 +139,18 @@ def popular_movies_v2(period: PopularPeriod, page: int = 1):
         movies.append(movieid)
     return movies
 
+def popular_movies_v3(period: PopularPeriod, page: int = 1):
+    """get popular movies from the popular page"""
+    log.info(f"Getting popular movies for {period.value} (page {page})")
+    url = f"https://letterboxd.com/films/ajax/popular/{period.value}/page/{page}"
+    r = requests.get(url)
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    movies = list()
+    for movie in soup.select_one(".poster-list").findAll("div"):
+        movieid = movie["data-film-slug"]
+        movies.append(movieid)
+    return movies
 
 def parse_list_page(list_url: str):
     r = requests.get(list_url)

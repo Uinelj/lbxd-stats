@@ -1,4 +1,4 @@
-from scraper import popular_movies, score, PopularPeriod, popular_movies_v2
+from scraper import popular_movies, score, PopularPeriod, popular_movies_v3
 import gen_report
 from movie_info import MovieInfo, MovieNotFound
 import front
@@ -69,11 +69,12 @@ if __name__ == "__main__":
 
     # get popular movies
     pop_movies = popular_movies()
-    pop_movies.extend(popular_movies_v2(PopularPeriod.Week))
-    pop_movies.extend(popular_movies_v2(PopularPeriod.Month))
-    pop_movies.extend(popular_movies_v2(PopularPeriod.Year))
-    pop_movies.extend(popular_movies_v2(PopularPeriod.AllTime))
+    pop_movies.extend(popular_movies_v3(PopularPeriod.Week))
+    pop_movies.extend(popular_movies_v3(PopularPeriod.Month))
+    pop_movies.extend(popular_movies_v3(PopularPeriod.Year))
+    pop_movies.extend(popular_movies_v3(PopularPeriod.AllTime))
 
+    print(f"got popular movies {pop_movies}")
     # convert to set to remove duplicates
     pop_movies = set(pop_movies)
     # TODO: ensure that new movies were not yet present
