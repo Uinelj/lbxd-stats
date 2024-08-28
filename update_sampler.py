@@ -129,27 +129,21 @@ class UpdateSampler:
                         pl.col("days_since_release").max()
                         - pl.col("days_since_release").min()
                     )
-                ).alias(
-                    "dsr_norm"
-                ),  # days since release metric
+                ).alias("dsr_norm"),  # days since release metric
                 (
                     (pl.col("days_since_update") - pl.col("days_since_update").min())
                     / (
                         pl.col("days_since_update").max()
                         - pl.col("days_since_update").min()
                     )
-                ).alias(
-                    "dsu_norm"
-                ),  # days since update metric
+                ).alias("dsu_norm"),  # days since update metric
                 (
                     (pl.col("note_variability") - pl.col("note_variability").min())
                     / (
                         pl.col("note_variability").max()
                         - pl.col("note_variability").min()
                     )
-                ).alias(
-                    "note_var_norm"
-                ),  # days since update metric
+                ).alias("note_var_norm"),  # days since update metric
             ]
         )
 
