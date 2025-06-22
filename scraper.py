@@ -45,7 +45,7 @@ def score(movie):
         avg_str = soup.select_one(".display-rating")
         if avg_str is None:
             return None
-        avg_str = avg_str["title"]
+        avg_str = avg_str["data-original-title"]
         # clean string to extract rating/count
         metrics = clean_str(avg_str, now)
         metrics["movie"] = movie
@@ -61,7 +61,8 @@ def score(movie):
 
         return metrics
 
-    except AttributeError:
+    except AttributeError as e:
+        log.warn(e)
         # prolly no rating
         return None
 
