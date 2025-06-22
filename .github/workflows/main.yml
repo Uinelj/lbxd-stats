@@ -14,16 +14,16 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-python@v4
-      with:
-       python-version: '3.12'
-       cache: 'pip' # caching pip dependencies
-    - run: pip install -r requirements.lock
-    - name: Launch script
-      env:
-        TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-      run: |
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+          cache: "pip" # caching pip dependencies
+      - run: pip install -r requirements.txt
+      - name: Launch script
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
           python main.py
           git config user.name github-actions
           git config user.email github-actions@github.com
