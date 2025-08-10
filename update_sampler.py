@@ -20,7 +20,7 @@ class UpdateSampler:
         graph_path: str = "res/graph_data/",
         info_path: str = "res/movie_data/",
         note_history_len=2,
-        nb_movies: int = None,
+        nb_movies: int | None = None,
     ):
         self.graph_path = graph_path
         self.info_path = info_path
@@ -63,7 +63,8 @@ class UpdateSampler:
 
             movies.append(moviedata)
         df = pl.DataFrame(movies)
-        df = df.with_columns(pl.col("last_update").apply(datetime.fromisoformat))
+        # df = df.with_columns(pl.col("last_update").map_rows(datetime.fromisoformat))
+        df = df.with_columns(pl.col("last_update").str.to_datetime())
         df = df.with_columns(
             pl.col("release_date").str.strptime(pl.Date, "%Y-%m-%d", strict=False)
         )
@@ -85,8 +86,7 @@ class UpdateSampler:
             except IndexError:
                 return 0
 
-        op = pl.element().rolling_apply(sum_changes, self.history_len).sum()
-        # print(self.df.with_columns(pl.col("measures")))
+        op = pl.element().rolling_map(sum_changes, self.history_len).sum()
         self.df = self.df.with_columns(
             pl.col("measures").list.eval(op, parallel=True).alias("note_change")
         )
@@ -99,13 +99,13 @@ class UpdateSampler:
 
         now = datetime.now()
         self.df = self.df.with_columns(
-            (now - pl.col("release_date")).dt.days().alias("days_since_release")
+            (now - pl.col("release_date")).dt.total_days().alias("days_since_release")
         )
 
     def _compute_days_since_update(self):
         now = datetime.now()
         self.df = self.df.with_columns(
-            ((now - pl.col("last_update")).dt.days()).alias("days_since_update")
+            ((now - pl.col("last_update")).dt.total_days()).alias("days_since_update")
         )
 
     def _compute_note_variability(self):
@@ -201,8 +201,3 @@ class UpdateSampler:
         self._normalize_metrics()
         self._compute_heuristic()
         return self.sample(nb_samples)
-
-
-if __name__ == "__main__":
-    us = UpdateSampler(nb_movies=10)
-    print(us.run())

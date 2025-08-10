@@ -21,7 +21,7 @@ def movie_iter(measures_path):
 def gen_graph_info(updated_movies):
     df = pl.scan_ndjson(MEASURES)
 
-    df = df.with_columns(pl.col("timestamp").apply(lambda x: datetime.fromisoformat(x)))
+    df = df.with_columns(pl.col("timestamp").map_elements(lambda x: datetime.fromisoformat(x)))
 
     print(df.with_columns(pl.col("movie")).collect())
     # ignore movies that haven't been updated
