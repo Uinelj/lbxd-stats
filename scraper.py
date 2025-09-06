@@ -146,10 +146,12 @@ def popular_movies_v3(period: PopularPeriod, page: int = 1):
     log.info(f"Getting popular movies for {period.value} (page {page})")
     url = f"https://letterboxd.com/films/ajax/popular/{period.value}/page/{page}"
     r = requests.get(url)
+    r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
 
     movies = list()
-    for movie in soup.select_one(".poster-list").findAll("div"):
+    for movie in soup.select_one(".poster-list").findAll("ul"):
+        print(set(movie.keys()))
         movieid = movie["data-film-slug"]
         movies.append(movieid)
     return movies
