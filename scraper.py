@@ -150,9 +150,14 @@ def popular_movies_v3(period: PopularPeriod, page: int = 1):
     soup = BeautifulSoup(r.text, "html.parser")
 
     movies = list()
-    for movie in soup.select_one(".poster-list").findAll("ul"):
-        print(set(movie.keys()))
-        movieid = movie["data-film-slug"]
+
+    for li in soup.find_all("li", class_="posteritem"):
+        # Get score
+        score = li.get("data-average-rating")
+
+        # Get film data from the inner div
+        div = li.find("div", class_="react-component")
+        movieid = div.attrs["data-item-slug"]
         movies.append(movieid)
     return movies
 
