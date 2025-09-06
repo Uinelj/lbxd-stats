@@ -31,7 +31,7 @@ def gen_graph_info(updated_movies):
     # go form one rating per row to one movie
     # per row (aggregating scores, timestamps and counts)
     by_movie = (
-        df.groupby(pl.col("movie")).agg(
+        df.group_by(pl.col("movie")).agg(
             [pl.col("rating"), pl.col("timestamp"), pl.col("count")]
         )
     ).collect()

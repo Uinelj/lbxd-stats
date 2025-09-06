@@ -68,7 +68,8 @@ if __name__ == "__main__":
     updated_movies = []
 
     # get popular movies
-    pop_movies = popular_movies()
+    # pop_movies = popular_movies()
+    pop_movies = []
     pop_movies.extend(popular_movies_v3(PopularPeriod.Week))
     pop_movies.extend(popular_movies_v3(PopularPeriod.Month))
     # pop_movies.extend(popular_movies_v3(PopularPeriod.Year))
@@ -126,4 +127,4 @@ if __name__ == "__main__":
     front.gen_graph_info(updated_movies)
 
     # gen report
-    gen_report.gen_report()
+    # gen_report.gen_report()
