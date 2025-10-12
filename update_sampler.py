@@ -36,6 +36,7 @@ class UpdateSampler:
         for graphdata in graphlist:
             moviedata = {}
             graphdata = Path(graphdata)
+
             if " " in graphdata.stem:
                 # print(f"skipping {movie.stem}")
                 continue
@@ -46,8 +47,12 @@ class UpdateSampler:
                     measures = json.load(f)
 
                     # ordered from earliest to latest
-                    last_measures = measures["data"][0]["y"][-5:]
-                    last_update = measures["data"][0]["x"][-1]
+                    try:
+                        last_measures = measures["data"][0]["y"][-5:]
+                        last_update = measures["data"][0]["x"][-1]
+                    except KeyError:
+                        print(f"failed movie {graphdata.stem}")
+                        continue
                     moviedata["measures"] = last_measures
                     moviedata["last_update"] = last_update
             except FileNotFoundError:
@@ -59,6 +64,7 @@ class UpdateSampler:
                     movieinfo = json.load(f)
                     moviedata["release_date"] = movieinfo["release_date"]
             except FileNotFoundError:
+                pass
                 print(f"no movie info for {graphdata.stem}")
 
             movies.append(moviedata)
