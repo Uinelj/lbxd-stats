@@ -188,7 +188,7 @@ class UpdateSampler:
         if nb_samples is None:
             nb_samples = self.nb_movies
         to_update = list(
-            choice(results["id"], p=results["h_prob"], size=nb_samples, replace=False)
+            choice(results["id"], p=results["h_prob"], size=nb_samples, replace=True)
         )
 
         log.info(
@@ -196,7 +196,7 @@ class UpdateSampler:
             .sort("h_prob")
             .select([pl.col("id"), pl.col("h"), pl.col("h_prob")])
         )
-        return to_update
+        return list(set(to_update))
 
     def run(self, nb_samples):
         self._build_df()
