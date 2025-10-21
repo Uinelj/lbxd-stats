@@ -14,28 +14,22 @@
       "name": "",
       "orientation": "v",
       "showlegend": false,
-      "text": [
-        3.31,
-        3.14,
-        3.13,
-        3.13,
-        3.11
-      ],
+      "text": {
+        "dtype": "f8",
+        "bdata": "exSuR+F6CkAfhetRuB4JQArXo3A9CglACtejcD0KCUDhehSuR+EIQA=="
+      },
       "x": [
-        "2025-03-30T12:41:56.586859",
-        "2025-04-11T01:52:37.024317",
-        "2025-04-13T03:18:33.138404",
-        "2025-04-13T12:42:28.249982",
-        "2025-04-19T12:41:53.729696"
+        "2025-03-30T12:41:56.586859000",
+        "2025-04-11T01:52:37.024317000",
+        "2025-04-13T03:18:33.138404000",
+        "2025-04-13T12:42:28.249982000",
+        "2025-04-19T12:41:53.729696000"
       ],
       "xaxis": "x",
-      "y": [
-        3.31,
-        3.14,
-        3.13,
-        3.13,
-        3.11
-      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "exSuR+F6CkAfhetRuB4JQArXo3A9CglACtejcD0KCUDhehSuR+EIQA=="
+      },
       "yaxis": "y",
       "type": "scatter",
       "textposition": "bottom right"
@@ -158,57 +152,6 @@
         "heatmap": [
           {
             "type": "heatmap",
-            "colorbar": {
-              "outlinewidth": 0,
-              "ticks": ""
-            },
-            "colorscale": [
-              [
-                0.0,
-                "#0d0887"
-              ],
-              [
-                0.1111111111111111,
-                "#46039f"
-              ],
-              [
-                0.2222222222222222,
-                "#7201a8"
-              ],
-              [
-                0.3333333333333333,
-                "#9c179e"
-              ],
-              [
-                0.4444444444444444,
-                "#bd3786"
-              ],
-              [
-                0.5555555555555556,
-                "#d8576b"
-              ],
-              [
-                0.6666666666666666,
-                "#ed7953"
-              ],
-              [
-                0.7777777777777778,
-                "#fb9f3a"
-              ],
-              [
-                0.8888888888888888,
-                "#fdca26"
-              ],
-              [
-                1.0,
-                "#f0f921"
-              ]
-            ]
-          }
-        ],
-        "heatmapgl": [
-          {
-            "type": "heatmapgl",
             "colorbar": {
               "outlinewidth": 0,
               "ticks": ""
@@ -485,6 +428,17 @@
                 "ticks": ""
               }
             },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattermap": [
+          {
+            "type": "scattermap",
             "marker": {
               "colorbar": {
                 "outlinewidth": 0,
