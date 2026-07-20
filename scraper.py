@@ -13,6 +13,7 @@ log = logging.getLogger(__name__)
 
 LBXD_RATING_BASEURL = "https://letterboxd.com/csi/film/{movie}/rating-histogram/"
 LBXD_BASEURL = "https://letterboxd.com/film/{movie}/"
+LBXD_HOMEPAGE = "https://letterboxd.com/"
 
 # Letterboxd/Cloudflare now reject requests that look like bots: the default
 # `python-requests` User-Agent is met with a "Just a moment..." 403 challenge
@@ -265,6 +266,37 @@ def popular_movies_v3(period: PopularPeriod, page: int = 1):
         # leading /film/ just in case the markup changes again.
         slug = div["data-item-slug"].strip("/").split("/")[-1]
         if slug:
+            movies.append(slug)
+    return movies
+
+
+def popular_movies_homepage():
+    """Scrape film slugs from the Letterboxd home page.
+
+    The home page is served without a Cloudflare challenge (unlike the
+    /csi/films/films-browser-list/popular fragment), so it is a reliable way to
+    keep ingesting new films even when the popular-listing ajax endpoint is
+    blocked. See https://github.com/Uinelj/letttermcp for the same technique.
+    """
+    log.info("Getting popular movies from the home page")
+    try:
+        resp = _get(LBXD_HOMEPAGE)
+        resp.raise_for_status()
+    except (LetterboxdError, requests.HTTPError) as e:
+        log.warning(f"could not fetch home page: {e}")
+        return []
+    soup = BeautifulSoup(resp.text, "html.parser")
+    movies = []
+    seen = set()
+    for el in soup.find_all(attrs={"data-item-slug": True}):
+        # Only keep actual films (skip lists / people): the poster link must
+        # point to /film/<slug>/.
+        link = el.get("data-target-link") or el.get("data-item-link") or ""
+        if "/film/" not in link:
+            continue
+        slug = el["data-item-slug"].strip("/").split("/")[-1]
+        if slug and slug not in seen:
+            seen.add(slug)
             movies.append(slug)
     return movies
 

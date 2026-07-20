@@ -1,4 +1,10 @@
-from scraper import popular_movies, score, PopularPeriod, popular_movies_v3
+from scraper import (
+    popular_movies,
+    score,
+    PopularPeriod,
+    popular_movies_v3,
+    popular_movies_homepage,
+)
 import gen_report
 from movie_info import MovieInfo, MovieNotFound
 import front
@@ -74,6 +80,10 @@ if __name__ == "__main__":
     pop_movies.extend(popular_movies_v3(PopularPeriod.Month))
     # pop_movies.extend(popular_movies_v3(PopularPeriod.Year))
     pop_movies.extend(popular_movies_v3(PopularPeriod.AllTime))
+    # The popular-listing ajax endpoint above is frequently Cloudflare-challenged
+    # from CI; the home page is served without a challenge, so it reliably
+    # keeps feeding new films to the watchlist.
+    pop_movies.extend(popular_movies_homepage())
 
     print(f"got popular movies {pop_movies}")
     # convert to set to remove duplicates
