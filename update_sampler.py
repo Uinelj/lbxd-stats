@@ -3,6 +3,8 @@ Chooses which films to update based on some metrics
 """
 
 from typing import Optional
+import base64
+import numpy as np
 from numpy.random import choice
 import polars as pl
 from glob import glob
@@ -12,6 +14,28 @@ from datetime import datetime
 import logging
 
 log = logging.getLogger(__name__)
+
+
+def _traces_to_list(val):
+    """Normalize a plotly trace value into a Python list.
+
+    Newer versions of plotly serialize numpy/pandas-backed traces as
+    ``{"dtype": "f8", "bdata": "<base64>"}`` instead of plain JSON arrays, so
+    the historical graph_data files (which encode the rating series this way)
+    must be decoded back into a list. Older files already use plain lists.
+    """
+    if isinstance(val, dict):
+        dtype = val.get("dtype", "f8")
+        raw = val.get("bdata")
+        if raw is None:
+            return []
+        try:
+            return list(np.frombuffer(base64.b64decode(raw), dtype=np.dtype(dtype)))
+        except Exception:
+            return []
+    if isinstance(val, (list, tuple)):
+        return list(val)
+    return [val] if val is not None else []
 
 
 class UpdateSampler:
@@ -48,9 +72,11 @@ class UpdateSampler:
 
                     # ordered from earliest to latest
                     try:
-                        last_measures = measures["data"][0]["y"][-5:]
-                        last_update = measures["data"][0]["x"][-1]
-                    except KeyError:
+                        last_measures = _traces_to_list(
+                            measures["data"][0]["y"]
+                        )[-5:]
+                        last_update = _traces_to_list(measures["data"][0]["x"])[-1]
+                    except (KeyError, IndexError):
                         print(f"failed movie {graphdata.stem}")
                         continue
                     moviedata["measures"] = last_measures
@@ -164,20 +190,27 @@ class UpdateSampler:
 
         # TODO: change denom. for null values.
         #       Ex: if note_var_norm == null, then only divide by fac_dsr + fac_dsu
+        # Constant metric columns (e.g. every movie has the same note
+        # variability) make (x-min)/(max-min) evaluate to NaN; fill both null
+        # and NaN so the heuristic stays finite.
         self.df = self.df.with_columns(
             (
                 (
-                    fac_var * pl.col("note_var_norm").fill_null(0)
-                    + fac_dsr * pl.col("inv_dsr_norm").fill_null(0)
-                    + fac_dsu * pl.col("dsu_norm").fill_null(0)
+                    fac_var * pl.col("note_var_norm").fill_null(0).fill_nan(0)
+                    + fac_dsr * pl.col("inv_dsr_norm").fill_null(0).fill_nan(0)
+                    + fac_dsu * pl.col("dsu_norm").fill_null(0).fill_nan(0)
                 )
                 / (fac_var + fac_dsr + fac_dsu)
-            ).alias("h")
+            )
+            .fill_null(0)
+            .fill_nan(0)
+            .alias("h")
         )
 
-        # convert h into probability
+        # convert h into probability; fill_nan guards the all-zero h case
+        # (max==min everywhere) so h_prob never contains NaN.
         self.df = self.df.with_columns(
-            (pl.col("h") / pl.col("h").sum()).alias("h_prob")
+            (pl.col("h") / pl.col("h").sum()).fill_nan(0).alias("h_prob")
         )
 
     def sample(self, nb_samples: Optional[int] = None):
@@ -187,8 +220,19 @@ class UpdateSampler:
         results = self.df.select([pl.col("id"), pl.col("h_prob")]).to_dict()
         if nb_samples is None:
             nb_samples = self.nb_movies
+        # numpy.random.choice rejects NaN/inf probabilities, which appear when a
+        # metric column is constant for every movie. Sanitise: replace non-finite
+        # values with 0, then normalise (falling back to a uniform draw when the
+        # remainder is all zero) so a single bad row can't kill the whole run.
+        probs = np.asarray(results["h_prob"], dtype=float)
+        probs = np.where(np.isfinite(probs), probs, 0.0)
+        total = probs.sum()
+        if not np.isfinite(total) or total <= 0:
+            probs = np.full(probs.shape, 1.0 / len(probs))
+        else:
+            probs = probs / total
         to_update = list(
-            choice(results["id"], p=results["h_prob"], size=nb_samples, replace=True)
+            choice(results["id"], p=probs, size=nb_samples, replace=True)
         )
 
         log.info(
