@@ -16,15 +16,16 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "mpmZmZmZDUA="
+        "bdata": "mpmZmZmZDUCamZmZmZkLQA=="
       },
       "x": [
-        "2025-04-08T12:49:07.532841000"
+        "2025-04-08T12:49:07.532841000",
+        "2026-07-22T14:06:36.373578000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "mpmZmZmZDUA="
+        "bdata": "mpmZmZmZDUCamZmZmZkLQA=="
       },
       "yaxis": "y",
       "type": "scatter",
