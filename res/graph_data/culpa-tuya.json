@@ -16,7 +16,7 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "UrgehetRAECuR+F6FK7\u002fP8P1KFyPwv0\u002fw\u002fUoXI\u002fC\u002fT9I4XoUrkf9P1K4HoXrUfw\u002fKVyPwvUo\u002fD8AAAAAAAD8P9ejcD0K1\u002fs\u002frkfhehSu+z+F61G4HoX7P4XrUbgehfs\u002fhetRuB6F+z+F61G4HoX7P4XrUbgehfs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7PzMzMzMzM\u002fs\u002fMzMzMzMz+z9cj8L1KFz7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z8UrkfhehT+PxSuR+F6FP4\u002fFK5H4XoU\u002fj8="
+        "bdata": "UrgehetRAECuR+F6FK7\u002fP8P1KFyPwv0\u002fw\u002fUoXI\u002fC\u002fT9I4XoUrkf9P1K4HoXrUfw\u002fKVyPwvUo\u002fD8AAAAAAAD8P9ejcD0K1\u002fs\u002frkfhehSu+z+F61G4HoX7P4XrUbgehfs\u002fhetRuB6F+z+F61G4HoX7P4XrUbgehfs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7PzMzMzMzM\u002fs\u002fMzMzMzMz+z9cj8L1KFz7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z8UrkfhehT+PxSuR+F6FP4\u002fFK5H4XoU\u002fj8UrkfhehT+Pw=="
       },
       "x": [
         "2024-12-29T01:50:51.245899000",
@@ -55,12 +55,13 @@
         "2025-04-26T01:51:25.878396000",
         "2026-07-20T21:59:50.942298000",
         "2026-07-21T02:59:38.815838000",
-        "2026-07-21T10:17:14.280930000"
+        "2026-07-21T10:17:14.280930000",
+        "2026-07-24T13:54:58.205340000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "UrgehetRAECuR+F6FK7\u002fP8P1KFyPwv0\u002fw\u002fUoXI\u002fC\u002fT9I4XoUrkf9P1K4HoXrUfw\u002fKVyPwvUo\u002fD8AAAAAAAD8P9ejcD0K1\u002fs\u002frkfhehSu+z+F61G4HoX7P4XrUbgehfs\u002fhetRuB6F+z+F61G4HoX7P4XrUbgehfs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7PzMzMzMzM\u002fs\u002fMzMzMzMz+z9cj8L1KFz7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z8UrkfhehT+PxSuR+F6FP4\u002fFK5H4XoU\u002fj8="
+        "bdata": "UrgehetRAECuR+F6FK7\u002fP8P1KFyPwv0\u002fw\u002fUoXI\u002fC\u002fT9I4XoUrkf9P1K4HoXrUfw\u002fKVyPwvUo\u002fD8AAAAAAAD8P9ejcD0K1\u002fs\u002frkfhehSu+z+F61G4HoX7P4XrUbgehfs\u002fhetRuB6F+z+F61G4HoX7P4XrUbgehfs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7PzMzMzMzM\u002fs\u002fMzMzMzMz+z9cj8L1KFz7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z8UrkfhehT+PxSuR+F6FP4\u002fFK5H4XoU\u002fj8UrkfhehT+Pw=="
       },
       "yaxis": "y",
       "type": "scatter",
