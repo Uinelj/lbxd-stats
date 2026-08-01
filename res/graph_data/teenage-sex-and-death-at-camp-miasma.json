@@ -16,17 +16,18 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "MzMzMzMzD0AzMzMzMzMPQEjhehSuRw9A"
+        "bdata": "MzMzMzMzD0AzMzMzMzMPQEjhehSuRw9AXI\u002fC9ShcD0A="
       },
       "x": [
         "2026-07-21T10:17:05.910278000",
         "2026-07-22T02:57:24.907053000",
-        "2026-07-27T14:46:45.917381000"
+        "2026-07-27T14:46:45.917381000",
+        "2026-08-01T13:37:41.972430000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "MzMzMzMzD0AzMzMzMzMPQEjhehSuRw9A"
+        "bdata": "MzMzMzMzD0AzMzMzMzMPQEjhehSuRw9AXI\u002fC9ShcD0A="
       },
       "yaxis": "y",
       "type": "scatter",
