@@ -16,7 +16,7 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "PQrXo3A9\u002fj8AAAAAAAD8P9ejcD0K1\u002fs\u002frkfhehSu+z+F61G4HoX7P4XrUbgehfs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z8zMzMzMzP7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7Pz0K16NwPf4\u002fZmZmZmZm\u002fj8="
+        "bdata": "PQrXo3A9\u002fj8AAAAAAAD8P9ejcD0K1\u002fs\u002frkfhehSu+z+F61G4HoX7P4XrUbgehfs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z8zMzMzMzP7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7Pz0K16NwPf4\u002fZmZmZmZm\u002fj+PwvUoXI\u002f+Pw=="
       },
       "x": [
         "2025-01-02T01:42:04.516315000",
@@ -46,12 +46,13 @@
         "2025-04-20T02:00:07.631915000",
         "2025-04-28T12:57:46.206115000",
         "2026-07-26T03:23:53.103738000",
-        "2026-07-30T14:12:50.427005000"
+        "2026-07-30T14:12:50.427005000",
+        "2026-08-07T13:14:06.929923000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "PQrXo3A9\u002fj8AAAAAAAD8P9ejcD0K1\u002fs\u002frkfhehSu+z+F61G4HoX7P4XrUbgehfs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z8zMzMzMzP7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7Pz0K16NwPf4\u002fZmZmZmZm\u002fj8="
+        "bdata": "PQrXo3A9\u002fj8AAAAAAAD8P9ejcD0K1\u002fs\u002frkfhehSu+z+F61G4HoX7P4XrUbgehfs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z8zMzMzMzP7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7PzMzMzMzM\u002fs\u002fMzMzMzMz+z8zMzMzMzP7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7P1yPwvUoXPs\u002fXI\u002fC9Shc+z9cj8L1KFz7Pz0K16NwPf4\u002fZmZmZmZm\u002fj+PwvUoXI\u002f+Pw=="
       },
       "yaxis": "y",
       "type": "scatter",
