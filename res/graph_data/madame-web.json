@@ -16,7 +16,7 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002f16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002f16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z8="
+        "bdata": "16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002f16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002f16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3Pw=="
       },
       "x": [
         "2024-06-21T01:20:50.484079000",
@@ -85,12 +85,13 @@
         "2026-07-26T13:39:27.934254000",
         "2026-08-06T14:23:19.437365000",
         "2026-08-11T13:15:10.858372000",
-        "2026-08-14T13:16:19.401094000"
+        "2026-08-14T13:16:19.401094000",
+        "2026-08-17T01:29:03.752232000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002f16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002f16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z8="
+        "bdata": "16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002f16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002f16NwPQrX9z\u002fXo3A9Ctf3P9ejcD0K1\u002fc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P65H4XoUrvc\u002frkfhehSu9z+uR+F6FK73P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3P4XrUbgehfc\u002fhetRuB6F9z+F61G4HoX3Pw=="
       },
       "yaxis": "y",
       "type": "scatter",
