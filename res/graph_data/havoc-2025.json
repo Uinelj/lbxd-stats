@@ -16,7 +16,7 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "FK5H4XoUCEC4HoXrUbgEQLgehetRuARAzczMzMzMBEDNzMzMzMwEQM3MzMzMzARA"
+        "bdata": "FK5H4XoUCEC4HoXrUbgEQLgehetRuARAzczMzMzMBEDNzMzMzMwEQM3MzMzMzARAzczMzMzMBEA="
       },
       "x": [
         "2025-04-27T02:00:21.720775000",
@@ -24,12 +24,13 @@
         "2026-07-26T03:24:03.674735000",
         "2026-08-02T03:22:13.301239000",
         "2026-08-04T02:53:07.084429000",
-        "2026-08-05T14:19:51.618344000"
+        "2026-08-05T14:19:51.618344000",
+        "2026-09-02T16:17:23.871452000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "FK5H4XoUCEC4HoXrUbgEQLgehetRuARAzczMzMzMBEDNzMzMzMwEQM3MzMzMzARA"
+        "bdata": "FK5H4XoUCEC4HoXrUbgEQLgehetRuARAzczMzMzMBEDNzMzMzMwEQM3MzMzMzARAzczMzMzMBEA="
       },
       "yaxis": "y",
       "type": "scatter",
