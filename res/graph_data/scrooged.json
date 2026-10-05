@@ -16,7 +16,7 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "exSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkA="
+        "bdata": "exSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQA=="
       },
       "x": [
         "2024-12-26T01:42:03.420487000",
@@ -52,12 +52,13 @@
         "2026-08-17T01:29:12.973634000",
         "2026-08-30T04:35:27.717678000",
         "2026-09-14T04:10:02.202917000",
-        "2026-09-27T04:32:38.937438000"
+        "2026-09-27T04:32:38.937438000",
+        "2026-10-05T04:51:55.647787000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "exSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkA="
+        "bdata": "exSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQI\u002fC9ShcjwpAj8L1KFyPCkCPwvUoXI8KQA=="
       },
       "yaxis": "y",
       "type": "scatter",
