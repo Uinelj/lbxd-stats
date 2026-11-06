@@ -16,7 +16,7 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "cT0K16NwC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQIXrUbgehQtAhetRuB6FC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0A="
+        "bdata": "cT0K16NwC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQIXrUbgehQtAhetRuB6FC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQA=="
       },
       "x": [
         "2025-02-23T12:39:21.212624000",
@@ -58,12 +58,13 @@
         "2026-10-13T19:05:58.557991000",
         "2026-10-17T03:42:20.877322000",
         "2026-10-22T16:54:57.705264000",
-        "2026-10-25T15:50:35.661319000"
+        "2026-10-25T15:50:35.661319000",
+        "2026-11-06T05:49:20.479373000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "cT0K16NwC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQIXrUbgehQtAhetRuB6FC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0A="
+        "bdata": "cT0K16NwC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQEjhehSuRwtASOF6FK5HC0BI4XoUrkcLQIXrUbgehQtAhetRuB6FC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQJqZmZmZmQtAmpmZmZmZC0CamZmZmZkLQA=="
       },
       "yaxis": "y",
       "type": "scatter",
