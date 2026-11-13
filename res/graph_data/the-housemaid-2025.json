@@ -16,7 +16,7 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "UrgehetRCEBSuB6F61EIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghA"
+        "bdata": "UrgehetRCEBSuB6F61EIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEA="
       },
       "x": [
         "2026-07-21T10:17:00.022415000",
@@ -48,12 +48,13 @@
         "2026-10-28T18:09:01.348107000",
         "2026-10-30T17:52:25.306970000",
         "2026-11-07T17:39:43.248119000",
-        "2026-11-10T06:39:47.833337000"
+        "2026-11-10T06:39:47.833337000",
+        "2026-11-13T05:50:36.204552000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "UrgehetRCEBSuB6F61EIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghA"
+        "bdata": "UrgehetRCEBSuB6F61EIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEBmZmZmZmYIQGZmZmZmZghAZmZmZmZmCEA="
       },
       "yaxis": "y",
       "type": "scatter",
