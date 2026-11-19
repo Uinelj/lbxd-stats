@@ -16,7 +16,7 @@
       "showlegend": false,
       "text": {
         "dtype": "f8",
-        "bdata": "j8L1KFyPCkCPwvUoXI8KQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpA"
+        "bdata": "j8L1KFyPCkCPwvUoXI8KQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkA="
       },
       "x": [
         "2026-07-21T10:16:41.514668000",
@@ -51,12 +51,13 @@
         "2026-10-29T18:16:06.098989000",
         "2026-10-30T05:01:31.239799000",
         "2026-11-08T05:16:38.568809000",
-        "2026-11-09T22:07:37.480714000"
+        "2026-11-09T22:07:37.480714000",
+        "2026-11-19T06:41:07.146605000"
       ],
       "xaxis": "x",
       "y": {
         "dtype": "f8",
-        "bdata": "j8L1KFyPCkCPwvUoXI8KQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpA"
+        "bdata": "j8L1KFyPCkCPwvUoXI8KQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQHsUrkfhegpAexSuR+F6CkB7FK5H4XoKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkBmZmZmZmYKQGZmZmZmZgpAZmZmZmZmCkA="
       },
       "yaxis": "y",
       "type": "scatter",
